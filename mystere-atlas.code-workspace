@@ -1,0 +1,6 @@
+{
+  "folders": [{ "name": "Mystère Atlas · 谜图", "path": "." }],
+  "extensions": {
+    "recommendations": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"],
+  },
+}

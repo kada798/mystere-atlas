@@ -1,0 +1,43 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Mystère Atlas: full stack (F5)",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/next/dist/bin/next",
+      "args": ["dev", "--hostname", "127.0.0.1", "--port", "3000"],
+      "cwd": "${workspaceFolder}",
+      "runtimeArgs": ["--inspect"],
+      "console": "integratedTerminal",
+      "autoAttachChildProcesses": true,
+      "skipFiles": ["<node_internals>/**"],
+      "serverReadyAction": {
+        "action": "debugWithEdge",
+        "killOnServerStop": true,
+        "pattern": "- Local:.+(https?://.+)",
+        "uriFormat": "%s/zh",
+        "webRoot": "${workspaceFolder}"
+      }
+    },
+    {
+      "name": "Mystère Atlas: server only",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/next/dist/bin/next",
+      "args": ["dev", "--hostname", "127.0.0.1", "--port", "3000"],
+      "cwd": "${workspaceFolder}",
+      "runtimeArgs": ["--inspect"],
+      "console": "integratedTerminal",
+      "autoAttachChildProcesses": true,
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "name": "Mystère Atlas: browser only (server already running)",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/zh",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}

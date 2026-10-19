@@ -1,0 +1,54 @@
+{
+  "Metadata": {
+    "description": "Un lieu multilingue pour découvrir le polar, partager ses lectures et rencontrer d'autres passionnés."
+  },
+  "Navigation": {
+    "tagline": "Des œuvres, des rencontres",
+    "main": "Navigation principale",
+    "languages": "Choisir une langue",
+    "works": "Œuvres",
+    "events": "Événements",
+    "community": "Communauté",
+    "culture": "Culture"
+  },
+  "Home": {
+    "title": "Chaque indice mène à une nouvelle rencontre.",
+    "description": "Découvrez des intrigues à lire, à regarder et à vivre. Gardez vos listes et retrouvez d'autres passionnés autour d'une œuvre.",
+    "explore": "Explorer les œuvres",
+    "meet": "Découvrir les événements",
+    "status": "L'environnement de développement est prêt. Les contenus, les inscriptions, les comptes et les imports automatiques seront ajoutés progressivement.",
+    "modules": "Une œuvre pour commencer. Une conversation pour continuer.",
+    "planned": "Ouvrir le module"
+  },
+  "Modules": {
+    "works": {
+      "title": "Explorer le mystère",
+      "description": "Romans, films et séries : traductions, adaptations et listes personnelles réunies."
+    },
+    "events": {
+      "title": "Se rencontrer",
+      "description": "Trouvez un club de lecture, proposez une rencontre et rassemblez les recommandations."
+    },
+    "community": {
+      "title": "Partager ses découvertes",
+      "description": "Échangez vos avis et recommandations, avec des avertissements clairs sur les révélations."
+    },
+    "culture": {
+      "title": "La culture du polar",
+      "description": "Explorez les grandes figures, les classiques, l'histoire et les traditions du genre."
+    },
+    "pending": "Cette page constitue une base de développement. Ses fonctionnalités métier restent à réaliser. Consultez les documents MVP et architecture dans docs.",
+    "back": "Retour à l'accueil"
+  },
+  "Debug": {
+    "title": "Vérifier le débogage client et serveur",
+    "description": "Le compteur permet de tester un point d'arrêt côté client, et le contrôle serveur un point d'arrêt dans l'API. Ce panneau est réservé au développement.",
+    "counter": "Compteur client : {count}",
+    "health": "Vérifier le serveur",
+    "idle": "Pas encore vérifié",
+    "loading": "Vérification…",
+    "ok": "Le serveur répond",
+    "error": "Échec de la vérification"
+  },
+  "Footer": { "status": "Base de développement · 中文 / English / Français" }
+}

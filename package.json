@@ -1,0 +1,36 @@
+{
+  "name": "mystere-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Chinese, English and French home for mystery stories, culture and community events.",
+  "engines": {
+    "node": ">=22 <27",
+    "npm": ">=10"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "next typegen && tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "smoke": "node scripts/smoke.mjs",
+    "check": "npm run lint && npm run typecheck && npm run format:check"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "next-intl": "4.14.9",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.4.2",
+    "prettier": "^3.0.0",
+    "typescript": "^6.0.0"
+  }
+}

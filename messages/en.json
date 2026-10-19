@@ -1,0 +1,54 @@
+{
+  "Metadata": {
+    "description": "A multilingual home for mystery stories, culture, community and local events."
+  },
+  "Navigation": {
+    "tagline": "Stories bring us together",
+    "main": "Main navigation",
+    "languages": "Choose a language",
+    "works": "Works",
+    "events": "Events",
+    "community": "Community",
+    "culture": "Culture"
+  },
+  "Home": {
+    "title": "Every clue leads to a new connection.",
+    "description": "Discover mysteries to read, watch and experience. Keep your own lists, and meet fellow enthusiasts at a shared table.",
+    "explore": "Explore works",
+    "meet": "Discover events",
+    "status": "Development environment ready. This is the starting point; content, registration, accounts and automated imports will arrive in later milestones.",
+    "modules": "Start with a story. Keep the conversation going.",
+    "planned": "Open module scaffold"
+  },
+  "Modules": {
+    "works": {
+      "title": "Explore mysteries",
+      "description": "Books, films and series, connected through translations, adaptations and personal lists."
+    },
+    "events": {
+      "title": "Meet in person",
+      "description": "Discover reading groups, host a gathering and collect everyone's recommendations."
+    },
+    "community": {
+      "title": "Find your community",
+      "description": "Exchange recommendations and experiences, with clear spoiler labels protecting the discovery."
+    },
+    "culture": {
+      "title": "Mystery culture",
+      "description": "Explore influential creators, classics, history and traditions across languages."
+    },
+    "pending": "This route is ready for development. Its business features are not implemented yet. See the MVP and architecture notes in docs.",
+    "back": "Back to home"
+  },
+  "Debug": {
+    "title": "Check client and server debugging",
+    "description": "Use the counter for a client breakpoint and the health check for an API breakpoint. This panel appears only in development.",
+    "counter": "Client counter: {count}",
+    "health": "Check server",
+    "idle": "Not checked yet",
+    "loading": "Checking…",
+    "ok": "Server is responding",
+    "error": "Health check failed"
+  },
+  "Footer": { "status": "Development scaffold · 中文 / English / Français" }
+}

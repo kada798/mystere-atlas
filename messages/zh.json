@@ -1,0 +1,54 @@
+{
+  "Metadata": {
+    "description": "谜图：连接悬疑推理作品、文化、同好与线下活动的三语平台。"
+  },
+  "Navigation": {
+    "tagline": "谜图 · 作品与同好相遇",
+    "main": "主要导航",
+    "languages": "切换语言",
+    "works": "作品",
+    "events": "活动",
+    "community": "社区",
+    "culture": "推理文化"
+  },
+  "Home": {
+    "title": "每一条线索，都通向新的相遇。",
+    "description": "发现值得阅读、观看与体验的悬疑推理作品，记录自己的清单，在分享会中遇见同好。",
+    "explore": "探索作品",
+    "meet": "发现活动",
+    "status": "开发环境已就绪。这是项目起点；作品资料、报名、账号及自动采集将在后续里程碑中接入。",
+    "modules": "从作品出发，让交流继续。",
+    "planned": "进入模块骨架"
+  },
+  "Modules": {
+    "works": {
+      "title": "作品探索",
+      "description": "小说、电影与剧集，连接不同语言版本、改编和个人清单。"
+    },
+    "events": {
+      "title": "活动与相聚",
+      "description": "发现读书分享会，发起聚会，让大家的推荐汇成共同书单。"
+    },
+    "community": {
+      "title": "同好社区",
+      "description": "交换推荐与体验，通过清晰的剧透标记保护探索的乐趣。"
+    },
+    "culture": {
+      "title": "推理文化",
+      "description": "从名家与经典出发，探索悬疑推理的历史、流派和跨文化故事。"
+    },
+    "pending": "此处是可继续开发的路由入口，业务功能尚未实现。请查看 docs 中的 MVP 与架构说明。",
+    "back": "返回首页"
+  },
+  "Debug": {
+    "title": "检查前端与服务端调试",
+    "description": "计数按钮用于前端断点，服务检查用于 API 断点。此区域只在开发模式显示。",
+    "counter": "前端计数：{count}",
+    "health": "检查服务端",
+    "idle": "尚未检查",
+    "loading": "检查中…",
+    "ok": "服务端响应正常",
+    "error": "服务检查失败"
+  },
+  "Footer": { "status": "开发骨架 · 中文 / English / Français" }
+}
