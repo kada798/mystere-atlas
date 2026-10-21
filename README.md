@@ -2,7 +2,7 @@
 
 连接悬疑推理作品、文化、同好与线下活动的中英法三语平台。
 
-**迁移前的公开演示站**：[Mystère Atlas](https://mystere-atlas.yellowelm32.chatgpt.site)。独立域名部署正在改由 [GitHub Deploy website](docs/github-deploy.md) 管理；新地址须在首次托管授权、部署和验证后确认。源码仓库保持私有。
+**迁移前的公开演示站**：[Mystère Atlas](https://mystere-atlas.yellowelm32.chatgpt.site)。正在准备 [GitHub Pages 静态演示站](docs/github-deploy.md)，新网址以实际部署结果为准。当前主开发仓库保持私有。
 
 **当前支持作品资料导入与巴黎活动地图**：六类作品入口、三语筛选、详情模板、外部来源和独立同步任务已接入。真实数据保存在本机 `.data/`，账号、云数据库、个人记录和站内报名尚未实现。
 
@@ -74,7 +74,7 @@ scripts/              开发验证脚本
 
 ## Git 工作流
 
-`main` 保存可运行版本。后续功能分支使用 `codex/功能名称`，通过 PR 检查后合并。CI 负责校验；**Release** 生成版本包；独立的 **Deploy website** 使用 Vercel 发布真实网站。后两者均手动触发。首次托管授权与配置见 [网站部署](docs/github-deploy.md)，版本包操作见 [GitHub Release](docs/github-release.md)。
+`main` 保存可运行版本。后续功能分支使用 `codex/功能名称`，通过 PR 检查后合并。CI 负责校验；**Release** 生成原应用版本包；独立的 **Deploy GitHub Pages** 发布静态演示站。后两者均手动触发。部署说明见 [GitHub Pages](docs/github-deploy.md)，版本包操作见 [GitHub Release](docs/github-release.md)。
 
 ```powershell
 git switch -c codex/catalog
