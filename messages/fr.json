@@ -16,7 +16,7 @@
     "description": "Découvrez des intrigues à lire, à regarder et à vivre. Gardez vos listes et retrouvez d'autres passionnés autour d'une œuvre.",
     "explore": "Explorer les œuvres",
     "meet": "Découvrir les événements",
-    "status": "L'environnement de développement est prêt. Les contenus, les inscriptions, les comptes et les imports automatiques seront ajoutés progressivement.",
+    "status": "Version locale de développement : les œuvres et les événements parisiens utilisent des sources publiques. Comptes, listes personnelles et inscriptions restent à développer.",
     "modules": "Une œuvre pour commencer. Une conversation pour continuer.",
     "planned": "Ouvrir le module"
   },

@@ -1,0 +1,22 @@
+{
+  "title": "Sources et dernières mises à jour",
+  "connected": "{ready} / {total} sources connectées",
+  "description": "Les données importées sont distinguées des sites nécessitant une autorisation. Un lien associé ne signifie pas que les données du site ont été collectées directement.",
+  "states": {
+    "ready": "Connectée",
+    "error": "Échec de mise à jour ; données conservées",
+    "authorization": "Autorisation nécessaire",
+    "unavailable": "Pas de connexion directe",
+    "pending": "Premier import en attente"
+  },
+  "updated": "Dernier succès : {date} · {count} fiches dans ce lot",
+  "notes": {
+    "paris": "Données ouvertes officielles de Paris, filtrées par mots-clés et limitées à Paris intra-muros.",
+    "meetup": "L'API officielle exige Meetup Pro et une autorisation OAuth. Des liens de recherche sont proposés en attendant.",
+    "openlibrary": "API bibliographique publique pour les œuvres, les auteurs et les éditions vérifiables.",
+    "wikidata": "Métadonnées multilingues et identifiants externes des films, sous CC0.",
+    "imdb": "Sous-ensemble limité de titres Mystery issu des jeux de données officiels non commerciaux ; ni catalogue complet ni classement en direct.",
+    "douban": "Aucune source autorisée n'est encore connectée. Les identifiants vérifiables permettent de relier les fiches d'origine.",
+    "letterboxd": "L'accès à l'API exige une approbation. Seuls les liens reposant sur des identifiants vérifiés sont affichés pour le moment."
+  }
+}

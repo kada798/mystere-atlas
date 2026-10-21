@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 
-const sections = ['works', 'events', 'community', 'culture'] as const;
+const sections = ['community', 'culture'] as const;
 
 export function generateStaticParams() {
   return sections.map((section) => ({ section }));

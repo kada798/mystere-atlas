@@ -1,0 +1,51 @@
+{
+  "title": "Suivez les indices. Retrouvez-vous à Paris.",
+  "intro": "Des clubs de lecture aux enquêtes immersives, découvrez les événements parisiens sur la carte. Consultez l'organisateur pour les séances et les inscriptions.",
+  "parisOnly": "Zone ouverte : Paris intra-muros · 75",
+  "searchLabel": "Rechercher à Paris",
+  "searchPlaceholder": "Polar, mystère, escape game…",
+  "typeLabel": "Type d'événement",
+  "allTypes": "Tous les types",
+  "kinds": {
+    "reading": "Lecture et partage",
+    "screening": "Projections",
+    "game": "Énigmes et jeux",
+    "walk": "Découvertes urbaines",
+    "culture": "Culture et spectacles"
+  },
+  "periodLabel": "Dates",
+  "periods": {
+    "upcoming": "À venir / actuellement accessible",
+    "past": "Événements terminés",
+    "all": "Toutes les dates"
+  },
+  "languageLabel": "Langue sur place",
+  "allLanguages": "Toutes les langues",
+  "languageUnknown": "Non précisée par la source",
+  "apply": "Trouver des événements",
+  "reset": "Effacer les filtres",
+  "results": "{count, plural, one {# événement trouvé} other {# événements trouvés}}",
+  "timezone": "Dates à l'heure de Paris · Europe/Paris",
+  "mapLabel": "Carte des événements parisiens",
+  "listLabel": "Liste des événements parisiens",
+  "mapped": "{mapped} événements sur {total} disposent d'une position vérifiable.",
+  "mapLoading": "Chargement de la carte de Paris…",
+  "mapUnavailable": "Certaines ressources cartographiques sont indisponibles. La liste reste accessible pour les lieux et les inscriptions.",
+  "emptyTitle": "Aucun événement parisien ne correspond aux filtres",
+  "emptyDescription": "Essayez d'autres mots-clés, types ou dates. Aucun repère fictif ne remplace un événement absent.",
+  "dateUnknown": "Dates à confirmer sur le site d'origine",
+  "scheduleLabel": "Voir les horaires du site d'origine",
+  "spokenLanguage": "Langue sur place",
+  "prices": {
+    "free": "Gratuit",
+    "paid": "Payant",
+    "unknown": "Tarif sur le site d'origine"
+  },
+  "showOnMap": "Voir sur la carte",
+  "noCoordinates": "Coordonnées non confirmées",
+  "visitSource": "Voir les séances et s'inscrire",
+  "verified": "Récupéré le {date}",
+  "externalTitle": "Retrouvez aussi des passionnés sur Meetup.",
+  "externalDescription": "Ces liens ouvrent directement une recherche à Paris. Les événements Meetup ne sont pas encore importés automatiquement ; l'API officielle nécessite une autorisation.",
+  "attribution": "Données des événements :"
+}

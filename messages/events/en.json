@@ -1,0 +1,51 @@
+{
+  "title": "Follow the clues. Meet in Paris.",
+  "intro": "From mystery reading groups to immersive investigations, explore Paris events on the map. Check the original organizer for sessions and registration.",
+  "parisOnly": "Now open: Paris city · 75",
+  "searchLabel": "Search Paris events",
+  "searchPlaceholder": "Mystery, polar, escape game…",
+  "typeLabel": "Event type",
+  "allTypes": "All types",
+  "kinds": {
+    "reading": "Reading and sharing",
+    "screening": "Screenings",
+    "game": "Puzzles and games",
+    "walk": "City discoveries",
+    "culture": "Culture and performances"
+  },
+  "periodLabel": "Event dates",
+  "periods": {
+    "upcoming": "Upcoming / currently available",
+    "past": "Past events",
+    "all": "All dates"
+  },
+  "languageLabel": "Spoken language",
+  "allLanguages": "Any language",
+  "languageUnknown": "Not specified by the source",
+  "apply": "Find events",
+  "reset": "Clear filters",
+  "results": "{count, plural, one {# event found} other {# events found}}",
+  "timezone": "Dates shown in Paris time · Europe/Paris",
+  "mapLabel": "Paris event map",
+  "listLabel": "Paris event list",
+  "mapped": "{mapped} of {total} events have a verifiable map location.",
+  "mapLoading": "Loading the Paris map…",
+  "mapUnavailable": "Some map resources could not load. Use the event list for locations and registration.",
+  "emptyTitle": "No Paris events match these filters",
+  "emptyDescription": "Try different keywords, types or dates. Missing events are never replaced with invented map markers.",
+  "dateUnknown": "Confirm dates with the source",
+  "scheduleLabel": "View the original schedule",
+  "spokenLanguage": "Spoken language",
+  "prices": {
+    "free": "Free",
+    "paid": "Paid",
+    "unknown": "See source for price"
+  },
+  "showOnMap": "Show on map",
+  "noCoordinates": "Coordinates not confirmed",
+  "visitSource": "View sessions and registration",
+  "verified": "Retrieved {date}",
+  "externalTitle": "Find more fellow enthusiasts on Meetup.",
+  "externalDescription": "These links open Paris keyword searches directly. Meetup events are not imported automatically yet; official API access requires authorization.",
+  "attribution": "Event data:"
+}

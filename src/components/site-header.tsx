@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { Suspense } from 'react';
 import { Link } from '@/i18n/navigation';
 import { LanguageSwitcher } from './language-switcher';
 
@@ -24,7 +25,13 @@ export async function SiteHeader() {
           </Link>
         ))}
       </nav>
-      <LanguageSwitcher />
+      <Suspense
+        fallback={
+          <span className="language-switcher">中文 · English · Français</span>
+        }
+      >
+        <LanguageSwitcher />
+      </Suspense>
     </header>
   );
 }

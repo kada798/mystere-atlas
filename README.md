@@ -2,7 +2,9 @@
 
 连接悬疑推理作品、文化、同好与线下活动的中英法三语平台。
 
-**当前是开发环境与项目骨架**：三语路由、模块入口、本地调试和 CI 已配置。账号、数据库、作品记录、活动报名、论坛和自动采集尚未实现。
+**公开演示站（简历链接）**：[Mystère Atlas](https://mystere-atlas.yellowelm32.chatgpt.site)。无需登录，支持中英法；使用有日期标记的公开数据快照。源码仓库保持私有，部署与更新方法见 [部署说明](docs/deployment.md)。
+
+**当前支持作品资料导入与巴黎活动地图**：六类作品入口、三语筛选、详情模板、外部来源和独立同步任务已接入。真实数据保存在本机 `.data/`，账号、云数据库、个人记录和站内报名尚未实现。
 
 ## 快速启动
 
@@ -20,6 +22,8 @@ npm.cmd run dev
 打开 <http://127.0.0.1:3000/zh>。英文和法文入口分别为 `/en`、`/fr`。保存源码后页面自动刷新。
 
 项目无需数据库、Docker 或外部 API 密钥即可启动。之后接入服务时，将 `.env.example` 复制为 `.env.local` 并填写对应值。不要提交真实密钥。
+
+获取首批真实作品和巴黎活动：`npm.cmd run data:sync`。查看 `/zh/works` 和 `/zh/events`；`npm.cmd run data:watch` 可在本机持续运行，每 6 小时尝试更新。来源、授权边界和地图说明见 [数据接入说明](docs/data-sources.md)。
 
 ## VS Code 断点调试
 
@@ -40,6 +44,9 @@ npm.cmd run dev
 | --------------------------------- | ------------------------------------------------------ |
 | `npm run dev`                     | 启动开发服务器                                         |
 | `npm run check`                   | ESLint、TypeScript 和格式检查                          |
+| `npm test`                        | 多语言检索、版本与地区筛选等领域测试                   |
+| `npm run data:sync`               | 导入真实作品与巴黎活动，保存本地快照                   |
+| `npm run data:watch`              | 本机每 6 小时尝试更新，需保持进程运行                  |
 | `npm run format`                  | 统一格式                                               |
 | `npm run build`                   | 生产构建                                               |
 | `npm run start`                   | 运行生产构建                                           |
@@ -58,7 +65,7 @@ src/features/         业务模块扩展位置
 src/i18n/             语言路由与文案加载
 src/lib/              未来的数据库、认证和外部服务连接
 messages/             中文、英文、法文文案
-jobs/                 未来独立运行的数据采集入口
+jobs/                 独立运行的数据同步任务
 database/             未来的数据迁移与访问权限
 docs/                 产品范围、架构和开发路线
 scripts/              开发验证脚本
@@ -67,7 +74,7 @@ scripts/              开发验证脚本
 
 ## Git 工作流
 
-`main` 保存可运行版本。后续功能分支使用 `codex/功能名称`，通过 PR 检查后合并。仓库中的 CI 执行依赖安装、检查、构建和路由冒烟检查，不自动部署网站。
+`main` 保存可运行版本。后续功能分支使用 `codex/功能名称`，通过 PR 检查后合并。CI 执行依赖安装、检查、构建和路由冒烟检查。独立的 **Release** 工作流手动创建版本包与 Release 草稿，不自动更新公开演示站。操作见 [GitHub 发布流程](docs/github-release.md)。
 
 ```powershell
 git switch -c codex/catalog
@@ -87,7 +94,7 @@ git push -u origin codex/catalog
 - 用户打开页面时读取已有资料，采集任务独立运行。
 - 未接入的模块明确显示开发状态，避免模拟已可用的注册或报名。
 
-详见 [MVP 与开发计划](docs/mvp.md)、[架构说明](docs/architecture.md)。
+详见 [MVP 与开发计划](docs/mvp.md)、[架构说明](docs/architecture.md)、[作品探索及开发优先级](docs/catalog.md)。
 
 依赖告警及兼容性记录见 [依赖检查记录](docs/dependency-notes.md)。
 
@@ -96,4 +103,4 @@ git push -u origin codex/catalog
 - **3000 端口被占用**：先停止已有开发或调试会话；临时也可用 `npm.cmd run dev -- --port 3001`，并同步修改浏览器调试地址。
 - **类型或依赖报错**：在项目根目录重新运行 `npm.cmd ci`；VS Code 选择“TypeScript: Select TypeScript Version → Use Workspace Version”。
 - **修改文案后没生效**：确认地址中的语言前缀与所修改的 JSON 文件一致。
-- **登录或报名入口在哪里**：这些业务功能在后续里程碑实现；当前仅完成基础环境。
+- **登录或报名入口在哪里**：账号和站内报名在后续里程碑实现；活动报名目前跳转原站。
