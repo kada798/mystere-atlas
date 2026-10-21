@@ -12,6 +12,12 @@
 
 Supabase 是后续数据库、认证与存储的候选方案；本次没有创建云资源、连接数据库或启用真实认证。
 
+作品探索已在 `src/features/catalog` 提供类型、查询逻辑、资料读取边界和展示组件；从 `.data/snapshot.json` 读取独立任务导入的真实数据。详情路由 `/[locale]/works/[id]` 仅为真实存在的记录渲染，不存在的作品返回 404。筛选使用 URL 参数，界面切换语言保留这些参数。详见 `docs/catalog.md` 和 `docs/data-sources.md`。
+
+巴黎活动在 `src/features/events` 处理，使用服务器筛选与客户端 Leaflet 地图／列表联动。`src/features/ingestion` 负责外部来源规范化、来源状态、按确定 ID 合并和本地持久化；`jobs/sync.ts` 提供单次与循环更新入口。用户访问页面不触发采集。
+
+GitHub 的日常 CI 与手动 Release 分开。发布时选择性启用 Next.js standalone，在 Linux 上打包并测试实际运行目录；数据与密钥不进入版本包。Sites 的公开演示部署使用独立适配副本，见 `docs/github-release.md` 与 `docs/deployment.md`。
+
 ## 后续数据关系
 
 - 作品、语言名称、出版或发行版本分别保存。

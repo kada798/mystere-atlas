@@ -1,0 +1,157 @@
+{
+  "title": "作品探索",
+  "intro": "沿着小说、银幕与游戏中的线索，发现故事，也找到它们背后的人与地方。",
+  "preparing": "资料库正在建立",
+  "collectionCount": "已收录 {count} 部作品",
+  "entityNavigation": "探索内容",
+  "typeNavigation": "作品类型",
+  "views": {
+    "works": "作品",
+    "people": "人物",
+    "culture": "文化",
+    "places": "地点"
+  },
+  "allWorks": "全部作品",
+  "types": {
+    "book": "小说",
+    "film": "电影",
+    "series": "剧集",
+    "game": "推理游戏",
+    "murder-party": "剧本杀",
+    "escape-room": "密室逃脱"
+  },
+  "typeShort": {
+    "book": "作者 · 译本 · 系列",
+    "film": "导演 · 原著 · 观看渠道",
+    "series": "季集 · 播出状态 · 改编",
+    "game": "平台 · 语言 · 解谜",
+    "murder-party": "人数 · 难度 · 体验",
+    "escape-room": "城市 · 场馆 · 主题"
+  },
+  "searchTitles": {
+    "works": "找到下一部想体验的作品",
+    "people": "认识故事背后的创作者",
+    "culture": "从一部作品走进推理文化",
+    "places": "寻找故事与同好相遇的地方"
+  },
+  "searchPlaceholders": {
+    "works": "搜索作品名称、其他译名、作者或导演…",
+    "people": "搜索人物姓名、其他语言名称…",
+    "culture": "搜索专题、经典、流派或关键词…",
+    "places": "搜索图书馆、书店、场馆或城市…"
+  },
+  "searchLabel": "搜索内容",
+  "search": "搜索与筛选",
+  "contentLanguage": "资料语言",
+  "versionLanguage": "版本／体验语言",
+  "experienceLanguage": "场所服务语言",
+  "region": "国家／地区",
+  "allLanguages": "不限语言",
+  "allRegions": "不限地区",
+  "sort": "排列方式",
+  "sorts": {
+    "added": "最近收录",
+    "title": "作品名称",
+    "release": "首次发行时间"
+  },
+  "reset": "清除筛选",
+  "languageHint": "资料语言指介绍所用语言；版本／体验语言包括译本、字幕、游戏及现场语言。它们与界面语言、所在地区分别设置。",
+  "resultCount": "{count} 条结果",
+  "noMatchesTitle": "暂时没有符合条件的结果",
+  "noMatchesDescription": "试试其他名称，或放宽语言、地区与类别条件。",
+  "emptyEyebrow": "下一条线索，即将在这里相遇",
+  "emptyTitles": {
+    "works": "首批作品，等待与你相遇。",
+    "people": "创作者的故事，将从这里展开。",
+    "culture": "经典与流派，正在等待新的连接。",
+    "places": "下一次相遇，也许就在附近。"
+  },
+  "emptyDescriptions": {
+    "works": "作品资料尚未接入。你可以先探索类别和筛选方式；正式收录的作品将在这里展示。",
+    "people": "人物资料尚未接入。后续将连接作者、导演、编剧及其作品，支持多语言姓名检索。",
+    "culture": "相关专题尚未接入。后续将连接推理历史、经典导读、名家与作品。",
+    "places": "地点资料尚未接入。后续将收录图书馆、书店与体验场馆，并按城市和地区查找。"
+  },
+  "guideEyebrow": "了解你即将发现什么",
+  "fieldsTitle": "每种体验，都有值得了解的细节。",
+  "fieldsDescription": "展开类别查看关注的信息。同一作品的不同译本、发行版本和体验渠道将集中呈现。",
+  "typeDescriptions": {
+    "book": "了解原作、译本与阅读顺序，找到适合自己的版本。",
+    "film": "沿着主创与原著，寻找电影的观看渠道和改编关系。",
+    "series": "了解季集与播出状态，为接下来的观看做准备。",
+    "game": "确认平台、语言和游玩方式，寻找适合自己的推理挑战。",
+    "murder-party": "提前了解人数、难度与主题；剧本资料与具体门店体验分别记录。",
+    "escape-room": "结合城市、场馆和体验条件选择主题；密室主题与具体场地分别记录。"
+  },
+  "fields": {
+    "author": "作者",
+    "series": "系列与顺序",
+    "release": "首次出版／上映",
+    "translator": "译者与译本",
+    "pages": "篇幅",
+    "director": "导演",
+    "writer": "编剧",
+    "cast": "主要演员",
+    "duration": "时长",
+    "seasons": "季数",
+    "episodes": "集数",
+    "status": "播出状态",
+    "creator": "创作者／发行方",
+    "platforms": "发行平台",
+    "languages": "支持语言",
+    "players": "参与人数与方式",
+    "difficulty": "推理难度",
+    "themes": "主题与题材",
+    "city": "所在城市",
+    "venue": "体验场馆",
+    "fear": "恐怖程度",
+    "physical": "体力要求"
+  },
+  "connectionsEyebrow": "顺着线索，继续探索",
+  "connectionsTitle": "一个故事，可以通向更大的世界。",
+  "connections": {
+    "versions": {
+      "title": "作品与版本",
+      "description": "中英法译名与不同版本归于同一作品，帮助你找到能理解、能获取的版本。"
+    },
+    "adaptations": {
+      "title": "原作与改编",
+      "description": "小说、影视和游戏各自保留档案，改编与重拍关系连接彼此。"
+    },
+    "series": {
+      "title": "系列与单作",
+      "description": "从单部作品找到整个系列，了解顺序，逐步探索。"
+    },
+    "places": {
+      "title": "作品与场所",
+      "description": "剧本、密室主题与具体门店分开，作品体验与场馆服务各有位置。"
+    }
+  },
+  "summaryMissing": "当前界面的语言介绍暂未提供。",
+  "notFoundTitle": "未找到这部作品",
+  "notFoundDescription": "作品可能尚未收录，或链接已经变更。你可以返回作品探索继续查找。",
+  "back": "返回作品探索",
+  "unknown": "暂未提供",
+  "unofficialTitle": "非正式译名",
+  "relationKinds": {
+    "adaptation": "改编关系",
+    "remake": "重拍关系",
+    "sequel": "续作关系"
+  },
+  "detail": {
+    "about": "作品资料",
+    "originalLanguage": "原作语言",
+    "names": "名称与其他译名",
+    "versions": "出版与发行版本",
+    "availability": "获取与体验渠道",
+    "relations": "相关作品",
+    "sources": "资料来源",
+    "externalLinks": "其他资料站点",
+    "externalLinksNote": "这些链接便于到原站核对，实际导入来源以上方资料来源为准。关联链接不代表已直接采集该站点。",
+    "noVersions": "版本资料暂未提供。",
+    "noAvailability": "暂未提供已核对的获取渠道。",
+    "noRelations": "关联作品资料暂未提供。",
+    "noSources": "来源资料暂未提供。",
+    "checked": "核对时间：{date}"
+  }
+}

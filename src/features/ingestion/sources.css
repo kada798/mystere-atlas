@@ -1,0 +1,64 @@
+.source-panel {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 12px 0;
+  margin: 0 0 18px;
+  font-size: 12px;
+}
+.source-panel summary {
+  cursor: pointer;
+  color: var(--muted);
+}
+.source-panel summary > span {
+  float: right;
+  font-size: 11px;
+}
+.source-panel > p {
+  color: var(--muted);
+  max-width: 850px;
+}
+.source-panel ul {
+  list-style: none;
+  margin: 16px 0 4px;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px 30px;
+}
+.source-panel li {
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+.source-panel li > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+}
+.source-panel li p {
+  margin: 6px 0;
+  color: var(--muted);
+  font-size: 11px;
+}
+.source-panel li small {
+  color: var(--muted);
+}
+.source-state {
+  color: var(--accent);
+  white-space: nowrap;
+  font-size: 11px;
+}
+.source-ready {
+  color: #3c6448;
+}
+.source-error {
+  color: #8a432c;
+}
+@media (max-width: 600px) {
+  .source-panel ul {
+    grid-template-columns: 1fr;
+  }
+  .source-panel li > div {
+    flex-wrap: wrap;
+  }
+}

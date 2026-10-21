@@ -1,0 +1,157 @@
+{
+  "title": "Explore mysteries",
+  "intro": "Follow the clues through books, screens and games. Discover the stories, the people and the places that connect them.",
+  "preparing": "The collection is taking shape",
+  "collectionCount": "{count} works in the collection",
+  "entityNavigation": "Explore content",
+  "typeNavigation": "Work categories",
+  "views": {
+    "works": "Works",
+    "people": "People",
+    "culture": "Culture",
+    "places": "Places"
+  },
+  "allWorks": "All works",
+  "types": {
+    "book": "Books",
+    "film": "Films",
+    "series": "Series",
+    "game": "Mystery games",
+    "murder-party": "Murder mystery parties",
+    "escape-room": "Escape rooms"
+  },
+  "typeShort": {
+    "book": "Authors · Editions · Series",
+    "film": "Directors · Origins · Availability",
+    "series": "Seasons · Status · Adaptations",
+    "game": "Platforms · Languages · Puzzles",
+    "murder-party": "Players · Difficulty · Experience",
+    "escape-room": "Cities · Venues · Themes"
+  },
+  "searchTitles": {
+    "works": "Find your next mystery",
+    "people": "Meet the people behind the stories",
+    "culture": "Follow a story into mystery culture",
+    "places": "Find places to discover and connect"
+  },
+  "searchPlaceholders": {
+    "works": "Search titles, alternative names, authors or directors…",
+    "people": "Search names and their other language forms…",
+    "culture": "Search features, classics, traditions or keywords…",
+    "places": "Search libraries, bookshops, venues or cities…"
+  },
+  "searchLabel": "Search the collection",
+  "search": "Search and filter",
+  "contentLanguage": "Information language",
+  "versionLanguage": "Edition / experience language",
+  "experienceLanguage": "Venue service language",
+  "region": "Country / region",
+  "allLanguages": "Any language",
+  "allRegions": "Any region",
+  "sort": "Sort by",
+  "sorts": {
+    "added": "Recently added",
+    "title": "Title",
+    "release": "First release"
+  },
+  "reset": "Clear filters",
+  "languageHint": "Information language refers to descriptions. Edition and experience languages cover translations, subtitles, games and live experiences, independently of interface language and region.",
+  "resultCount": "{count, plural, one {# result} other {# results}}",
+  "noMatchesTitle": "No results match these filters",
+  "noMatchesDescription": "Try another name, or broaden the language, region or category filters.",
+  "emptyEyebrow": "A place for your next discovery",
+  "emptyTitles": {
+    "works": "The first stories are still to come.",
+    "people": "The people behind the stories belong here.",
+    "culture": "Classics and traditions, ready to connect.",
+    "places": "Your next connection could be nearby."
+  },
+  "emptyDescriptions": {
+    "works": "Work records have not been connected yet. Explore the categories and filters; published records will appear here.",
+    "people": "People records have not been connected yet. Authors, directors and writers will be linked to their works, with names searchable across languages.",
+    "culture": "Related features have not been connected yet. This space will connect history, classics, creators and works.",
+    "places": "Place records have not been connected yet. Libraries, bookshops and experience venues will be discoverable by city and region."
+  },
+  "guideEyebrow": "Know what to look for",
+  "fieldsTitle": "Every experience has its own details.",
+  "fieldsDescription": "Expand a category to see what matters. Editions, releases and access options will be brought together under each work.",
+  "typeDescriptions": {
+    "book": "Explore originals, translations and reading order to find the right edition.",
+    "film": "Follow the creators and source material, with viewing options and adaptation links.",
+    "series": "Check seasons, episodes and release status before starting your next watch.",
+    "game": "Check platforms, languages and play styles to find the right challenge.",
+    "murder-party": "Explore group size, difficulty and themes. The script and each venue's experience are recorded separately.",
+    "escape-room": "Choose a theme with its city, venue and experience requirements in mind. Themes and locations are recorded separately."
+  },
+  "fields": {
+    "author": "Authors",
+    "series": "Series and order",
+    "release": "First publication / release",
+    "translator": "Translators and editions",
+    "pages": "Length",
+    "director": "Directors",
+    "writer": "Writers",
+    "cast": "Main cast",
+    "duration": "Duration",
+    "seasons": "Seasons",
+    "episodes": "Episodes",
+    "status": "Release status",
+    "creator": "Creators / publishers",
+    "platforms": "Platforms",
+    "languages": "Supported languages",
+    "players": "Players and play style",
+    "difficulty": "Difficulty",
+    "themes": "Themes",
+    "city": "City",
+    "venue": "Venue",
+    "fear": "Fear level",
+    "physical": "Physical requirements"
+  },
+  "connectionsEyebrow": "Follow the next clue",
+  "connectionsTitle": "One story opens a wider world.",
+  "connections": {
+    "versions": {
+      "title": "Works and editions",
+      "description": "Titles and editions across languages share one work, making it easier to find an accessible version."
+    },
+    "adaptations": {
+      "title": "Originals and adaptations",
+      "description": "Books, films and games keep their own records, linked through adaptations and remakes."
+    },
+    "series": {
+      "title": "Series and individual works",
+      "description": "Find the wider series from one work and explore its order at your own pace."
+    },
+    "places": {
+      "title": "Works and venues",
+      "description": "Scripts and escape room themes are separate from venues, leaving room for both the work and the service experience."
+    }
+  },
+  "summaryMissing": "A description in the current interface language is not available yet.",
+  "notFoundTitle": "This work could not be found",
+  "notFoundDescription": "It may not be in the collection yet, or its link may have changed. Return to the explorer to keep looking.",
+  "back": "Back to explore",
+  "unknown": "Not available yet",
+  "unofficialTitle": "Unofficial translated title",
+  "relationKinds": {
+    "adaptation": "Adaptation",
+    "remake": "Remake",
+    "sequel": "Sequel"
+  },
+  "detail": {
+    "about": "Work information",
+    "originalLanguage": "Original language",
+    "names": "Titles and alternative names",
+    "versions": "Editions and releases",
+    "availability": "Access and experiences",
+    "relations": "Related works",
+    "sources": "Sources",
+    "externalLinks": "Other reference sites",
+    "externalLinksNote": "Use these links to check original records. Actual import sources are listed above; a related link does not imply direct collection from that site.",
+    "noVersions": "Edition information is not available yet.",
+    "noAvailability": "No verified access options are available yet.",
+    "noRelations": "Related work information is not available yet.",
+    "noSources": "Source information is not available yet.",
+    "checked": "Last checked: {date}"
+  }
+}

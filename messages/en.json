@@ -16,7 +16,7 @@
     "description": "Discover mysteries to read, watch and experience. Keep your own lists, and meet fellow enthusiasts at a shared table.",
     "explore": "Explore works",
     "meet": "Discover events",
-    "status": "Development environment ready. This is the starting point; content, registration, accounts and automated imports will arrive in later milestones.",
+    "status": "Local development version: works and Paris events use public sources. Accounts, personal lists and on-site registration are still in development.",
     "modules": "Start with a story. Keep the conversation going.",
     "planned": "Open module scaffold"
   },

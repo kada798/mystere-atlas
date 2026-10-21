@@ -2,8 +2,14 @@ import assert from 'node:assert/strict';
 import { spawn } from 'node:child_process';
 import { once } from 'node:events';
 import { setTimeout as delay } from 'node:timers/promises';
+import path from 'node:path';
 
 const startServer = process.argv.includes('--start-server');
+const standaloneDirectory = process.argv
+  .find((value) => value.startsWith('--standalone='))
+  ?.slice('--standalone='.length);
+if (standaloneDirectory && !startServer)
+  throw new Error('Standalone smoke checks require --start-server.');
 const base =
   process.env.SMOKE_BASE_URL ?? `http://127.0.0.1:${startServer ? 3100 : 3000}`;
 const serverUrl = new URL(base);
@@ -33,16 +39,27 @@ try {
 
     server = spawn(
       process.execPath,
-      [
-        'node_modules/next/dist/bin/next',
-        'start',
-        '--hostname',
-        '127.0.0.1',
-        '--port',
-        serverUrl.port || '3100',
-      ],
+      standaloneDirectory
+        ? [path.resolve(standaloneDirectory, 'server.js')]
+        : [
+            'node_modules/next/dist/bin/next',
+            'start',
+            '--hostname',
+            '127.0.0.1',
+            '--port',
+            serverUrl.port || '3100',
+          ],
       {
-        cwd: process.cwd(),
+        cwd: standaloneDirectory
+          ? path.resolve(standaloneDirectory)
+          : process.cwd(),
+        env: standaloneDirectory
+          ? {
+              ...process.env,
+              PORT: serverUrl.port || '3100',
+              HOSTNAME: '127.0.0.1',
+            }
+          : process.env,
         stdio: ['ignore', 'pipe', 'pipe'],
         windowsHide: true,
       },
@@ -106,6 +123,47 @@ try {
         `${locale}/${section}`,
       );
     }
+    for (const type of [
+      'book',
+      'film',
+      'series',
+      'game',
+      'murder-party',
+      'escape-room',
+    ]) {
+      const filtered = await get(
+        `/${locale}/works?type=${type}&q=search-test&region=FR&versionLanguage=fr`,
+      );
+      assert.equal(filtered.status, 200, `${locale} category ${type}`);
+      const filteredHtml = await filtered.text();
+      assert.ok(
+        filteredHtml.includes('value="search-test"'),
+        'Search text survives a direct or refreshed URL',
+      );
+      assert.ok(
+        filteredHtml.includes(`name="type" value="${type}"`),
+        'Category is carried by the search form',
+      );
+    }
+    for (const view of ['people', 'culture', 'places']) {
+      assert.equal((await get(`/${locale}/works?view=${view}`)).status, 200);
+    }
+    for (const query of [
+      '?type=reading',
+      '?q=polar&period=all',
+      '?period=past',
+      '?language=unknown',
+    ]) {
+      assert.equal(
+        (await get(`/${locale}/events${query}`)).status,
+        200,
+        `${locale} events ${query}`,
+      );
+    }
+    assert.equal(
+      (await get(`/${locale}/works/not-a-published-work`)).status,
+      404,
+    );
     assert.equal((await get(`/${locale}/unknown-section`)).status, 404);
   }
   assert.equal((await get('/de/works')).status, 404);

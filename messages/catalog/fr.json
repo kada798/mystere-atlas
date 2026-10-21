@@ -1,0 +1,157 @@
+{
+  "title": "Explorer le mystère",
+  "intro": "Suivez les indices dans les livres, à l'écran et dans les jeux. Découvrez les histoires, les personnes et les lieux qui les relient.",
+  "preparing": "La collection prend forme",
+  "collectionCount": "{count} œuvres dans la collection",
+  "entityNavigation": "Explorer les contenus",
+  "typeNavigation": "Catégories d'œuvres",
+  "views": {
+    "works": "Œuvres",
+    "people": "Personnalités",
+    "culture": "Culture",
+    "places": "Lieux"
+  },
+  "allWorks": "Toutes les œuvres",
+  "types": {
+    "book": "Romans",
+    "film": "Films",
+    "series": "Séries",
+    "game": "Jeux d'enquête",
+    "murder-party": "Murder parties",
+    "escape-room": "Escape games"
+  },
+  "typeShort": {
+    "book": "Auteurs · Éditions · Collections",
+    "film": "Réalisation · Origines · Accès",
+    "series": "Saisons · Diffusion · Adaptations",
+    "game": "Plateformes · Langues · Énigmes",
+    "murder-party": "Joueurs · Difficulté · Expérience",
+    "escape-room": "Villes · Lieux · Thèmes"
+  },
+  "searchTitles": {
+    "works": "Trouvez votre prochaine intrigue",
+    "people": "Rencontrez les créateurs des histoires",
+    "culture": "Une œuvre pour explorer la culture du polar",
+    "places": "Trouvez des lieux de découverte et de rencontre"
+  },
+  "searchPlaceholders": {
+    "works": "Rechercher un titre, une traduction, un auteur ou un réalisateur…",
+    "people": "Rechercher un nom et ses formes dans d'autres langues…",
+    "culture": "Rechercher un dossier, un classique, un courant ou un mot-clé…",
+    "places": "Rechercher une bibliothèque, une librairie, un lieu ou une ville…"
+  },
+  "searchLabel": "Rechercher dans la collection",
+  "search": "Rechercher et filtrer",
+  "contentLanguage": "Langue des informations",
+  "versionLanguage": "Langue de l'édition / expérience",
+  "experienceLanguage": "Langue du lieu d'accueil",
+  "region": "Pays / région",
+  "allLanguages": "Toutes les langues",
+  "allRegions": "Toutes les régions",
+  "sort": "Trier par",
+  "sorts": {
+    "added": "Ajouts récents",
+    "title": "Titre",
+    "release": "Première parution"
+  },
+  "reset": "Effacer les filtres",
+  "languageHint": "La langue des informations concerne les descriptions. Les langues d'édition et d'expérience couvrent traductions, sous-titres, jeux et activités, indépendamment de l'interface et de la région.",
+  "resultCount": "{count, plural, one {# résultat} other {# résultats}}",
+  "noMatchesTitle": "Aucun résultat ne correspond à ces filtres",
+  "noMatchesDescription": "Essayez un autre nom, ou élargissez les filtres de langue, de région ou de catégorie.",
+  "emptyEyebrow": "Une place pour votre prochaine découverte",
+  "emptyTitles": {
+    "works": "Les premières histoires restent à découvrir.",
+    "people": "Les créateurs trouveront ici leur place.",
+    "culture": "Des classiques et des courants à relier.",
+    "places": "Votre prochaine rencontre est peut-être tout près."
+  },
+  "emptyDescriptions": {
+    "works": "Les fiches d'œuvres ne sont pas encore disponibles. Explorez les catégories et les filtres ; les œuvres publiées apparaîtront ici.",
+    "people": "Les fiches de personnalités ne sont pas encore disponibles. Auteurs, réalisateurs et scénaristes seront reliés à leurs œuvres, avec des noms recherchables en plusieurs langues.",
+    "culture": "Les dossiers associés ne sont pas encore disponibles. Cet espace reliera histoire, classiques, créateurs et œuvres.",
+    "places": "Les fiches de lieux ne sont pas encore disponibles. Bibliothèques, librairies et lieux d'expérience pourront être recherchés par ville et région."
+  },
+  "guideEyebrow": "Savoir quoi découvrir",
+  "fieldsTitle": "Chaque expérience a ses propres détails.",
+  "fieldsDescription": "Dépliez une catégorie pour voir les informations utiles. Éditions, sorties et accès seront réunis autour de chaque œuvre.",
+  "typeDescriptions": {
+    "book": "Explorez les originaux, les traductions et l'ordre de lecture pour choisir une édition.",
+    "film": "Suivez les créateurs et l'œuvre d'origine, avec les accès et les liens d'adaptation.",
+    "series": "Consultez les saisons, les épisodes et l'état de diffusion avant de commencer.",
+    "game": "Vérifiez plateformes, langues et modes de jeu pour trouver le bon défi.",
+    "murder-party": "Découvrez le nombre de joueurs, la difficulté et les thèmes. Le scénario et l'expérience de chaque lieu sont distingués.",
+    "escape-room": "Choisissez un thème selon la ville, le lieu et les conditions d'expérience. Les thèmes et les lieux sont distingués."
+  },
+  "fields": {
+    "author": "Auteurs",
+    "series": "Collection et ordre",
+    "release": "Première parution / sortie",
+    "translator": "Traducteurs et éditions",
+    "pages": "Longueur",
+    "director": "Réalisation",
+    "writer": "Scénario",
+    "cast": "Distribution principale",
+    "duration": "Durée",
+    "seasons": "Saisons",
+    "episodes": "Épisodes",
+    "status": "État de diffusion",
+    "creator": "Créateurs / éditeurs",
+    "platforms": "Plateformes",
+    "languages": "Langues disponibles",
+    "players": "Joueurs et mode de participation",
+    "difficulty": "Difficulté",
+    "themes": "Thèmes",
+    "city": "Ville",
+    "venue": "Lieu d'expérience",
+    "fear": "Niveau de peur",
+    "physical": "Exigences physiques"
+  },
+  "connectionsEyebrow": "Suivre le prochain indice",
+  "connectionsTitle": "Une histoire ouvre un monde plus vaste.",
+  "connections": {
+    "versions": {
+      "title": "Œuvres et éditions",
+      "description": "Titres et éditions en plusieurs langues partagent une même œuvre pour trouver une version accessible."
+    },
+    "adaptations": {
+      "title": "Originaux et adaptations",
+      "description": "Romans, films et jeux gardent leurs fiches, reliées par leurs adaptations et nouvelles versions."
+    },
+    "series": {
+      "title": "Collections et œuvres",
+      "description": "Retrouvez une collection à partir d'une œuvre et découvrez son ordre à votre rythme."
+    },
+    "places": {
+      "title": "Œuvres et lieux",
+      "description": "Scénarios et thèmes d'escape games sont distingués des lieux, pour décrire l'œuvre et l'accueil séparément."
+    }
+  },
+  "summaryMissing": "La description dans la langue de l'interface n'est pas encore disponible.",
+  "notFoundTitle": "Cette œuvre est introuvable",
+  "notFoundDescription": "Elle n'est peut-être pas encore dans la collection, ou son lien a changé. Revenez à l'exploration pour poursuivre.",
+  "back": "Retour à l'exploration",
+  "unknown": "Non renseigné",
+  "unofficialTitle": "Traduction non officielle du titre",
+  "relationKinds": {
+    "adaptation": "Adaptation",
+    "remake": "Nouvelle version",
+    "sequel": "Suite"
+  },
+  "detail": {
+    "about": "Informations sur l'œuvre",
+    "originalLanguage": "Langue originale",
+    "names": "Titres et autres noms",
+    "versions": "Éditions et sorties",
+    "availability": "Accès et expériences",
+    "relations": "Œuvres associées",
+    "sources": "Sources",
+    "externalLinks": "Autres sites de référence",
+    "externalLinksNote": "Ces liens permettent de consulter les fiches d'origine. Les sources d'import figurent ci-dessus ; un lien associé n'indique pas une collecte directe sur ce site.",
+    "noVersions": "Les informations d'édition ne sont pas encore disponibles.",
+    "noAvailability": "Aucun accès vérifié n'est encore disponible.",
+    "noRelations": "Les œuvres associées ne sont pas encore renseignées.",
+    "noSources": "Les sources ne sont pas encore renseignées.",
+    "checked": "Dernière vérification : {date}"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Sources and recent updates",
+  "connected": "{ready} / {total} sources connected",
+  "description": "This distinguishes imported data from sites requiring authorization. A related link does not mean that site's data has been scraped directly.",
+  "states": {
+    "ready": "Connected",
+    "error": "Update failed; existing data retained",
+    "authorization": "Authorization required",
+    "unavailable": "Not directly connected",
+    "pending": "Awaiting first import"
+  },
+  "updated": "Last success: {date} · {count} records in this batch",
+  "notes": {
+    "paris": "Official Paris event open data, filtered by keywords and restricted to Paris city.",
+    "meetup": "The official API requires Meetup Pro and OAuth authorization. Direct search links are available for now.",
+    "openlibrary": "Public bibliographic API for works, authors and verifiable editions.",
+    "wikidata": "Multilingual film metadata and external identifiers, available under CC0.",
+    "imdb": "A bounded subset of Mystery titles from official non-commercial datasets, not a complete or live ranking.",
+    "douban": "An authorized data source is not connected yet. Verifiable identifiers can provide links to original records.",
+    "letterboxd": "API access requires approval. Only original-site links backed by verified identifiers are shown for now."
+  }
+}
