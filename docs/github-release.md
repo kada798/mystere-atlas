@@ -28,7 +28,7 @@ Actions 中间产物保留 14 天；Release 附件独立保存在对应版本。
 
 当前公开演示站是 [Mystère Atlas](https://mystere-atlas.yellowelm32.chatgpt.site)，由 Sites 托管。GitHub Release 是可追踪的源码版本与运行包，**不等于更新演示站**。
 
-本流程打包原 Next.js 应用，不是 Sites Worker 包。保留现有地址的更新仍按 [部署说明](deployment.md) 通过 Sites 支持的接口完成；不能把短期源码凭据当作 GitHub 长期部署密钥，也不能将 Next.js 包直接冒充 Sites 部署包。
+本流程打包原 Next.js 应用，不是 Sites Worker 包。真正更新独立托管网站使用 [Deploy website 工作流](github-deploy.md)，首次须关联 Vercel 账号。迁移前的 Sites 地址仍按 [旧部署说明](deployment.md) 管理。
 
 包不含 `.data/`、环境密钥或本机日志。部署到 Node 主机时按包内 `README-RUN.md` 说明提供运行环境及独立持久数据；没有资料快照时页面呈现真实空状态。采集任务仍需单独运行。
 

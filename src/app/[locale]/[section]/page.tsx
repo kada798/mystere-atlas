@@ -20,10 +20,10 @@ export default async function SectionPage({
 
   return (
     <section className="placeholder">
-      <p className="eyebrow">MYSTÈRE ATLAS / MVP</p>
+      <p className="eyebrow">MYSTÈRE ATLAS</p>
       <h1>{t(`${key}.title`)}</h1>
       <p className="hero-description">{t(`${key}.description`)}</p>
-      <p className="development-note">{t('pending')}</p>
+      <p className="development-note">{t(`${key}.pending`)}</p>
       <Link className="button" href="/">
         {t('back')}
       </Link>

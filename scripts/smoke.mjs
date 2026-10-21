@@ -106,7 +106,11 @@ try {
   assert.ok([307, 308].includes(root.status));
   assert.equal(new URL(root.headers.get('location'), base).pathname, '/zh');
 
-  const expected = { zh: '每一条线索', en: 'Every clue', fr: 'Chaque indice' };
+  const expected = {
+    zh: '一本好推理',
+    en: 'Find a mystery',
+    fr: 'Une bonne énigme',
+  };
   for (const [locale, phrase] of Object.entries(expected)) {
     const home = await get(`/${locale}`);
     assert.equal(home.status, 200, `${locale} home`);

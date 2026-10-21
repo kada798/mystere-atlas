@@ -1,0 +1,9 @@
+/tmp/
+/.git/
+/.data/
+/.env*
+/.vercel/auth/
+/node_modules/
+/docs/
+/tests/
+*.log

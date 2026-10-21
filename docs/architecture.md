@@ -18,6 +18,8 @@ Supabase 是后续数据库、认证与存储的候选方案；本次没有创�
 
 GitHub 的日常 CI 与手动 Release 分开。发布时选择性启用 Next.js standalone，在 Linux 上打包并测试实际运行目录；数据与密钥不进入版本包。Sites 的公开演示部署使用独立适配副本，见 `docs/github-release.md` 与 `docs/deployment.md`。
 
+独立的 `Deploy website` 工作流直接构建原 Next.js 应用并部署到 Vercel，替代人工调用 Sites 作为新的托管路径。首次需用户授权自己的托管账号。部署模式显式追踪单个公开数据快照，密钥、日志和其他本机数据仍排除。详见 `docs/github-deploy.md`。
+
 ## 后续数据关系
 
 - 作品、语言名称、出版或发行版本分别保存。
