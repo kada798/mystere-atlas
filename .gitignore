@@ -8,6 +8,7 @@ test-results/
 tmp/
 .tools/
 .data/
+.vercel/
 .env*
 !.env.example
 *.tsbuildinfo

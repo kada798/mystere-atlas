@@ -22,11 +22,11 @@ export default async function HomePage() {
             {t('meet')}
           </Link>
         </div>
-        <p className="development-note">{t('status')}</p>
+        <p className="project-origin">{t('status')}</p>
       </section>
       <section className="modules" aria-labelledby="modules-heading">
         <div className="section-heading">
-          <p className="eyebrow">THE NEXT CHAPTER</p>
+          <p className="eyebrow">MYSTÈRE ATLAS / INDEX</p>
           <h2 id="modules-heading">{t('modules')}</h2>
         </div>
         <div className="module-grid">
@@ -36,10 +36,24 @@ export default async function HomePage() {
               <h3>{modules(`${section}.title`)}</h3>
               <p>{modules(`${section}.description`)}</p>
               <span className="module-status">
-                {t('planned')} <span aria-hidden="true">↗</span>
+                {t(
+                  section === 'works' || section === 'events'
+                    ? 'available'
+                    : 'planned',
+                )}{' '}
+                <span aria-hidden="true">↗</span>
               </span>
             </Link>
           ))}
+        </div>
+      </section>
+      <section className="origin-note" aria-labelledby="origin-title">
+        <span className="origin-mark" aria-hidden="true">
+          MA
+        </span>
+        <div>
+          <h2 id="origin-title">{t('originTitle')}</h2>
+          <p>{t('originText')}</p>
         </div>
       </section>
       {process.env.NODE_ENV === 'development' && <DebugPanel />}

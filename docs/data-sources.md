@@ -11,7 +11,7 @@
 | Wikidata                     | SPARQL 与实体 API          | Mystery film 类作品、多语言名称与描述、主创、外部标识符；CC0             |
 | IMDb                         | 官方 `title.basics.tsv.gz` | 1970 年起的 Mystery 电影／剧集，有界流式读取，最多 36 条、35 MB 解压数据 |
 
-IMDb 是个人与非商业数据集，不是商业使用许可，也不是最新全站榜单。正式商业化前必须评估相应授权。当前只读取数据集元信息，不抓取用户评论或评分，也不下载整个大文件。
+IMDb 导入仅用于本机个人与非商业试验，不是公开作品库或商业使用许可，也不是最新全站榜单。下载记录不进入 Pages 的公开快照；公开影视记录来自 Wikidata，IMDb 只作为外部链接。参见 [IMDb 数据使用限制](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX)。当前不抓取用户评论或评分，也不下载整个大文件。
 
 ## 用户提到的其他站点
 

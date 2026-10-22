@@ -12,5 +12,6 @@ export default defineConfig([
     'next-env.d.ts',
     'tmp/**',
     '.data/**',
+    '.vercel/**',
   ]),
 ]);

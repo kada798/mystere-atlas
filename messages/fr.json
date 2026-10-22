@@ -12,32 +12,37 @@
     "culture": "Culture"
   },
   "Home": {
-    "title": "Chaque indice mène à une nouvelle rencontre.",
-    "description": "Découvrez des intrigues à lire, à regarder et à vivre. Gardez vos listes et retrouvez d'autres passionnés autour d'une œuvre.",
+    "title": "Une bonne énigme mérite une conversation.",
+    "description": "Des livres à l’écran, des jeux d’énigmes aux rencontres en ville. Trouvez votre prochaine histoire et des personnes avec qui en parler.",
     "explore": "Explorer les œuvres",
     "meet": "Découvrir les événements",
-    "status": "Version locale de développement : les œuvres et les événements parisiens utilisent des sources publiques. Comptes, listes personnelles et inscriptions restent à développer.",
+    "status": "Une idée née dans un club de lecture de polars, pour garder les recommandations jusqu’à la prochaine rencontre.",
     "modules": "Une œuvre pour commencer. Une conversation pour continuer.",
-    "planned": "Ouvrir le module"
+    "available": "Explorer",
+    "planned": "À venir",
+    "originTitle": "Une carte née d’un club de lecture.",
+    "originText": "Ce projet est né d’une rencontre autour du roman policier. Les recommandations et les récits de chacun donnaient envie de savoir quoi lire ensuite, et où retrouver d’autres passionnés. Mystère Atlas commence par un catalogue d’œuvres et des événements parisiens, en reliant peu à peu ces indices."
   },
   "Modules": {
     "works": {
       "title": "Explorer le mystère",
-      "description": "Romans, films et séries : traductions, adaptations et listes personnelles réunies."
+      "description": "Parcourez romans, films et séries à travers leurs titres, leurs éditions et leurs adaptations."
     },
     "events": {
       "title": "Se rencontrer",
-      "description": "Trouvez un club de lecture, proposez une rencontre et rassemblez les recommandations."
+      "description": "Repérez clubs de lecture, spectacles et jeux d’enquête à Paris, puis consultez les séances et inscriptions auprès de l’organisateur."
     },
     "community": {
       "title": "Partager ses découvertes",
-      "description": "Échangez vos avis et recommandations, avec des avertissements clairs sur les révélations."
+      "description": "Échangez vos avis et recommandations, avec des avertissements clairs sur les révélations.",
+      "pending": "La communauté se prépare. Les publications et les réponses ne sont pas encore ouvertes. Découvrez le catalogue ou un prochain événement parisien en attendant."
     },
     "culture": {
       "title": "La culture du polar",
-      "description": "Explorez les grandes figures, les classiques, l'histoire et les traditions du genre."
+      "description": "Explorez les grandes figures, les classiques, l'histoire et les traditions du genre.",
+      "pending": "Des dossiers sur l’histoire, les traditions et les grandes figures du polar sont en préparation. Commencez par le catalogue en attendant leur publication."
     },
-    "pending": "Cette page constitue une base de développement. Ses fonctionnalités métier restent à réaliser. Consultez les documents MVP et architecture dans docs.",
+    "pending": "Cette rubrique se prépare. Découvrez le catalogue et les événements parisiens en attendant.",
     "back": "Retour à l'accueil"
   },
   "Debug": {
@@ -50,5 +55,7 @@
     "ok": "Le serveur répond",
     "error": "Échec de la vérification"
   },
-  "Footer": { "status": "Base de développement · 中文 / English / Français" }
+  "Footer": {
+    "status": "Des histoires, des indices, des rencontres · 中文 / English / Français"
+  }
 }

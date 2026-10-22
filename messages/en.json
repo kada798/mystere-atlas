@@ -12,32 +12,37 @@
     "culture": "Culture"
   },
   "Home": {
-    "title": "Every clue leads to a new connection.",
-    "description": "Discover mysteries to read, watch and experience. Keep your own lists, and meet fellow enthusiasts at a shared table.",
+    "title": "Find a mystery worth talking about.",
+    "description": "From books to the screen, from puzzles to gatherings around the city. Find your next story and people who want to talk about it.",
     "explore": "Explore works",
     "meet": "Discover events",
-    "status": "Local development version: works and Paris events use public sources. Accounts, personal lists and on-site registration are still in development.",
+    "status": "An idea born at a mystery reading group, keeping recommendations alive until the next conversation.",
     "modules": "Start with a story. Keep the conversation going.",
-    "planned": "Open module scaffold"
+    "available": "Explore",
+    "planned": "Coming soon",
+    "originTitle": "A map that began at a reading group.",
+    "originText": "This project grew out of a mystery book discussion. Everyone brought intriguing recommendations and stories, leaving two questions: what should I read next, and where can I meet people who share the interest? Mystère Atlas starts with a works catalog and Paris events, connecting those clues one by one."
   },
   "Modules": {
     "works": {
       "title": "Explore mysteries",
-      "description": "Books, films and series, connected through translations, adaptations and personal lists."
+      "description": "Browse books, films and series, following alternate titles, language editions and adaptations."
     },
     "events": {
       "title": "Meet in person",
-      "description": "Discover reading groups, host a gathering and collect everyone's recommendations."
+      "description": "Find Paris reading groups, mystery performances and puzzle experiences on the map, with sessions and booking from the organizer."
     },
     "community": {
       "title": "Find your community",
-      "description": "Exchange recommendations and experiences, with clear spoiler labels protecting the discovery."
+      "description": "Exchange recommendations and experiences, with clear spoiler labels protecting the discovery.",
+      "pending": "The community is being prepared. Posting and replies are not open yet. Explore the works catalog or find your next Paris event in the meantime."
     },
     "culture": {
       "title": "Mystery culture",
-      "description": "Explore influential creators, classics, history and traditions across languages."
+      "description": "Explore influential creators, classics, history and traditions across languages.",
+      "pending": "Features on mystery history, traditions and creators are being prepared. Start with the works catalog while these stories take shape."
     },
-    "pending": "This route is ready for development. Its business features are not implemented yet. See the MVP and architecture notes in docs.",
+    "pending": "This section is being prepared. Explore the works catalog and Paris events in the meantime.",
     "back": "Back to home"
   },
   "Debug": {
@@ -50,5 +55,7 @@
     "ok": "Server is responding",
     "error": "Health check failed"
   },
-  "Footer": { "status": "Development scaffold · 中文 / English / Français" }
+  "Footer": {
+    "status": "Stories, clues and company · 中文 / English / Français"
+  }
 }

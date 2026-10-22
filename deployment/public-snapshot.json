@@ -1,0 +1,6529 @@
+{
+  "version": 1,
+  "catalog": {
+    "works": [
+      {
+        "id": "ol-OL34224558W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "Never Lie"
+          },
+          {
+            "language": "en",
+            "title": "Never Lie"
+          },
+          {
+            "language": "fr",
+            "title": "La Psy"
+          },
+          {
+            "language": "de",
+            "title": "Die Psychiaterin"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "2022",
+        "credits": [
+          {
+            "personId": "ol-OL8384995A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL34224558W",
+            "url": "https://openlibrary.org/works/OL34224558W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL472165W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "Peril at End House"
+          },
+          {
+            "language": "en",
+            "title": "Peril at End House"
+          },
+          {
+            "language": "fr",
+            "title": "La maison du péril"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1932",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL472165W",
+            "url": "https://openlibrary.org/works/OL472165W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL472549W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "The Man in the Brown Suit"
+          },
+          {
+            "language": "en",
+            "title": "The Man in the Brown Suit"
+          },
+          {
+            "language": "fr",
+            "title": "L'homme au complet marron"
+          },
+          {
+            "language": "zh",
+            "title": "He yi nan zi"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1924",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL472549W",
+            "url": "https://openlibrary.org/works/OL472549W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL472542W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "The Secret of Chimneys"
+          },
+          {
+            "language": "en",
+            "title": "The Secret of Chimneys"
+          },
+          {
+            "language": "fr",
+            "title": "Le Secret de Chimneys"
+          },
+          {
+            "language": "en",
+            "title": "Le Secret de Chimneys"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1925",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL472542W",
+            "url": "https://openlibrary.org/works/OL472542W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL265415W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "At Bertram's Hotel"
+          },
+          {
+            "language": "en",
+            "title": "At Bertram's Hotel"
+          },
+          {
+            "language": "fr",
+            "title": "A l'hotel Bertram"
+          },
+          {
+            "language": "zh",
+            "title": "Bocuimen lü guan zhi mi"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1965",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL265415W",
+            "url": "https://openlibrary.org/works/OL265415W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL471500W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "4:50 from Paddington"
+          },
+          {
+            "language": "en",
+            "title": "What Mrs. McGillicuddy Saw!"
+          },
+          {
+            "language": "fr",
+            "title": "Le train de 16 heures 50"
+          },
+          {
+            "language": "zh",
+            "title": "Ming an mu tu chi"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1957",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL471500W",
+            "url": "https://openlibrary.org/works/OL471500W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL471990W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "The Mirror Crack'd from Side to Side"
+          },
+          {
+            "language": "en",
+            "title": "The Mirror Crack'd from Side to Side"
+          },
+          {
+            "language": "fr",
+            "title": "Le Miroir se brisa"
+          },
+          {
+            "language": "zh",
+            "title": "Ching tz'u mo shu"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1960",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL471990W",
+            "url": "https://openlibrary.org/works/OL471990W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL471871W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "They Do It with Mirrors"
+          },
+          {
+            "language": "en",
+            "title": "Murder with Mirrors"
+          },
+          {
+            "language": "fr",
+            "title": "Jeux de glaces"
+          },
+          {
+            "language": "zh",
+            "title": "Jing zi mo shu"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1952",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL471871W",
+            "url": "https://openlibrary.org/works/OL471871W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL471832W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "Hallowe'en Party"
+          },
+          {
+            "language": "en",
+            "title": "Hallowe'en Party"
+          },
+          {
+            "language": "fr",
+            "title": "LA FETE DU POTIRON"
+          },
+          {
+            "language": "zh",
+            "title": "Wan ling jie zhi si"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1969",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL471832W",
+            "url": "https://openlibrary.org/works/OL471832W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL471947W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "The Big Four"
+          },
+          {
+            "language": "en",
+            "title": "The Big Four (Hercule Poirot Mysteries)"
+          },
+          {
+            "language": "fr",
+            "title": "Le quatre"
+          },
+          {
+            "language": "en",
+            "title": "Le quatre"
+          },
+          {
+            "language": "zh",
+            "title": "Si da mo tou"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1927",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL471947W",
+            "url": "https://openlibrary.org/works/OL471947W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL471943W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "After the Funeral"
+          },
+          {
+            "language": "en",
+            "title": "Funerals are Fatal"
+          },
+          {
+            "language": "fr",
+            "title": "Les indiscretions d'hercule poirot"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "1953",
+        "credits": [
+          {
+            "personId": "ol-OL27695A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL471943W",
+            "url": "https://openlibrary.org/works/OL471943W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "ol-OL31191485W",
+        "kind": "book",
+        "names": [
+          {
+            "language": "und",
+            "title": "The Inmate"
+          },
+          {
+            "language": "en",
+            "title": "The Inmate"
+          },
+          {
+            "language": "es",
+            "title": "El recluso"
+          }
+        ],
+        "summaries": {},
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "firstReleaseDate": "2022",
+        "credits": [
+          {
+            "personId": "ol-OL8384995A",
+            "role": "author"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported",
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "/works/OL31191485W",
+            "url": "https://openlibrary.org/works/OL31191485W",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": []
+      },
+      {
+        "id": "imdb-tt0428856",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "胡子惊魂",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "The Moustache",
+            "aliases": ["Moustache"]
+          },
+          {
+            "language": "fr",
+            "title": "La Moustache",
+            "aliases": ["Moustache"]
+          }
+        ],
+        "summaries": {
+          "en": "2005 film directed by Emmanuel Carrère",
+          "fr": "film français"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q71920",
+            "url": "https://www.wikidata.org/wiki/Q71920",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0428856",
+            "url": "https://www.imdb.com/title/tt0428856/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1442614",
+            "url": "https://movie.douban.com/subject/1442614/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-moustache",
+            "url": "https://letterboxd.com/film/the-moustache/"
+          }
+        ],
+        "originalLanguage": "fr",
+        "firstReleaseDate": "2005",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q713747",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q713747",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q3190806",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0105236",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "落水狗",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Reservoir Dogs",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Reservoir Dogs",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "1992 film by Quentin Tarantino",
+          "fr": "film américain de Quentin Tarantino, sorti en 1992"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q72962",
+            "url": "https://www.wikidata.org/wiki/Q72962",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0105236",
+            "url": "https://www.imdb.com/title/tt0105236/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1299603",
+            "url": "https://movie.douban.com/subject/1299603/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "reservoir-dogs",
+            "url": "https://letterboxd.com/film/reservoir-dogs/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1992-09-10",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q3772",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q3772",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0022111",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "马耳他之鹰",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "The Maltese Falcon",
+            "aliases": ["Maltese Falcon", "Dangerous Female"]
+          },
+          {
+            "language": "fr",
+            "title": "Le Faucon maltais",
+            "aliases": ["Faucon maltais"]
+          }
+        ],
+        "summaries": {
+          "en": "1931 film directed by Roy Del Ruth",
+          "fr": "film sorti en 1931"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q74315",
+            "url": "https://www.wikidata.org/wiki/Q74315",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0022111",
+            "url": "https://www.imdb.com/title/tt0022111/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1295793",
+            "url": "https://movie.douban.com/subject/1295793/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-maltese-falcon",
+            "url": "https://letterboxd.com/film/the-maltese-falcon/"
+          }
+        ],
+        "firstReleaseDate": "1931",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q918762",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q3300134",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt1507563",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "怒海狂鯊",
+            "aliases": ["暗潮"]
+          },
+          {
+            "language": "en",
+            "title": "Dark Tide",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Dark Tide",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "2012 film directed by John Stockwell",
+          "fr": "film sorti en 2012"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q74319",
+            "url": "https://www.wikidata.org/wiki/Q74319",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt1507563",
+            "url": "https://www.imdb.com/title/tt1507563/"
+          },
+          {
+            "provider": "Douban",
+            "id": "4025814",
+            "url": "https://movie.douban.com/subject/4025814/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "dark-tide-2012",
+            "url": "https://letterboxd.com/film/dark-tide-2012/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2012",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q944198",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q62066234",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q62066235",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0365929",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "冰天血地",
+            "aliases": ["雪盲"]
+          },
+          {
+            "language": "en",
+            "title": "Whiteout",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Whiteout",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "2009 film by Len Wiseman, Dominic Sena, Stuart Baird",
+          "fr": "film de Len Wiseman, Dominic Sena et Stuart Baird, sorti en 2009"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q74636",
+            "url": "https://www.wikidata.org/wiki/Q74636",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0365929",
+            "url": "https://www.imdb.com/title/tt0365929/"
+          },
+          {
+            "provider": "Douban",
+            "id": "2024935",
+            "url": "https://movie.douban.com/subject/2024935/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "whiteout-2009",
+            "url": "https://letterboxd.com/film/whiteout-2009/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2009",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q728362",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q1715774",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q5066256",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q5039183",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0062622",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "2001太空漫遊",
+            "aliases": [
+              "2001太空奥德赛",
+              "2001太空漫游",
+              "2001：星际漫游",
+              "2001：太空奥德赛"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "2001: A Space Odyssey",
+            "aliases": [
+              "2001 A Space Odyssey",
+              "2001 Space Odyssey",
+              "2001: Space Odyssey"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "2001, l'Odyssée de l'espace",
+            "aliases": [
+              "2001 l'Odyssée de l'espace",
+              "2001 : l'Odyssée de l'espace",
+              "sorti en"
+            ]
+          }
+        ],
+        "summaries": {
+          "zh": "1968年由斯坦利·库布里克拍攝的電影",
+          "en": "1968 film by Stanley Kubrick",
+          "fr": "film de science-fiction de Stanley Kubrick sorti en 1968"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q103474",
+            "url": "https://www.wikidata.org/wiki/Q103474",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0062622",
+            "url": "https://www.imdb.com/title/tt0062622/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1292226",
+            "url": "https://movie.douban.com/subject/1292226/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "2001-a-space-odyssey",
+            "url": "https://letterboxd.com/film/2001-a-space-odyssey/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1968-04-02",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q2001",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q47087",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q2001",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0078748",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "異形",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Alien",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Alien",
+            "aliases": [
+              "Alien - Le Huitième Passager",
+              "Alien — Le huitième passager",
+              "Alien, le huitième passager",
+              "L'étranger : le huitième passager",
+              "Alien : le Huitième passager",
+              "Alien - Le huitieme passager"
+            ]
+          }
+        ],
+        "summaries": {
+          "zh": "1979年科幻恐怖電影",
+          "en": "1979 film by Ridley Scott",
+          "fr": "film de Ridley Scott, sorti en 1979"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q103569",
+            "url": "https://www.wikidata.org/wiki/Q103569",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0078748",
+            "url": "https://www.imdb.com/title/tt0078748/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1300868",
+            "url": "https://movie.douban.com/subject/1300868/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "alien",
+            "url": "https://letterboxd.com/film/alien/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1979-05-25",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q56005",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q498430",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q3056094",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0258463",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "神鬼認證",
+            "aliases": ["叛諜追擊", "神鬼认证", "諜影重重"]
+          },
+          {
+            "language": "en",
+            "title": "The Bourne Identity",
+            "aliases": ["Treadstone", "Bourne Identity"]
+          },
+          {
+            "language": "fr",
+            "title": "La Mémoire dans la peau",
+            "aliases": ["La Memoire dans la peau", "Mémoire dans la peau"]
+          }
+        ],
+        "summaries": {
+          "en": "2002 film directed by Doug Liman",
+          "fr": "film de Doug Liman, sorti en 2002"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q105624",
+            "url": "https://www.wikidata.org/wiki/Q105624",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0258463",
+            "url": "https://www.imdb.com/title/tt0258463/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1304102",
+            "url": "https://movie.douban.com/subject/1304102/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-bourne-identity-2002",
+            "url": "https://letterboxd.com/film/the-bourne-identity-2002/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2002-06-06",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q349339",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q353117",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q8005614",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0440963",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "神鬼認證：最後通牒",
+            "aliases": [
+              "神鬼认证：最后通牒",
+              "叛諜追擊3：最後通牒",
+              "諜影重重3"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "The Bourne Ultimatum",
+            "aliases": ["Bourne Ultimatum"]
+          },
+          {
+            "language": "fr",
+            "title": "La Vengeance dans la peau",
+            "aliases": [
+              "Jason Bourne la vengeance dans la peau",
+              "Vengeance dans la peau"
+            ]
+          }
+        ],
+        "summaries": {
+          "zh": "2007年美國和德國合拍的動作諜報驚悚片",
+          "en": "2007 film directed by Paul Greengrass",
+          "fr": "film de Paul Greengrass, sorti en 2007"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q107226",
+            "url": "https://www.wikidata.org/wiki/Q107226",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0440963",
+            "url": "https://www.imdb.com/title/tt0440963/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1578507",
+            "url": "https://movie.douban.com/subject/1578507/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-bourne-ultimatum",
+            "url": "https://letterboxd.com/film/the-bourne-ultimatum/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2007-07-25",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q356275",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q353117",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q2481763",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0040746",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "奪魂索",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Rope",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "La Corde",
+            "aliases": ["The Rope", "Corde"]
+          }
+        ],
+        "summaries": {
+          "en": "1948 film by Alfred Hitchcock",
+          "fr": "film d'Alfred Hitchcock, sorti en 1948"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q109564",
+            "url": "https://www.wikidata.org/wiki/Q109564",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0040746",
+            "url": "https://www.imdb.com/title/tt0040746/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1301230",
+            "url": "https://movie.douban.com/subject/1301230/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "rope",
+            "url": "https://letterboxd.com/film/rope/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1948",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q7374",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q710334",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q395205",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0056869",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "鳥",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "The Birds",
+            "aliases": ["Birds"]
+          },
+          {
+            "language": "fr",
+            "title": "Les Oiseaux",
+            "aliases": ["Oiseaux"]
+          }
+        ],
+        "summaries": {
+          "zh": "1963年希区柯克执导影片",
+          "en": "1963 film by Alfred Hitchcock",
+          "fr": "film d'Alfred Hitchcock, sorti en 1963"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q110043",
+            "url": "https://www.wikidata.org/wiki/Q110043",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0056869",
+            "url": "https://www.imdb.com/title/tt0056869/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1310175",
+            "url": "https://movie.douban.com/subject/1310175/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-birds",
+            "url": "https://letterboxd.com/film/the-birds/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1963-03-28",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q7374",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q369632",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q193357",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0101921",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "油炸綠蕃茄",
+            "aliases": ["笑傲同行"]
+          },
+          {
+            "language": "en",
+            "title": "Fried Green Tomatoes",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Beignets de tomates vertes",
+            "aliases": [
+              "Fried Green Tomatoes at the Whistle Stop Cafe",
+              "Le Secret est dans la sauce"
+            ]
+          }
+        ],
+        "summaries": {
+          "en": "1991 film directed by Jon Avnet",
+          "fr": "film sorti en 1991"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q118375",
+            "url": "https://www.wikidata.org/wiki/Q118375",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0101921",
+            "url": "https://www.imdb.com/title/tt0101921/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1293861",
+            "url": "https://movie.douban.com/subject/1293861/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "fried-green-tomatoes",
+            "url": "https://letterboxd.com/film/fried-green-tomatoes/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1991-12-27",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q939079",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q433207",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q513657",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt1964624",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "登堂入室",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "In the House",
+            "aliases": ["Dans la maison"]
+          },
+          {
+            "language": "fr",
+            "title": "Dans la maison",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "2012年弗朗索瓦·奥宗（François Ozon）电影",
+          "en": "2012 film by François Ozon",
+          "fr": "film français de François Ozon, sorti en 2012"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q119526",
+            "url": "https://www.wikidata.org/wiki/Q119526",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt1964624",
+            "url": "https://www.imdb.com/title/tt1964624/"
+          },
+          {
+            "provider": "Douban",
+            "id": "6537486",
+            "url": "https://movie.douban.com/subject/6537486/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "in-the-house",
+            "url": "https://letterboxd.com/film/in-the-house/"
+          }
+        ],
+        "originalLanguage": "fr",
+        "firstReleaseDate": "2012-11-29",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q266535",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q266535",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt1591095",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "陰兒房",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Insidious",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Insidious",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "2010年电影",
+          "en": "2010 film by James Wan",
+          "fr": "film sorti en 2010"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q122713",
+            "url": "https://www.wikidata.org/wiki/Q122713",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt1591095",
+            "url": "https://www.imdb.com/title/tt1591095/"
+          },
+          {
+            "provider": "Douban",
+            "id": "4817901",
+            "url": "https://movie.douban.com/subject/4817901/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "insidious",
+            "url": "https://letterboxd.com/film/insidious/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2010-09-14",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q108047434",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q471215",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0095174",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "亡命夜巴黎",
+            "aliases": ["驚狂記"]
+          },
+          {
+            "language": "en",
+            "title": "Frantic",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Frantic",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "1988年電影",
+          "en": "1988 film by Roman Polanski",
+          "fr": "film sorti en 1988"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q126652",
+            "url": "https://www.wikidata.org/wiki/Q126652",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0095174",
+            "url": "https://www.imdb.com/title/tt0095174/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1296818",
+            "url": "https://movie.douban.com/subject/1296818/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "frantic",
+            "url": "https://letterboxd.com/film/frantic/"
+          }
+        ],
+        "originalLanguage": "fr",
+        "firstReleaseDate": "1988",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q51552",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q51552",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q981246",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0478134",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "震撼效應",
+            "aliases": ["在以拉谷"]
+          },
+          {
+            "language": "en",
+            "title": "In the Valley of Elah",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Dans la vallée d'Elah",
+            "aliases": [
+              "Dans la vallee d'Elah",
+              "Dans la vallée d’Elah",
+              "In the Valley of Elah",
+              "Death and Dishonor"
+            ]
+          }
+        ],
+        "summaries": {
+          "en": "2007 film by Paul Haggis",
+          "fr": "film sorti en 2007"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q126896",
+            "url": "https://www.wikidata.org/wiki/Q126896",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0478134",
+            "url": "https://www.imdb.com/title/tt0478134/"
+          },
+          {
+            "provider": "Douban",
+            "id": "2002741",
+            "url": "https://movie.douban.com/subject/2002741/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "in-the-valley-of-elah",
+            "url": "https://letterboxd.com/film/in-the-valley-of-elah/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2007",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q314935",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q314935",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q370765",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0985694",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "弯刀",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Machete",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Machete",
+            "aliases": ["Macheté"]
+          }
+        ],
+        "summaries": {
+          "en": "2010 film by Robert Rodriguez and Ethan Maniquis",
+          "fr": "film sorti en 2010"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q128493",
+            "url": "https://www.wikidata.org/wiki/Q128493",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0985694",
+            "url": "https://www.imdb.com/title/tt0985694/"
+          },
+          {
+            "provider": "Douban",
+            "id": "2081493",
+            "url": "https://movie.douban.com/subject/2081493/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "machete",
+            "url": "https://letterboxd.com/film/machete/"
+          }
+        ],
+        "originalLanguage": "es",
+        "firstReleaseDate": "2010-09-01",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q47284",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q3059246",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q47284",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0375735",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "紅氣球之戀",
+            "aliases": ["持久的愛情"]
+          },
+          {
+            "language": "en",
+            "title": "Enduring Love",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Délires d'amour",
+            "aliases": ["Délire d'amour"]
+          }
+        ],
+        "summaries": {
+          "en": "2004 film by Roger Michell",
+          "fr": "film sorti en 2004"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q129813",
+            "url": "https://www.wikidata.org/wiki/Q129813",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0375735",
+            "url": "https://www.imdb.com/title/tt0375735/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1308840",
+            "url": "https://movie.douban.com/subject/1308840/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "enduring-love",
+            "url": "https://letterboxd.com/film/enduring-love/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2004",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q1354716",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q3808679",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q190379",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0058329",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "艷賊",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Marnie",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Pas de printemps pour Marnie",
+            "aliases": ["Marnie"]
+          }
+        ],
+        "summaries": {
+          "zh": "1964年的懸疑電影",
+          "en": "1964 film by Alfred Hitchcock",
+          "fr": "film d'Alfred Hitchcock, sorti en 1964"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q129895",
+            "url": "https://www.wikidata.org/wiki/Q129895",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0058329",
+            "url": "https://www.imdb.com/title/tt0058329/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1298442",
+            "url": "https://movie.douban.com/subject/1298442/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "marnie",
+            "url": "https://letterboxd.com/film/marnie/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1964",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q7374",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q3163251",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q598029",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0100150",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "風雲再起時",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Miller's Crossing",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Miller's Crossing",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "1990 film by Coen brothers",
+          "fr": "film américain de Joel et Ethan Coen, sorti en 1990"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q130142",
+            "url": "https://www.wikidata.org/wiki/Q130142",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0100150",
+            "url": "https://www.imdb.com/title/tt0100150/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1292060",
+            "url": "https://movie.douban.com/subject/1292060/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "millers-crossing",
+            "url": "https://letterboxd.com/film/millers-crossing/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1990-09-21",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q13595531",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q13595311",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q56095",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q13595311",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0114814",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "非常嫌疑犯",
+            "aliases": ["普通嫌疑犯", "刺激驚爆點"]
+          },
+          {
+            "language": "en",
+            "title": "The Usual Suspects",
+            "aliases": ["Usual Suspects"]
+          },
+          {
+            "language": "fr",
+            "title": "Usual Suspects",
+            "aliases": ["Suspects de convenance"]
+          }
+        ],
+        "summaries": {
+          "zh": "1999年电影",
+          "en": "1995 film directed by Bryan Singer",
+          "fr": "film de Bryan Singer, sorti en 1995"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q132351",
+            "url": "https://www.wikidata.org/wiki/Q132351",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0114814",
+            "url": "https://www.imdb.com/title/tt0114814/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1292214",
+            "url": "https://movie.douban.com/subject/1292214/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-usual-suspects",
+            "url": "https://letterboxd.com/film/the-usual-suspects/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1995",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q220751",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q337658",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt1600195",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "在劫难逃",
+            "aliases": ["在劫難逃", "喋血新世紀", "绑架"]
+          },
+          {
+            "language": "en",
+            "title": "Abduction",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Identité secrète",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "2011年美国电影",
+          "en": "2011 film directed by John Singleton",
+          "fr": "film sorti en 2011"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q143716",
+            "url": "https://www.wikidata.org/wiki/Q143716",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt1600195",
+            "url": "https://www.imdb.com/title/tt1600195/"
+          },
+          {
+            "provider": "Douban",
+            "id": "4308001",
+            "url": "https://movie.douban.com/subject/4308001/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "abduction",
+            "url": "https://letterboxd.com/film/abduction/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2011-09-15",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q363005",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q11903371",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0103772",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "第六感追緝令",
+            "aliases": ["本能"]
+          },
+          {
+            "language": "en",
+            "title": "Basic Instinct",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Basic Instinct",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "1992年的新黑色情色驚悚電影",
+          "en": "1992 film directed by Paul Verhoeven",
+          "fr": "film de Paul Verhoeven, sorti en 1992"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q146673",
+            "url": "https://www.wikidata.org/wiki/Q146673",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0103772",
+            "url": "https://www.imdb.com/title/tt0103772/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1291869",
+            "url": "https://movie.douban.com/subject/1291869/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "basic-instinct",
+            "url": "https://letterboxd.com/film/basic-instinct/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1992-03-18",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q129079",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q220834",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0273069",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "被告",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "The Adversary",
+            "aliases": ["Adversary", "L'Adversaire"]
+          },
+          {
+            "language": "fr",
+            "title": "L'Adversaire",
+            "aliases": ["Adversaire"]
+          }
+        ],
+        "summaries": {
+          "en": "2002 film by Nicole Garcia",
+          "fr": "film sorti en 2002"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q151717",
+            "url": "https://www.wikidata.org/wiki/Q151717",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0273069",
+            "url": "https://www.imdb.com/title/tt0273069/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1441983",
+            "url": "https://movie.douban.com/subject/1441983/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-adversary-2002",
+            "url": "https://letterboxd.com/film/the-adversary-2002/"
+          }
+        ],
+        "originalLanguage": "fr",
+        "firstReleaseDate": "2002",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q434060",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q434060",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q713747",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0038494",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "盛装杀戮",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Dressed to Kill",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "La Clef",
+            "aliases": ["Sherlock Holmes et la clé", "Clef"]
+          }
+        ],
+        "summaries": {
+          "en": "1946 film by Roy William Neill",
+          "fr": "film de Roy William Neill, sorti en 1946"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q151994",
+            "url": "https://www.wikidata.org/wiki/Q151994",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0038494",
+            "url": "https://www.imdb.com/title/tt0038494/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1807067",
+            "url": "https://movie.douban.com/subject/1807067/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "dressed-to-kill-1946",
+            "url": "https://letterboxd.com/film/dressed-to-kill-1946/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1946",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q2485848",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q2591160",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0034711",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "夜之眼",
+            "aliases": ["夜里的眼睛"]
+          },
+          {
+            "language": "en",
+            "title": "Eyes in the Night",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Les Yeux dans les ténèbres",
+            "aliases": ["Yeux dans les ténèbres"]
+          }
+        ],
+        "summaries": {
+          "en": "1942 film by Fred Zinnemann",
+          "fr": "film de Fred Zinnemann, sorti en 1942"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q153613",
+            "url": "https://www.wikidata.org/wiki/Q153613",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0034711",
+            "url": "https://www.imdb.com/title/tt0034711/"
+          },
+          {
+            "provider": "Douban",
+            "id": "3034246",
+            "url": "https://movie.douban.com/subject/3034246/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "eyes-in-the-night",
+            "url": "https://letterboxd.com/film/eyes-in-the-night/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1942",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q55420",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q3122178",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0217505",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "纽约黑帮",
+            "aliases": ["紐約風雲"]
+          },
+          {
+            "language": "en",
+            "title": "Gangs of New York",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Gangs of New York",
+            "aliases": [
+              "Gangs Of New-York",
+              "Les Gangs de New York",
+              "Gangs de New York"
+            ]
+          }
+        ],
+        "summaries": {
+          "en": "2002 film directed by Martin Scorsese",
+          "fr": "film de Martin Scorsese, sorti en 2002"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q154581",
+            "url": "https://www.wikidata.org/wiki/Q154581",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0217505",
+            "url": "https://www.imdb.com/title/tt0217505/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1301061",
+            "url": "https://movie.douban.com/subject/1301061/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "gangs-of-new-york-2002",
+            "url": "https://letterboxd.com/film/gangs-of-new-york-2002/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2002-12-20",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q41148",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q1684311",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q291141",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt0091605",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "薔薇的記號",
+            "aliases": ["魔宮傳奇"]
+          },
+          {
+            "language": "en",
+            "title": "The Name of the Rose",
+            "aliases": ["Name of the Rose"]
+          },
+          {
+            "language": "fr",
+            "title": "Le Nom de la rose",
+            "aliases": ["Der Name der Rose", "Nom de la rose"]
+          }
+        ],
+        "summaries": {
+          "zh": "1986年电影",
+          "en": "1986 film directed by Jean-Jacques Annaud",
+          "fr": "film réalisé par Jean-Jacques Annaud et sorti en 1986"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q155018",
+            "url": "https://www.wikidata.org/wiki/Q155018",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt0091605",
+            "url": "https://www.imdb.com/title/tt0091605/"
+          },
+          {
+            "provider": "Douban",
+            "id": "1294634",
+            "url": "https://movie.douban.com/subject/1294634/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-name-of-the-rose",
+            "url": "https://letterboxd.com/film/the-name-of-the-rose/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "1986-10-16",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q154490",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q981246",
+            "role": "writer"
+          },
+          {
+            "personId": "wd-Q503767",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt1149362",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "白色緞帶",
+            "aliases": ["白丝带"]
+          },
+          {
+            "language": "en",
+            "title": "The White Ribbon",
+            "aliases": ["White Ribbon"]
+          },
+          {
+            "language": "fr",
+            "title": "Le Ruban blanc",
+            "aliases": ["Ruban blanc"]
+          }
+        ],
+        "summaries": {
+          "en": "2009 film directed by Michael Haneke",
+          "fr": "film sorti en 2009"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q158023",
+            "url": "https://www.wikidata.org/wiki/Q158023",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt1149362",
+            "url": "https://www.imdb.com/title/tt1149362/"
+          },
+          {
+            "provider": "Douban",
+            "id": "2464346",
+            "url": "https://movie.douban.com/subject/2464346/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "the-white-ribbon",
+            "url": "https://letterboxd.com/film/the-white-ribbon/"
+          }
+        ],
+        "originalLanguage": "de",
+        "firstReleaseDate": "2009-05-21",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q84199",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q84199",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      },
+      {
+        "id": "imdb-tt1059786",
+        "kind": "film",
+        "names": [
+          {
+            "language": "zh",
+            "title": "鷹眼",
+            "aliases": ["鷹眼追擊"]
+          },
+          {
+            "language": "en",
+            "title": "Eagle Eye",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "L'Œil du mal",
+            "aliases": [
+              "Oeil du mal",
+              "Eagle Eye",
+              "L'oeil du mal",
+              "Œil du mal"
+            ]
+          }
+        ],
+        "summaries": {
+          "en": "2008 film directed by D. J. Caruso",
+          "fr": "film sorti en 2008"
+        },
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q158474",
+            "url": "https://www.wikidata.org/wiki/Q158474",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ],
+        "externalLinks": [
+          {
+            "provider": "IMDb",
+            "id": "tt1059786",
+            "url": "https://www.imdb.com/title/tt1059786/"
+          },
+          {
+            "provider": "Douban",
+            "id": "2264715",
+            "url": "https://movie.douban.com/subject/2264715/"
+          },
+          {
+            "provider": "Letterboxd",
+            "id": "eagle-eye",
+            "url": "https://letterboxd.com/film/eagle-eye/"
+          }
+        ],
+        "originalLanguage": "en",
+        "firstReleaseDate": "2008-10-09",
+        "addedAt": "2026-10-20T21:13:24.348Z",
+        "credits": [
+          {
+            "personId": "wd-Q444583",
+            "role": "director"
+          },
+          {
+            "personId": "wd-Q182642",
+            "role": "writer"
+          }
+        ],
+        "details": {},
+        "editorialStatus": "imported"
+      }
+    ],
+    "people": [
+      {
+        "id": "ol-OL8384995A",
+        "names": [
+          {
+            "language": "und",
+            "title": "Freida McFadden"
+          }
+        ],
+        "summaries": {},
+        "roles": ["author"],
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "OL8384995A",
+            "url": "https://openlibrary.org/authors/OL8384995A",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "ol-OL27695A",
+        "names": [
+          {
+            "language": "und",
+            "title": "Agatha Christie"
+          }
+        ],
+        "summaries": {},
+        "roles": ["author"],
+        "sources": [
+          {
+            "provider": "Open Library",
+            "externalId": "OL27695A",
+            "url": "https://openlibrary.org/authors/OL27695A",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q713747",
+        "names": [
+          {
+            "language": "zh",
+            "title": "埃马纽埃尔·卡雷尔",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Emmanuel Carrère",
+            "aliases": ["Emmanuel Carrere"]
+          },
+          {
+            "language": "fr",
+            "title": "Emmanuel Carrère",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "French author and film director",
+          "fr": "écrivain, scénariste et réalisateur français"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q713747",
+            "url": "https://www.wikidata.org/wiki/Q713747",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3190806",
+        "names": [
+          {
+            "language": "zh",
+            "title": "热罗姆·博茹尔",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Jérôme Beaujour",
+            "aliases": ["Jerome Beaujour"]
+          },
+          {
+            "language": "fr",
+            "title": "Jérôme Beaujour",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "French author, screenwriter and film director",
+          "fr": "écrivain, scénariste et réalisateur français"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3190806",
+            "url": "https://www.wikidata.org/wiki/Q3190806",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3772",
+        "names": [
+          {
+            "language": "zh",
+            "title": "昆廷·塔伦蒂诺",
+            "aliases": ["昆汀·塔伦蒂诺", "昆汀·塔倫提諾"]
+          },
+          {
+            "language": "en",
+            "title": "Quentin Tarantino",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美國男導演、編劇、製片人和演員",
+          "en": "American filmmaker and actor (born 1963)",
+          "fr": "réalisateur, scénariste, producteur et acteur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3772",
+            "url": "https://www.wikidata.org/wiki/Q3772",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q918762",
+        "names": [
+          {
+            "language": "zh",
+            "title": "羅伊·德爾·鲁斯",
+            "aliases": [
+              "罗伊·德尔·鲁斯",
+              "罗伊 德尔 鲁思",
+              "洛·迪爾·羅夫",
+              "羅伊·德爾·魯斯"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Roy Del Ruth",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Roy Del Ruth",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "電影導演",
+          "en": "American film director (1893–1961)",
+          "fr": "réalisateur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q918762",
+            "url": "https://www.wikidata.org/wiki/Q918762",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3300134",
+        "names": [
+          {
+            "language": "en",
+            "title": "Maude Fulton",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Maude Fulton",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American actress (1881-1950)",
+          "fr": "actrice américaine"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3300134",
+            "url": "https://www.wikidata.org/wiki/Q3300134",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q944198",
+        "names": [
+          {
+            "language": "zh",
+            "title": "約翰·史塔威爾",
+            "aliases": ["約翰·史達克威", "巴里·塔布"]
+          },
+          {
+            "language": "en",
+            "title": "John Stockwell",
+            "aliases": ["John Stockwell Samuels IV"]
+          },
+          {
+            "language": "fr",
+            "title": "John Stockwell",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American actor and director",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q944198",
+            "url": "https://www.wikidata.org/wiki/Q944198",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q62066234",
+        "names": [
+          {
+            "language": "en",
+            "title": "Ronnie Christensen",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "screenwriter"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q62066234",
+            "url": "https://www.wikidata.org/wiki/Q62066234",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q62066235",
+        "names": [
+          {
+            "language": "en",
+            "title": "Amy Sorlie",
+            "aliases": []
+          }
+        ],
+        "summaries": {},
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q62066235",
+            "url": "https://www.wikidata.org/wiki/Q62066235",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q728362",
+        "names": [
+          {
+            "language": "zh",
+            "title": "多米尼克·塞纳",
+            "aliases": ["多明尼克·賽納"]
+          },
+          {
+            "language": "en",
+            "title": "Dominic Sena",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Dominic Sena",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director, music video director",
+          "fr": "réalisateur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q728362",
+            "url": "https://www.wikidata.org/wiki/Q728362",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q1715774",
+        "names": [
+          {
+            "language": "zh",
+            "title": "史都華·貝爾",
+            "aliases": [
+              "史圖爾特·貝爾德",
+              "史都華·貝爾德",
+              "史都華·布萊德",
+              "斯圖亞特·拜爾德",
+              "斯图尔特·贝尔德",
+              "斯圖爾特·貝爾德"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Stuart Baird",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Stuart Baird",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "British film director, film producer and film editor",
+          "fr": "monteur, producteur et réalisateur anglo-américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q1715774",
+            "url": "https://www.wikidata.org/wiki/Q1715774",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q5066256",
+        "names": [
+          {
+            "language": "zh",
+            "title": "查德·海耶斯",
+            "aliases": ["查得·海耶斯", "查德·海斯"]
+          },
+          {
+            "language": "en",
+            "title": "Chad Hayes",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Chad Hayes",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美國演員",
+          "en": "American actor",
+          "fr": "acteur américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q5066256",
+            "url": "https://www.wikidata.org/wiki/Q5066256",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q5039183",
+        "names": [
+          {
+            "language": "zh",
+            "title": "凱里·海耶斯",
+            "aliases": [
+              "凱利·海耶斯",
+              "凱利·海斯",
+              "凱利·W·海耶斯",
+              "凯莉·海斯",
+              "凱利·W·海斯"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Carey Hayes",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Carey Hayes",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film producer",
+          "fr": "producteur de cinéma américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q5039183",
+            "url": "https://www.wikidata.org/wiki/Q5039183",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q2001",
+        "names": [
+          {
+            "language": "zh",
+            "title": "斯坦利·库布里克",
+            "aliases": ["库布列克"]
+          },
+          {
+            "language": "en",
+            "title": "Stanley Kubrick",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Stanley Kubrick",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美国电影导演、编剧、制片人",
+          "en": "American filmmaker and photographer (1928–1999)",
+          "fr": "réalisateur, photographe, scénariste et producteur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q2001",
+            "url": "https://www.wikidata.org/wiki/Q2001",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q47087",
+        "names": [
+          {
+            "language": "zh",
+            "title": "亞瑟·查理斯·克拉克",
+            "aliases": [
+              "亞瑟·Ｃ·克拉克",
+              "亞瑟·克拉克",
+              "阿瑟·克拉克",
+              "阿瑟·C·克拉克",
+              "亚瑟·查理斯·克拉克"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Arthur C. Clarke",
+            "aliases": [
+              "Arthur Charles Clarke",
+              "Sir Arthur Charles Clarke",
+              "Charles Willis",
+              "Arthur Clarke"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "Arthur C. Clarke",
+            "aliases": [
+              "A.C. Clarke",
+              "Arthur Charles Clarke",
+              "Arthur Clarke",
+              "Arthur C. Clark",
+              "Charles Willis",
+              "E.G. O'Brien"
+            ]
+          }
+        ],
+        "summaries": {
+          "zh": "英國科幻作家，科學作家，發明家，海底探險家和電視劇主持人",
+          "en": "British science fiction writer, inventor, and futurist (1917–2008)",
+          "fr": "écrivain de science-fiction, écrivain scientifique, futurologue, présentateur télé, explorateur sous-marin et inventeur britannique"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q47087",
+            "url": "https://www.wikidata.org/wiki/Q47087",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q56005",
+        "names": [
+          {
+            "language": "zh",
+            "title": "雷利·史考特",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Ridley Scott",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Ridley Scott",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "英國電影導演和電影監製",
+          "en": "English filmmaker (born 1937)",
+          "fr": "réalisateur et producteur britannique"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q56005",
+            "url": "https://www.wikidata.org/wiki/Q56005",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q498430",
+        "names": [
+          {
+            "language": "zh",
+            "title": "丹·欧班农",
+            "aliases": ["丹·歐班農", "丹·奧班農"]
+          },
+          {
+            "language": "en",
+            "title": "Dan O'Bannon",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Dan O'Bannon",
+            "aliases": ["Dan O’Bannon"]
+          }
+        ],
+        "summaries": {
+          "zh": "美國電影導演、編劇、演員（1946-2009）",
+          "en": "American film director, screenwriter, actor (1946-2009)",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q498430",
+            "url": "https://www.wikidata.org/wiki/Q498430",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3056094",
+        "names": [
+          {
+            "language": "zh",
+            "title": "罗纳德·舒塞特",
+            "aliases": [
+              "羅納德·舒賽特",
+              "羅納德·舒歇特",
+              "隆納·舒塞特",
+              "羅納德·舒塞特"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Ronald Shusett",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Ronald Shusett",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter",
+          "fr": "scénariste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3056094",
+            "url": "https://www.wikidata.org/wiki/Q3056094",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q349339",
+        "names": [
+          {
+            "language": "zh",
+            "title": "道格·李曼",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Doug Liman",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Doug Liman",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director and producer (born 1965)",
+          "fr": "réalisateur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q349339",
+            "url": "https://www.wikidata.org/wiki/Q349339",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q353117",
+        "names": [
+          {
+            "language": "zh",
+            "title": "東尼·格萊",
+            "aliases": [
+              "東尼·吉羅伊",
+              "托尼·吉尔罗伊",
+              "Tony Gilroy",
+              "東尼·吉爾洛伊"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Tony Gilroy",
+            "aliases": ["Anthony Joseph Gilroy"]
+          },
+          {
+            "language": "fr",
+            "title": "Tony Gilroy",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美国电影编剧、导演",
+          "en": "American screenwriter and director",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q353117",
+            "url": "https://www.wikidata.org/wiki/Q353117",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q8005614",
+        "names": [
+          {
+            "language": "en",
+            "title": "William Blake Herron",
+            "aliases": ["W. Blake Herron"]
+          },
+          {
+            "language": "fr",
+            "title": "William Blake Herron",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director",
+          "fr": "réalisateur américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q8005614",
+            "url": "https://www.wikidata.org/wiki/Q8005614",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q356275",
+        "names": [
+          {
+            "language": "zh",
+            "title": "保羅·葛林葛瑞斯",
+            "aliases": [
+              "Paul Greengrass",
+              "保羅·格連加斯",
+              "保罗·格林格拉斯",
+              "保羅·格林格拉斯"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Paul Greengrass",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Paul Greengrass",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美國電影導演、編劇",
+          "en": "English writer and film director (born 1955)",
+          "fr": "écrivain et réalisateur anglais"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q356275",
+            "url": "https://www.wikidata.org/wiki/Q356275",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q2481763",
+        "names": [
+          {
+            "language": "zh",
+            "title": "斯科特·Z.伯恩斯",
+            "aliases": [
+              "史考特·Z·伯恩斯",
+              "史考特·Z·布朗斯",
+              "斯科特·Z·伯恩斯",
+              "史考特·Z·柏恩斯",
+              "史葛·伯恩斯"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Scott Z. Burns",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Scott Z. Burns",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter, producer, and director"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q2481763",
+            "url": "https://www.wikidata.org/wiki/Q2481763",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q7374",
+        "names": [
+          {
+            "language": "zh",
+            "title": "亞弗列·希治閣",
+            "aliases": ["希区柯克", "希區考克", "阿尔弗雷德·希区柯克"]
+          },
+          {
+            "language": "en",
+            "title": "Alfred Hitchcock",
+            "aliases": [
+              "Sir Alfred Hitchcock",
+              "The Master of Suspense",
+              "Alfred J. Hitchcock",
+              "Sir Alfred J. Hitchcock",
+              "Master of Suspense"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "Alfred Hitchcock",
+            "aliases": ["Sir Alfred Hitchcock"]
+          }
+        ],
+        "summaries": {
+          "zh": "英國電影導演 (1899–1980)",
+          "en": "British filmmaker (1899–1980)",
+          "fr": "cinéaste britannique"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q7374",
+            "url": "https://www.wikidata.org/wiki/Q7374",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q710334",
+        "names": [
+          {
+            "language": "zh",
+            "title": "亞瑟·勞倫斯",
+            "aliases": ["亞瑟·勞倫茲", "阿瑟·勞倫茨"]
+          },
+          {
+            "language": "en",
+            "title": "Arthur Laurents",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Arthur Laurents",
+            "aliases": ["Arthur Levine"]
+          }
+        ],
+        "summaries": {
+          "en": "American playwright, theatre director and screenwriter (1917–2011)",
+          "fr": "dramaturge, scénariste et metteur en scène"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q710334",
+            "url": "https://www.wikidata.org/wiki/Q710334",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q395205",
+        "names": [
+          {
+            "language": "zh",
+            "title": "休姆·克羅寧",
+            "aliases": ["休姆·克罗宁"]
+          },
+          {
+            "language": "en",
+            "title": "Hume Cronyn",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Hume Cronyn",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "加拿大裔美國演員",
+          "en": "Canadian-American actor (1911–2003)",
+          "fr": "acteur canadien"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q395205",
+            "url": "https://www.wikidata.org/wiki/Q395205",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q369632",
+        "names": [
+          {
+            "language": "zh",
+            "title": "伊凡·亨特",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Evan Hunter",
+            "aliases": [
+              "Salvatore Albert Lombino",
+              "Hunt Collins",
+              "Curt Cannon",
+              "Dean Hudson",
+              "Richard Marsten",
+              "Ezra Hannon"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "Ed McBain",
+            "aliases": ["Salvatore Lombino", "Evan Hunter"]
+          }
+        ],
+        "summaries": {
+          "en": "American author and screenwriter (1926-2005)",
+          "fr": "écrivain et scénariste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q369632",
+            "url": "https://www.wikidata.org/wiki/Q369632",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q193357",
+        "names": [
+          {
+            "language": "zh",
+            "title": "達夫妮·莫里哀",
+            "aliases": ["达夫妮・杜穆里埃"]
+          },
+          {
+            "language": "en",
+            "title": "Daphne du Maurier",
+            "aliases": [
+              "Daphne Busson du Maurier Browning",
+              "Dame Daphne du Maurier",
+              "Dame Daphne Busson du Maurier"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "Daphne Du Maurier",
+            "aliases": ["Daphné du Maurier", "Daphnée du Maurier"]
+          }
+        ],
+        "summaries": {
+          "zh": "英国作家（1907—1989）",
+          "en": "British writer (1907–1989)",
+          "fr": "romancière, nouvelliste et dramaturge britannique, XXe siècle"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q193357",
+            "url": "https://www.wikidata.org/wiki/Q193357",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q939079",
+        "names": [
+          {
+            "language": "zh",
+            "title": "瓊·艾弗納",
+            "aliases": ["喬納森·米高·艾弗納", "乔恩·艾弗耐特", "乔恩·阿维奈"]
+          },
+          {
+            "language": "en",
+            "title": "Jon Avnet",
+            "aliases": ["Jonathan Michael Avnet"]
+          },
+          {
+            "language": "fr",
+            "title": "Jon Avnet",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美国电影导演、编剧兼制片人",
+          "en": "American film director, writer and producer (born 1949)",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q939079",
+            "url": "https://www.wikidata.org/wiki/Q939079",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q433207",
+        "names": [
+          {
+            "language": "zh",
+            "title": "芬尼·弗拉格",
+            "aliases": ["芬妮·傅雷格"]
+          },
+          {
+            "language": "en",
+            "title": "Fannie Flagg",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Fannie Flagg",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American actress, comedian and author",
+          "fr": "actrice américaine"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q433207",
+            "url": "https://www.wikidata.org/wiki/Q433207",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q513657",
+        "names": [
+          {
+            "language": "zh",
+            "title": "卡洛·索比斯基",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Carol Sobieski",
+            "aliases": ["Carol O'Brien Sobieski"]
+          },
+          {
+            "language": "fr",
+            "title": "Carol Sobieski",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter (1939-1990)",
+          "fr": "scénariste américaine"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q513657",
+            "url": "https://www.wikidata.org/wiki/Q513657",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q266535",
+        "names": [
+          {
+            "language": "zh",
+            "title": "法蘭索瓦·奧桑",
+            "aliases": ["法蘭索亞·奧桑", "弗朗索瓦·欧容"]
+          },
+          {
+            "language": "en",
+            "title": "François Ozon",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "François Ozon",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "法国导演、编剧",
+          "en": "French film director and screenwriter (born 1967)",
+          "fr": "réalisateur et scénariste français de cinéma"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q266535",
+            "url": "https://www.wikidata.org/wiki/Q266535",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q108047434",
+        "names": [
+          {
+            "language": "zh",
+            "title": "溫子仁",
+            "aliases": [
+              "占士·溫",
+              "詹姆士·溫",
+              "詹姆斯.溫",
+              "詹姆斯·溫",
+              "詹姆士·温",
+              "温子仁"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "James Wan",
+            "aliases": [
+              "Wan Tsz-yan",
+              "Wan Tsz Yan",
+              "James Wan Tsz Yan",
+              "James Wan Tsz-yan",
+              "James Wan Tsz-Yan",
+              "Wen Ziren"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "James Wan",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "出生於馬來西亞的澳大利亞華裔電影導演、編劇、製片人和漫畫作家",
+          "en": "Malaysian-Australian filmmaker (born 1977)",
+          "fr": "cinéaste sino-américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q108047434",
+            "url": "https://www.wikidata.org/wiki/Q108047434",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q471215",
+        "names": [
+          {
+            "language": "zh",
+            "title": "雷·沃納爾",
+            "aliases": ["雷·怀纳尔"]
+          },
+          {
+            "language": "en",
+            "title": "Leigh Whannell",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Leigh Whannell",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "Australian filmmaker and actor",
+          "fr": "cinéaste et acteur australien"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q471215",
+            "url": "https://www.wikidata.org/wiki/Q471215",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q51552",
+        "names": [
+          {
+            "language": "zh",
+            "title": "羅曼·波蘭斯基",
+            "aliases": ["罗曼·波兰斯基", "波蘭斯基", "波兰斯基"]
+          },
+          {
+            "language": "en",
+            "title": "Roman Polanski",
+            "aliases": [
+              "Rajmund Roman Thierry Polański",
+              "Polanski",
+              "Raymond Roman Thierry Liebling",
+              "Raymond Roman Thierry Polański"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "Roman Polanski",
+            "aliases": ["Roman Polański"]
+          }
+        ],
+        "summaries": {
+          "zh": "波兰犹太裔电影导演",
+          "en": "French-Polish filmmaker (born 1933)",
+          "fr": "réalisateur, producteur et scénariste franco-polonais"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q51552",
+            "url": "https://www.wikidata.org/wiki/Q51552",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q981246",
+        "names": [
+          {
+            "language": "zh",
+            "title": "謝勒·巴治",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Gérard Brach",
+            "aliases": ["Gerard Brach", "Gérard Jean Brach"]
+          },
+          {
+            "language": "fr",
+            "title": "Gérard Brach",
+            "aliases": ["Gerard Brach", "Gérard Jean Brach"]
+          }
+        ],
+        "summaries": {
+          "en": "French screenwriter and film director (1927–2006)",
+          "fr": "scénariste et réalisateur français"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q981246",
+            "url": "https://www.wikidata.org/wiki/Q981246",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q314935",
+        "names": [
+          {
+            "language": "zh",
+            "title": "保羅·海吉斯",
+            "aliases": ["保羅·夏傑斯", "保罗·哈吉斯", "保罗·愛德華·哈吉斯"]
+          },
+          {
+            "language": "en",
+            "title": "Paul Haggis",
+            "aliases": ["Paul Edward Haggis"]
+          },
+          {
+            "language": "fr",
+            "title": "Paul Haggis",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "加拿大編劇，製片人和導演",
+          "en": "Canadian screenwriter and director (born 1953)",
+          "fr": "réalisateur, scénariste et producteur canadien"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q314935",
+            "url": "https://www.wikidata.org/wiki/Q314935",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q370765",
+        "names": [
+          {
+            "language": "zh",
+            "title": "马克·鲍尔",
+            "aliases": ["Mark Boal", "馬克·寶爾", "马克·波尔"]
+          },
+          {
+            "language": "en",
+            "title": "Mark Boal",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Mark Boal",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American journalist, screenwriter and film producer",
+          "fr": "journaliste, scénariste et producteur américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q370765",
+            "url": "https://www.wikidata.org/wiki/Q370765",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q47284",
+        "names": [
+          {
+            "language": "zh",
+            "title": "罗伯特·罗德里格兹",
+            "aliases": ["羅拔洛迪格斯", "羅伯特·羅德里格斯", "羅伯·洛瑞葛茲"]
+          },
+          {
+            "language": "en",
+            "title": "Robert Rodriguez",
+            "aliases": ["Robert Anthony Rodríguez", "Robert Anthony Rodriguez"]
+          },
+          {
+            "language": "fr",
+            "title": "Robert Rodriguez",
+            "aliases": ["Robert Rodríguez"]
+          }
+        ],
+        "summaries": {
+          "en": "American filmmaker (born 1968)",
+          "fr": "cinéaste, compositeur de musique de films"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q47284",
+            "url": "https://www.wikidata.org/wiki/Q47284",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3059246",
+        "names": [
+          {
+            "language": "zh",
+            "title": "伊森·曼尼奎斯",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Ethan Maniquis",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Ethan Maniquis",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film editor"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3059246",
+            "url": "https://www.wikidata.org/wiki/Q3059246",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q1354716",
+        "names": [
+          {
+            "language": "zh",
+            "title": "羅傑·米歇爾",
+            "aliases": ["罗杰·米歇尔", "羅傑·米契爾", "羅傑·米切爾"]
+          },
+          {
+            "language": "en",
+            "title": "Roger Michell",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Roger Michell",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "British theatre, television and film director (1956-2021)",
+          "fr": "régisseur de théâtre, télévision et cinéma sud-africain (1956-2021)"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q1354716",
+            "url": "https://www.wikidata.org/wiki/Q1354716",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3808679",
+        "names": [
+          {
+            "language": "zh",
+            "title": "喬·彭哈爾",
+            "aliases": ["喬·裴霍爾", "喬·彭霍爾", "喬·潘霍", "祖·彭霍爾"]
+          },
+          {
+            "language": "en",
+            "title": "Joe Penhall",
+            "aliases": ["Joe Scott Penhall"]
+          },
+          {
+            "language": "fr",
+            "title": "Joe Penhall",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "British writer",
+          "fr": "écrivain britannique"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3808679",
+            "url": "https://www.wikidata.org/wiki/Q3808679",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q190379",
+        "names": [
+          {
+            "language": "zh",
+            "title": "伊恩·麥克伊旺",
+            "aliases": ["依仁·麥伊雲", "伊恩·麦克尤恩"]
+          },
+          {
+            "language": "en",
+            "title": "Ian McEwan",
+            "aliases": ["Ian Russell McEwan"]
+          },
+          {
+            "language": "fr",
+            "title": "Ian McEwan",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "英国小说家、剧作家",
+          "en": "British author (born 1948)",
+          "fr": "écrivain britannique"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q190379",
+            "url": "https://www.wikidata.org/wiki/Q190379",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3163251",
+        "names": [
+          {
+            "language": "zh",
+            "title": "傑·普列松·阿倫",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Jay Presson Allen",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Jay Presson Allen",
+            "aliases": ["Jay Allen"]
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter, producer, playwright (1922-2006)",
+          "fr": "scénariste et productrice américaine"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3163251",
+            "url": "https://www.wikidata.org/wiki/Q3163251",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q598029",
+        "names": [
+          {
+            "language": "zh",
+            "title": "温斯顿·格瑞艾姆",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Winston Graham",
+            "aliases": ["Winston Mawdsley Graham"]
+          },
+          {
+            "language": "fr",
+            "title": "Winston Graham",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "English novelist (1908–2003)",
+          "fr": "écrivain britannique"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q598029",
+            "url": "https://www.wikidata.org/wiki/Q598029",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q13595531",
+        "names": [
+          {
+            "language": "zh",
+            "title": "伊森·柯恩",
+            "aliases": ["伊桑·科恩", "伊桑·库恩"]
+          },
+          {
+            "language": "en",
+            "title": "Ethan Coen",
+            "aliases": ["Ethan Jesse Coen", "Ethan J. Coen"]
+          },
+          {
+            "language": "fr",
+            "title": "Ethan Coen",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director, screenwriter, producer, cinematographer and editor (born 1957)",
+          "fr": "cinéaste et auteur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q13595531",
+            "url": "https://www.wikidata.org/wiki/Q13595531",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q13595311",
+        "names": [
+          {
+            "language": "zh",
+            "title": "乔尔·科恩",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Joel Coen",
+            "aliases": ["Joel D. Coen", "Joel Cohen", "Joel Daniel Coen"]
+          },
+          {
+            "language": "fr",
+            "title": "Joel Coen",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美國電影導演、編劇、製片人、攝影師和編輯",
+          "en": "American film director, screenwriter, producer, cinematographer and editor (born 1954)",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q13595311",
+            "url": "https://www.wikidata.org/wiki/Q13595311",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q56095",
+        "names": [
+          {
+            "language": "zh",
+            "title": "科恩兄弟",
+            "aliases": ["高安兄弟", "柯安兄弟", "柯恩兄弟"]
+          },
+          {
+            "language": "en",
+            "title": "Coen brothers",
+            "aliases": [
+              "Roderick Jaynes",
+              "Joel and Ethan Coen",
+              "Ethan and Joel Coen",
+              "the Coens"
+            ]
+          },
+          {
+            "language": "fr",
+            "title": "Joel et Ethan Coen",
+            "aliases": ["frères Coen"]
+          }
+        ],
+        "summaries": {
+          "zh": "美國製片二人組合",
+          "en": "American filmmakers",
+          "fr": "cinéastes américains"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q56095",
+            "url": "https://www.wikidata.org/wiki/Q56095",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q220751",
+        "names": [
+          {
+            "language": "zh",
+            "title": "布賴恩·辛格",
+            "aliases": ["布萊恩·辛格"]
+          },
+          {
+            "language": "en",
+            "title": "Bryan Singer",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Bryan Singer",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director and producer",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q220751",
+            "url": "https://www.wikidata.org/wiki/Q220751",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q337658",
+        "names": [
+          {
+            "language": "zh",
+            "title": "克里斯托夫·迈考利",
+            "aliases": ["克里斯托福·麥奎利"]
+          },
+          {
+            "language": "en",
+            "title": "Christopher McQuarrie",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Christopher McQuarrie",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter, producer and director (born 1968)",
+          "fr": "réalisateur et scénariste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q337658",
+            "url": "https://www.wikidata.org/wiki/Q337658",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q363005",
+        "names": [
+          {
+            "language": "zh",
+            "title": "約翰·辛格頓",
+            "aliases": [
+              "約翰·辛格爾頓",
+              "約翰·辛戈頓",
+              "约翰·辛格尔顿",
+              "约翰·辛格顿",
+              "尊·星高頓"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "John Singleton",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "John Singleton",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director, screenwriter, and producer (1968–2019)",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q363005",
+            "url": "https://www.wikidata.org/wiki/Q363005",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q11903371",
+        "names": [
+          {
+            "language": "zh",
+            "title": "肖恩·克里斯汀森",
+            "aliases": ["尚恩·克里斯登森", "尚恩・克里斯汀森"]
+          },
+          {
+            "language": "en",
+            "title": "Shawn Christensen",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Shawn Christensen",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "film maker and musician"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q11903371",
+            "url": "https://www.wikidata.org/wiki/Q11903371",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q129079",
+        "names": [
+          {
+            "language": "zh",
+            "title": "保羅·范赫文",
+            "aliases": [
+              "保罗·范霍文",
+              "保羅韋浩雲",
+              "保罗·弗胡芬",
+              "保罗·费尔胡芬"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Paul Verhoeven",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Paul Verhoeven",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "荷兰导演、编剧",
+          "en": "Dutch film director (born 1938)",
+          "fr": "réalisateur hollandais"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q129079",
+            "url": "https://www.wikidata.org/wiki/Q129079",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q220834",
+        "names": [
+          {
+            "language": "zh",
+            "title": "喬·伊斯特哈斯",
+            "aliases": ["乔·伊斯特哈斯", "喬·伊斯特哈茲"]
+          },
+          {
+            "language": "en",
+            "title": "Joe Eszterhas",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Joe Eszterhas",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "Hungarian-American screenwriter",
+          "fr": "scénariste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q220834",
+            "url": "https://www.wikidata.org/wiki/Q220834",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q434060",
+        "names": [
+          {
+            "language": "zh",
+            "title": "妮可·加西亞",
+            "aliases": ["妮可·賈西亞"]
+          },
+          {
+            "language": "en",
+            "title": "Nicole Garcia",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Nicole Garcia",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "法国演员",
+          "en": "French actress, film director and screenwriter (born 1946)",
+          "fr": "actrice, réalisatrice et scénariste française"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q434060",
+            "url": "https://www.wikidata.org/wiki/Q434060",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q2485848",
+        "names": [
+          {
+            "language": "zh",
+            "title": "羅伊·威廉·奧尼爾",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Roy William Neill",
+            "aliases": ["Roy Neill", "R. William Neill"]
+          },
+          {
+            "language": "fr",
+            "title": "Roy William Neill",
+            "aliases": ["Roy Neill", "R. William Neill", "Roland de Gostrie"]
+          }
+        ],
+        "summaries": {
+          "en": "Irish-American film director (1887–1946)",
+          "fr": "acteur, producteur, réalisateur et scénariste"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q2485848",
+            "url": "https://www.wikidata.org/wiki/Q2485848",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q2591160",
+        "names": [
+          {
+            "language": "zh",
+            "title": "弗蘭克·格魯伯",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Frank Gruber",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Frank Gruber",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American writer (1904-1969)",
+          "fr": "écrivain américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q2591160",
+            "url": "https://www.wikidata.org/wiki/Q2591160",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q55420",
+        "names": [
+          {
+            "language": "zh",
+            "title": "弗雷德·金尼曼",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Fred Zinnemann",
+            "aliases": ["Alfred Zinnemann"]
+          },
+          {
+            "language": "fr",
+            "title": "Fred Zinnemann",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "奧美電影導演",
+          "en": "Austrian film director (1907-1997)",
+          "fr": "réalisateur et producteur américain, d'origine austro-hongroise"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q55420",
+            "url": "https://www.wikidata.org/wiki/Q55420",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q3122178",
+        "names": [
+          {
+            "language": "zh",
+            "title": "蓋伊·特羅斯珀",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Guy Trosper",
+            "aliases": ["Guy Walter Trosper"]
+          },
+          {
+            "language": "fr",
+            "title": "Guy Trosper",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter (1911-1963)",
+          "fr": "scénariste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q3122178",
+            "url": "https://www.wikidata.org/wiki/Q3122178",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q41148",
+        "names": [
+          {
+            "language": "zh",
+            "title": "马丁·斯科塞斯",
+            "aliases": [
+              "馬田·史高西斯",
+              "馬丁·斯科西斯",
+              "馬丁史柯西斯",
+              "马丁·西科塞斯",
+              "馬田史高斯",
+              "馬田史高西斯"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Martin Scorsese",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Martin Scorsese",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "zh": "美國電影導演、編劇、製片人、演員",
+          "en": "American filmmaker (born 1942)",
+          "fr": "cinéaste américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q41148",
+            "url": "https://www.wikidata.org/wiki/Q41148",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q1684311",
+        "names": [
+          {
+            "language": "zh",
+            "title": "傑伊·庫克斯",
+            "aliases": [
+              "傑·柯克斯",
+              "杰伊·库克斯",
+              "杰伊·考克斯",
+              "傑伊·考克斯"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Jay Cocks",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Jay Cocks",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American screenwriter",
+          "fr": "scénariste américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q1684311",
+            "url": "https://www.wikidata.org/wiki/Q1684311",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q291141",
+        "names": [
+          {
+            "language": "zh",
+            "title": "史蒂芬·澤里安",
+            "aliases": [
+              "史蒂文·札利安",
+              "史蒂芬·席連",
+              "史蒂夫·澤里安",
+              "史蒂芬·柴里安",
+              "史丹·薛文",
+              "斯蒂文·扎里安"
+            ]
+          },
+          {
+            "language": "en",
+            "title": "Steven Zaillian",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Steven Zaillian",
+            "aliases": []
+          }
+        ],
+        "summaries": {
+          "en": "American film director",
+          "fr": "réalisateur américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q291141",
+            "url": "https://www.wikidata.org/wiki/Q291141",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q154490",
+        "names": [
+          {
+            "language": "zh",
+            "title": "讓-雅克·阿諾",
+            "aliases": ["讓·雅克·安納德", "让·雅克·阿诺"]
+          },
+          {
+            "language": "en",
+            "title": "Jean-Jacques Annaud",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Jean-Jacques Annaud",
+            "aliases": ["Annaud"]
+          }
+        ],
+        "summaries": {
+          "zh": "電影導演",
+          "en": "French film director, screenwriter and producer (born 1943)",
+          "fr": "réalisateur français"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q154490",
+            "url": "https://www.wikidata.org/wiki/Q154490",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q503767",
+        "names": [
+          {
+            "language": "zh",
+            "title": "安德魯·柏金",
+            "aliases": ["安德魯·伯金", "安德魯·比爾金"]
+          },
+          {
+            "language": "en",
+            "title": "Andrew Birkin",
+            "aliases": ["Andrew Timothy Birkin"]
+          },
+          {
+            "language": "fr",
+            "title": "Andrew Birkin",
+            "aliases": ["Andrew Timothy Birkin"]
+          }
+        ],
+        "summaries": {
+          "en": "British film director and screenwriter",
+          "fr": "réalisateur de cinéma et scénariste britannique"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q503767",
+            "url": "https://www.wikidata.org/wiki/Q503767",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q84199",
+        "names": [
+          {
+            "language": "zh",
+            "title": "米夏埃尔·哈内克",
+            "aliases": []
+          },
+          {
+            "language": "en",
+            "title": "Michael Haneke",
+            "aliases": []
+          },
+          {
+            "language": "fr",
+            "title": "Michael Haneke",
+            "aliases": ["Haneke"]
+          }
+        ],
+        "summaries": {
+          "zh": "奧地利電影導演兼編劇",
+          "en": "Austrian film director and screenwriter (born 1942)",
+          "fr": "réalisateur et scénariste autrichien"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q84199",
+            "url": "https://www.wikidata.org/wiki/Q84199",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q444583",
+        "names": [
+          {
+            "language": "zh",
+            "title": "D.J.克魯索",
+            "aliases": ["D·J·加路素"]
+          },
+          {
+            "language": "en",
+            "title": "D.J. Caruso",
+            "aliases": ["DJ Caruso", "Daniel John Caruso Jr."]
+          },
+          {
+            "language": "fr",
+            "title": "D. J. Caruso",
+            "aliases": ["D.J Caruso", "D.J. Caruso"]
+          }
+        ],
+        "summaries": {
+          "en": "American film and television director",
+          "fr": "réalisateur américain"
+        },
+        "roles": ["director"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q444583",
+            "url": "https://www.wikidata.org/wiki/Q444583",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-Q182642",
+        "names": [
+          {
+            "language": "zh",
+            "title": "约翰·格伦",
+            "aliases": ["约翰·赫歇尔·格伦", "約翰·赫雪爾·葛倫", "约翰·葛伦"]
+          },
+          {
+            "language": "en",
+            "title": "John Glenn",
+            "aliases": ["John Herschel Glenn Jr."]
+          },
+          {
+            "language": "fr",
+            "title": "John Glenn",
+            "aliases": ["John Herschel Glenn Jr", "John H. Glenn"]
+          }
+        ],
+        "summaries": {
+          "zh": "美国宇航员（1921—2016）",
+          "en": "American astronaut and politician (1921–2016)",
+          "fr": "astronaute, pilote de chasse et homme politique américain"
+        },
+        "roles": ["writer"],
+        "sources": [
+          {
+            "provider": "Wikidata",
+            "externalId": "Q182642",
+            "url": "https://www.wikidata.org/wiki/Q182642",
+            "checkedAt": "2026-10-20T21:13:24.348Z"
+          }
+        ]
+      }
+    ],
+    "culture": [],
+    "places": [],
+    "series": [],
+    "versions": [
+      {
+        "id": "ol-OL50648604M",
+        "workId": "ol-OL34224558W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Never Lie"
+      },
+      {
+        "id": "ol-OL26379432M",
+        "workId": "ol-OL472165W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Peril at End House"
+      },
+      {
+        "id": "ol-OL50517844M",
+        "workId": "ol-OL472549W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "The Man in the Brown Suit"
+      },
+      {
+        "id": "ol-OL40281128M",
+        "workId": "ol-OL472542W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "The Secret of Chimneys"
+      },
+      {
+        "id": "ol-OL51009206M",
+        "workId": "ol-OL265415W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "At Bertram's Hotel"
+      },
+      {
+        "id": "ol-OL26336963M",
+        "workId": "ol-OL471500W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "What Mrs. McGillicuddy Saw!"
+      },
+      {
+        "id": "ol-OL51012140M",
+        "workId": "ol-OL471990W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "The Mirror Crack'd from Side to Side"
+      },
+      {
+        "id": "ol-OL7666467M",
+        "workId": "ol-OL471871W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Murder with Mirrors"
+      },
+      {
+        "id": "ol-OL7666500M",
+        "workId": "ol-OL471832W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Hallowe'en Party"
+      },
+      {
+        "id": "ol-OL58597951M",
+        "workId": "ol-OL471947W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "The Big Four (Hercule Poirot Mysteries)"
+      },
+      {
+        "id": "ol-OL46971624M",
+        "workId": "ol-OL471943W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Funerals are Fatal"
+      },
+      {
+        "id": "ol-OL50637517M",
+        "workId": "ol-OL31191485W",
+        "language": "en",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "The Inmate"
+      },
+      {
+        "id": "ol-OL61875964M",
+        "workId": "ol-OL34224558W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "La Psy"
+      },
+      {
+        "id": "ol-OL8912580M",
+        "workId": "ol-OL472165W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "La maison du péril"
+      },
+      {
+        "id": "ol-OL31882529M",
+        "workId": "ol-OL472549W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "L'homme au complet marron"
+      },
+      {
+        "id": "ol-OL51152928M",
+        "workId": "ol-OL472542W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Le Secret de Chimneys"
+      },
+      {
+        "id": "ol-OL50556449M",
+        "workId": "ol-OL265415W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "A l'hotel Bertram"
+      },
+      {
+        "id": "ol-OL21797166M",
+        "workId": "ol-OL471500W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Le train de 16 heures 50"
+      },
+      {
+        "id": "ol-OL12520600M",
+        "workId": "ol-OL471990W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Le Miroir se brisa"
+      },
+      {
+        "id": "ol-OL39814838M",
+        "workId": "ol-OL471871W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Jeux de glaces"
+      },
+      {
+        "id": "ol-OL45848016M",
+        "workId": "ol-OL471832W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "LA FETE DU POTIRON"
+      },
+      {
+        "id": "ol-OL51012136M",
+        "workId": "ol-OL471947W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Le quatre"
+      },
+      {
+        "id": "ol-OL8912649M",
+        "workId": "ol-OL471943W",
+        "language": "fr",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Les indiscretions d'hercule poirot"
+      },
+      {
+        "id": "ol-OL57582441M",
+        "workId": "ol-OL31191485W",
+        "language": "es",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "El recluso"
+      },
+      {
+        "id": "ol-OL62369738M",
+        "workId": "ol-OL34224558W",
+        "language": "de",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Die Psychiaterin"
+      },
+      {
+        "id": "ol-OL22901721M",
+        "workId": "ol-OL472549W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "He yi nan zi"
+      },
+      {
+        "id": "ol-OL22901750M",
+        "workId": "ol-OL265415W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Bocuimen lü guan zhi mi"
+      },
+      {
+        "id": "ol-OL22901735M",
+        "workId": "ol-OL471500W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Ming an mu tu chi"
+      },
+      {
+        "id": "ol-OL32151136M",
+        "workId": "ol-OL471990W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Ching tz'u mo shu"
+      },
+      {
+        "id": "ol-OL22901716M",
+        "workId": "ol-OL471871W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Jing zi mo shu"
+      },
+      {
+        "id": "ol-OL22901764M",
+        "workId": "ol-OL471832W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Wan ling jie zhi si"
+      },
+      {
+        "id": "ol-OL22901755M",
+        "workId": "ol-OL471947W",
+        "language": "zh",
+        "subtitleLanguages": [],
+        "translatorIds": [],
+        "title": "Si da mo tou"
+      }
+    ],
+    "availability": [],
+    "relations": []
+  },
+  "events": [
+    {
+      "id": "paris-66776",
+      "title": "Notre-Dame de Paris : les mystères de la reconstruction",
+      "description": "Explorez l’histoire de Notre-Dame après l’incendie de 2019.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2024-10-01T00:00:00+00:00",
+      "endsAt": "2027-12-31T23:59:59+00:00",
+      "schedule": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
+      "venue": "Pont au Double",
+      "address": "Quai de Montebello",
+      "postalCode": "75004",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.857037,
+        "lon": 2.349401
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/notre-dame-de-paris-les-mysteres-de-la-reconstruction-66776",
+      "bookingUrl": "https://cultival.fr/fr_FR/products/indiv/notre-dame-de-paris-les-mysteres-de-la-reconstruction",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "66776",
+          "url": "https://www.paris.fr/evenements/notre-dame-de-paris-les-mysteres-de-la-reconstruction-66776",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-41151",
+      "title": "The Live Thriller : l'expérience d'une enquête criminelle",
+      "description": "The Live Thriller est une expérience 100% interactive. Vous serez plongés au cœur de l’action, et devrez mener une enquête criminelle avec des comédiens professionnels, dont le comportement s’adapte à vos actions et décisions.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2024-08-01T00:00:00+00:00",
+      "endsAt": "2027-12-31T23:59:59+00:00",
+      "schedule": "Du jeudi 01 août 2024 au vendredi 31 décembre 2027 :",
+      "venue": "Live Thriller",
+      "address": "Rue de Trétaigne",
+      "postalCode": "75018",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8920159707381,
+        "lon": 2.34228506903892
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/the-live-thriller-l-experience-d-une-enquete-criminelle-41151",
+      "bookingUrl": "https://borderliveconcepts.com/thelivethriller/",
+      "keywords": ["thriller", "enquete criminelle"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "41151",
+          "url": "https://www.paris.fr/evenements/the-live-thriller-l-experience-d-une-enquete-criminelle-41151",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-66778",
+      "title": "Les mystères du Père Lachaise",
+      "description": "Laissez-vous surprendre par les mystères qu’il abrite !",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2024-10-01T00:00:00+00:00",
+      "endsAt": "2027-12-31T23:59:59+00:00",
+      "schedule": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
+      "venue": "Cimetière du Père Lachaise",
+      "address": "Entrée principale, boulevard du Ménilmontant",
+      "postalCode": "75020",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8630574000944,
+        "lon": 2.38739024941486
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/les-mysteres-du-pere-lachaise-66778",
+      "bookingUrl": "https://cultival.fr/fr_FR/products/indiv/les-mysteres-du-pere-lachaise",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "66778",
+          "url": "https://www.paris.fr/evenements/les-mysteres-du-pere-lachaise-66778",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115222",
+      "title": "On m'a trouvée grandie, une expérience magique à couper le souffle au Théâtre Silvia Monfort",
+      "description": "Quand la magie nouvelle s’empare de la poésie du soulèvement, de l’extase, de l’énigme, il en résulte une expérience fantasmagorique à couper le souffle. Apparitions, disparitions, lévitations : On m’a trouvée grandie déploie la puissance d’un langage visuel spectaculaire pour une plongée sensible au cœur de la Salpêtrière, à la fin du XIXème siècle.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2027-04-20T21:30:00+00:00",
+      "endsAt": "2027-05-05T23:00:00+00:00",
+      "schedule": "Le lundi 03 mai 2027 de 20h30 à 22h00 Le dimanche 25 avril 2027 de 15h00 à 16h30 Le samedi 24 avril 2027 de 20h30 à 22h00 Le samedi 24 avril 2027 de 15h00 à 16h30 Du mardi 20 avril 2027 au mercredi 05 mai 2027 : mardi, mercredi, jeudi, vendredi de 20h30 à 22h00",
+      "venue": "Théâtre Silvia Monfort",
+      "address": "106 RUE BRANCION",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.830303,
+        "lon": 2.301819
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/on-m-a-trouvee-grandie-une-experience-magique-a-couper-le-souffle-au-theatre-silvia-monfort-115222",
+      "bookingUrl": "https://theatresilviamonfort.mapado.com/event/752840-on-ma-trouvee-grandie",
+      "keywords": ["enigme"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115222",
+          "url": "https://www.paris.fr/evenements/on-m-a-trouvee-grandie-une-experience-magique-a-couper-le-souffle-au-theatre-silvia-monfort-115222",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-109811",
+      "title": "Escape game",
+      "description": "Votre mission, si vous l’acceptez, sera de pénétrer la musique de John Cage, un univers ouvert et ludique. Vous trouverez votre chemin en déchiffrant codes, lettres mystères et dessins énigmatiques. Un concert dont vous êtes le héros.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2027-04-04T11:00:00+00:00",
+      "endsAt": "2027-04-04T13:00:00+00:00",
+      "schedule": "Le dimanche 04 avril 2027 de 10h00 à 12h00",
+      "venue": "Philharmonie de Paris",
+      "address": "221 Av. Jean Jaurès",
+      "postalCode": "75019",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8891921088251,
+        "lon": 2.39355686595773
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/escape-game-109811",
+      "bookingUrl": "https://philharmoniedeparis.fr/fr/activite/spectacle-en-famille/29494-escape-game?itemId=145986",
+      "keywords": ["escape game", "mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "109811",
+          "url": "https://www.paris.fr/evenements/escape-game-109811",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-108063",
+      "title": "PERE, d'August Strindberg au Théâtre du Nord-Ouest",
+      "description": "Suède, 1900. Un drame familial aux accents de thriller.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-10-18T00:00:00+00:00",
+      "endsAt": "2027-01-28T23:59:59+00:00",
+      "schedule": "Du dimanche 18 octobre 2026 au jeudi 28 janvier 2027 :",
+      "venue": "Théâtre du Nord-Ouest",
+      "address": "13, rue du Faubourg Montmartre",
+      "postalCode": "75009",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8723869849333,
+        "lon": 2.34306296442779
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/pere-d-august-strindberg-au-theatre-du-nord-ouest-108063",
+      "bookingUrl": "https://www.billetreduc.com/spectacle/pere-395396",
+      "keywords": ["thriller"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "108063",
+          "url": "https://www.paris.fr/evenements/pere-d-august-strindberg-au-theatre-du-nord-ouest-108063",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-116193",
+      "title": "Exposition : Agatha Christie et le voyage",
+      "description": "Pour commémorer les 50 ans de la mort d'Agatha Christie, nous vous proposons une exposition sous le biais du voyage, en collaboration avec les bibliothèques spécialisées de la Ville de Paris.",
+      "descriptionLanguage": "fr",
+      "kind": "reading",
+      "startsAt": "2026-11-24T00:00:00+00:00",
+      "endsAt": "2027-01-06T23:59:59+00:00",
+      "schedule": "Du mardi 24 novembre 2026 au mercredi 06 janvier 2027 :",
+      "venue": "Médiathèque Marguerite Yourcenar",
+      "address": "41, rue d'Alleray",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.836807,
+        "lon": 2.303481
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/exposition-agatha-christie-et-le-voyage-116193",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "116193",
+          "url": "https://www.paris.fr/evenements/exposition-agatha-christie-et-le-voyage-116193",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-19244",
+      "title": "Jeu de Piste à Paris : Sous les Passages Couverts",
+      "description": "Découvrez les passages couverts de Paris au fil d'une enquête du célèbre Vidocq ! Vous aimez l'aventure ? Vous voulez découvrir Paris autrement et passer une après-midi originale en famille ou entre amis ? Venez participer à un jeu de piste et défiez d'autres équipes. En équipe de 3 à 6 personnes, il faudra faire appel à votre sens de l'observation, faire preuve de réflexion et de déduction pour résoudre l'énigme avant les autres.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-11T15:30:00+00:00",
+      "endsAt": "2026-12-26T17:15:00+00:00",
+      "schedule": "Le samedi 26 décembre 2026 de 14h30 à 17h15 Le samedi 19 décembre 2026 de 14h30 à 17h15 Le samedi 12 décembre 2026 de 14h30 à 17h15 Le samedi 05 décembre 2026 de 14h30 à 17h15 Le samedi 28 novembre 2026 de 14h30 à 17h15 Le samedi 21 novembre 2026 de 13h45 à 16h30 Le samedi 31 octobre 2026 de 14h30 à 17h15",
+      "venue": "départ : square Montholon",
+      "address": "2 Rue Mayran",
+      "postalCode": "75009",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8772030169504,
+        "lon": 2.3456780343995
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/jeu-de-piste-a-paris-19244",
+      "bookingUrl": "https://parismabelle.com/reserver/",
+      "keywords": ["enigme"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "19244",
+          "url": "https://www.paris.fr/evenements/jeu-de-piste-a-paris-19244",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-124356",
+      "title": "Escape game : Tous contre Cornebidouille !",
+      "description": "Un jeu d'énigme pour les 6-11 ans créé par Le lapin Blanc à partir des albums \"Cornebidouille\" de Pierre Bertrand et Magali Bonniol (Ecole des loisirs).",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-12-16T16:00:00+00:00",
+      "endsAt": "2026-12-19T16:00:00+00:00",
+      "schedule": "Le samedi 19 décembre 2026 de 15h00 à 16h00 Le mercredi 16 décembre 2026 de 16h00 à 17h00",
+      "venue": "Médiathèque Marguerite Yourcenar",
+      "address": "41, rue d'Alleray",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.836807,
+        "lon": 2.303481
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/escape-game-tous-contre-cornebidouille-124356",
+      "bookingUrl": "https://www.billetweb.fr/pro/agendayourcenar",
+      "keywords": ["escape game", "enigme"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "124356",
+          "url": "https://www.paris.fr/evenements/escape-game-tous-contre-cornebidouille-124356",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125600",
+      "title": "Big Mother",
+      "description": "BIG MOTHER est un thriller politico-journalistique sur la manipulation de masse à l’heure du big data.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2023-02-08T19:00:00+00:00",
+      "endsAt": "2026-12-13T20:40:00+00:00",
+      "schedule": "Du mardi 07 février 2023 au mardi 15 décembre 2026 : samedi de 17h00 à 18h40 mercredi, jeudi, vendredi, dimanche de 19h00 à 20h40",
+      "venue": "Théâtre des Béliers Parisiens",
+      "address": "14, bis rue Sainte-Isaure",
+      "postalCode": "75018",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8936450001288,
+        "lon": 2.34425596070673
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/big-mother-125600",
+      "bookingUrl": "https://www.theatredesbeliersparisiens.com/spectacle/big-mother/",
+      "keywords": ["thriller"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125600",
+          "url": "https://www.paris.fr/evenements/big-mother-125600",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-114947",
+      "title": "A la recherche d'Agatha Christie dans les bibliothèques du sud-ouest parisien",
+      "description": "2026 marque le cinquantenaire de la disparition d'Agatha Christie. Pour commémorer l'œuvre et le parcours de la reine du crime, les bibliothécaires du sud-ouest parisien vous proposent un ensemble d'animations variées pour petits et grands !",
+      "descriptionLanguage": "fr",
+      "kind": "walk",
+      "startsAt": "2026-09-12T00:00:00+00:00",
+      "endsAt": "2026-12-12T23:59:59+00:00",
+      "schedule": "Du samedi 12 septembre 2026 au samedi 12 décembre 2026 :",
+      "venue": "Bibliothèque Benoîte Groult",
+      "address": "25 Rue du Commandant René Mouchotte",
+      "postalCode": "75014",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.83825,
+        "lon": 2.319986
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/a-la-recherche-d-agatha-christie-dans-les-bibliotheques-du-sud-ouest-parisien-114947",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "114947",
+          "url": "https://www.paris.fr/evenements/a-la-recherche-d-agatha-christie-dans-les-bibliotheques-du-sud-ouest-parisien-114947",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-117401",
+      "title": "Atelier Diorama - Scènes d'Agatha",
+      "description": "Croisière fâcheuse sur le Nil ? Voyage tumultueux sur l'Orient Express ? Scène de crime dans une bibliothèque ?",
+      "descriptionLanguage": "fr",
+      "kind": "reading",
+      "startsAt": "2026-12-12T15:00:00+00:00",
+      "endsAt": "2026-12-12T17:00:00+00:00",
+      "schedule": "Le samedi 12 décembre 2026 de 15h00 à 17h00",
+      "venue": "Bibliothèque Gutenberg",
+      "address": "8 rue de la Montagne d'Aulas",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.840208,
+        "lon": 2.278706
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/atelier-diorama-scenes-d-agatha-117401",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "117401",
+          "url": "https://www.paris.fr/evenements/atelier-diorama-scenes-d-agatha-117401",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115588",
+      "title": "Agatha Christie portée à l'écran",
+      "description": "Les bibliothécaires vous proposent une conférence cinéma sur les œuvres d'Agatha Christie portées à l'écran. Entrée libre",
+      "descriptionLanguage": "fr",
+      "kind": "screening",
+      "startsAt": "2026-12-12T15:30:00+00:00",
+      "endsAt": "2026-12-12T17:00:00+00:00",
+      "schedule": "Le samedi 12 décembre 2026 de 15h30 à 17h00",
+      "venue": "Bibliothèque Andrée Chedid",
+      "address": "36, rue Emeriau",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.850016,
+        "lon": 2.286431
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/agatha-christie-portee-a-l-ecran-115588",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115588",
+          "url": "https://www.paris.fr/evenements/agatha-christie-portee-a-l-ecran-115588",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115602",
+      "title": "Petites histoires électriques",
+      "description": "De l'ambre des Grecs anciens à la découverte de l'électron par Thomson, lumière sur un long mystère",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-12-12T15:00:00+00:00",
+      "endsAt": "2026-12-12T16:00:00+00:00",
+      "schedule": "Le samedi 12 décembre 2026 de 15h00 à 16h00",
+      "venue": "Bibliothèque Mohammed Arkoun",
+      "address": "74 rue Mouffetard",
+      "postalCode": "75005",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.842298,
+        "lon": 2.34967
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/petites-histoires-electriques-115602",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115602",
+          "url": "https://www.paris.fr/evenements/petites-histoires-electriques-115602",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-116191",
+      "title": "Soirée jeux de société : enquêtes, puzzles et autres mystères",
+      "description": "Venez entre amis, en famille ou en solo pour tester différents jeux de société et puzzles sur le thème du mystère !",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-12-11T19:00:00+00:00",
+      "endsAt": "2026-12-11T22:00:00+00:00",
+      "schedule": "Le vendredi 11 décembre 2026 de 19h00 à 22h00",
+      "venue": "Médiathèque Marguerite Yourcenar",
+      "address": "41, rue d'Alleray",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.836807,
+        "lon": 2.303481
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/soiree-jeux-de-societe-enquetes-puzzles-et-autres-mysteres-116191",
+      "bookingUrl": "https://www.billetweb.fr/pro/agendayourcenar",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "116191",
+          "url": "https://www.paris.fr/evenements/soiree-jeux-de-societe-enquetes-puzzles-et-autres-mysteres-116191",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-124089",
+      "title": "Jeu d'enquête à l'Hôtel de la Marine : 1792. L’affaire des joyaux disparus",
+      "description": "Le plus célèbre vol de la Révolution n'attend que vous. Prêts à mener l'enquête ?",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-11-13T18:30:00+00:00",
+      "endsAt": "2026-12-11T20:30:00+00:00",
+      "schedule": "Le vendredi 11 décembre 2026 de 18h30 à 20h30 Le vendredi 13 novembre 2026 de 18h30 à 20h30",
+      "venue": "Hôtel de la Marine",
+      "address": "2, place de la Concorde",
+      "postalCode": "75008",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8667269790856,
+        "lon": 2.32293902073192
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/jeu-d-enquete-a-l-hotel-de-la-marine-1792-l-affaire-des-joyaux-disparus-124089",
+      "bookingUrl": "https://www.hotel-de-la-marine.paris/agenda/jeu-d-enquete-1792.-l-affaire-des-joyaux-disparus",
+      "keywords": ["jeu d'enquete"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "124089",
+          "url": "https://www.paris.fr/evenements/jeu-d-enquete-a-l-hotel-de-la-marine-1792-l-affaire-des-joyaux-disparus-124089",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-124368",
+      "title": "Samedi jeux vidéo et réalité virtuelle : enquêtes et énigmes",
+      "description": "Ce samedi après-midi, devenez des détectives virtuels dignes d'Agatha Christie !",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-12-05T14:00:00+00:00",
+      "endsAt": "2026-12-05T17:00:00+00:00",
+      "schedule": "Le samedi 05 décembre 2026 de 14h00 à 17h00",
+      "venue": "Médiathèque Marguerite Yourcenar",
+      "address": "41, rue d'Alleray",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.836807,
+        "lon": 2.303481
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/samedi-jeux-video-et-realite-virtuelle-enquetes-et-enigmes-124368",
+      "keywords": ["detective", "enigme", "agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "124368",
+          "url": "https://www.paris.fr/evenements/samedi-jeux-video-et-realite-virtuelle-enquetes-et-enigmes-124368",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-116192",
+      "title": "Samedi Lecture : Agatha Christie",
+      "description": "Venez écouter des lectures à voix haute, et partager les vôtres, autour d'extraits d'œuvres d'Agatha Christie ou d'ouvrages sur la Reine du crime.",
+      "descriptionLanguage": "fr",
+      "kind": "reading",
+      "startsAt": "2026-12-05T10:30:00+00:00",
+      "endsAt": "2026-12-05T11:30:00+00:00",
+      "schedule": "Le samedi 05 décembre 2026 de 10h30 à 11h30",
+      "venue": "Médiathèque Marguerite Yourcenar",
+      "address": "41, rue d'Alleray",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.836807,
+        "lon": 2.303481
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/samedi-lecture-agatha-christie-116192",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "116192",
+          "url": "https://www.paris.fr/evenements/samedi-lecture-agatha-christie-116192",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-123367",
+      "title": "Le Bruit des Mouches débarque à Paris !",
+      "description": "Découvrez ce thriller comique déjanté au théâtre Montmartre Galabru tous les mardis à 19h30 du 15 Septembre au 1er Décembre !",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-09-15T20:30:00+00:00",
+      "endsAt": "2026-12-01T20:40:00+00:00",
+      "schedule": "Du mardi 15 septembre 2026 au mardi 01 décembre 2026 : mardi de 19h30 à 20h40",
+      "venue": "Théâtre Montmartre Galabru",
+      "address": "4, rue de l'Armée d'Orient",
+      "postalCode": "75018",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8872449979592,
+        "lon": 2.33453697633675
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/le-bruit-des-mouches-debarque-a-paris-123367",
+      "bookingUrl": "https://www.billetreduc.com/spectacle/le-bruit-des-mouches-408241",
+      "keywords": ["thriller"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "123367",
+          "url": "https://www.paris.fr/evenements/le-bruit-des-mouches-debarque-a-paris-123367",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-124744",
+      "title": "Escape game A.B.C contre Agatha Christie",
+      "description": "Plongez dans l'univers d'Agatha Christie en participant à cet escape game animé par les bibliothécaires.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-11-28T18:30:00+00:00",
+      "endsAt": "2026-11-28T19:30:00+00:00",
+      "schedule": "Le samedi 28 novembre 2026 de 18h30 à 19h30",
+      "venue": "Bibliothèque Amélie",
+      "address": "164 rue de Grenelle",
+      "postalCode": "75007",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.857995,
+        "lon": 2.308717
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/escape-game-a-b-c-contre-agatha-christie-124744",
+      "keywords": ["escape game", "agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "124744",
+          "url": "https://www.paris.fr/evenements/escape-game-a-b-c-contre-agatha-christie-124744",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115013",
+      "title": "A la poursuite d'Agatha Christie",
+      "description": "Pour commémorer les 50 ans de la mort d’Agatha Christie, Anne Martinetti vous propose une \"causerie\" intitulée \"A la poursuite d’Agatha Christie\". Sur inscription à partir du 28 octobre, pour adultes",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-11-28T15:30:00+00:00",
+      "endsAt": "2026-11-28T16:30:00+00:00",
+      "schedule": "Le samedi 28 novembre 2026 de 15h30 à 16h30",
+      "venue": "Bibliothèque Andrée Chedid",
+      "address": "36, rue Emeriau",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.850016,
+        "lon": 2.286431
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/a-la-poursuite-d-agatha-christie-115013",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115013",
+          "url": "https://www.paris.fr/evenements/a-la-poursuite-d-agatha-christie-115013",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-113336",
+      "title": "Atelier d'écriture - Histoires d'Agatha",
+      "description": "De septembre à décembre, nous commémorons les 50 ans de la mort d'Agatha Christie, l'incontestée Reine du Crime. Voici un atelier intergénérationnel pour créer en famille.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-11-21T15:00:00+00:00",
+      "endsAt": "2026-11-21T17:00:00+00:00",
+      "schedule": "Le samedi 21 novembre 2026 de 15h00 à 17h00",
+      "venue": "Bibliothèque Gutenberg",
+      "address": "8 rue de la Montagne d'Aulas",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.840208,
+        "lon": 2.278706
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/atelier-d-ecriture-histoires-d-agatha-113336",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "113336",
+          "url": "https://www.paris.fr/evenements/atelier-d-ecriture-histoires-d-agatha-113336",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-113079",
+      "title": "Book Club en anglais - spécial Agatha Christie",
+      "description": "Venez échanger autour des enquêtes de Miss Marple et d’Hercule Poirot, les mardi 17 novembre et samedi 21 novembre à la bibliothèque Germaine Tillion",
+      "descriptionLanguage": "fr",
+      "kind": "reading",
+      "startsAt": "2026-11-17T14:00:00+00:00",
+      "endsAt": "2026-11-21T13:00:00+00:00",
+      "schedule": "Le samedi 21 novembre 2026 de 11h00 à 13h00 Le mardi 17 novembre 2026 de 14h00 à 16h00",
+      "venue": "Bibliothèque Germaine Tillion",
+      "address": "6 rue du Commandant Schlœsing",
+      "postalCode": "75016",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.861836,
+        "lon": 2.284271
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/book-club-en-anglais-special-agatha-christie-113079",
+      "bookingUrl": "https://www.billetweb.fr/book-club-in-english-special-agatha-christie",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "113079",
+          "url": "https://www.paris.fr/evenements/book-club-en-anglais-special-agatha-christie-113079",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115438",
+      "title": "Ateliers d'écriture, spécial enquête : COMPLETS pour les 3 séances",
+      "description": "À l’occasion de la commémoration des 50 ans de la mort d’Agatha Christie, nous vous proposons d'écrire votre propre enquête en vous mettant dans la peau de la reine du crime.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-09-26T11:30:00+00:00",
+      "endsAt": "2026-11-21T12:30:00+00:00",
+      "schedule": "Le samedi 21 novembre 2026 de 10h30 à 12h30",
+      "venue": "Bibliothèque Aimé Césaire",
+      "address": "5 rue de Ridder",
+      "postalCode": "75014",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8312310021516,
+        "lon": 2.31166200819968
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/ateliers-d-ecriture-special-enquete-115438",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115438",
+          "url": "https://www.paris.fr/evenements/ateliers-d-ecriture-special-enquete-115438",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115445",
+      "title": "Soirée jeux de société spécial enquête",
+      "description": "À l’occasion de la commémoration des 50 ans de la mort d’Agatha Christie, nous vous proposons une soirée jeux de société dédiée à la reine du crime à travers le thème de l'enquête.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-11-20T18:00:00+00:00",
+      "endsAt": "2026-11-20T21:00:00+00:00",
+      "schedule": "Le vendredi 20 novembre 2026 de 18h00 à 21h00",
+      "venue": "Bibliothèque Aimé Césaire",
+      "address": "5 rue de Ridder",
+      "postalCode": "75014",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8312310021516,
+        "lon": 2.31166200819968
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/soiree-jeux-de-societe-special-enquete-115445",
+      "bookingUrl": "https://www.billetweb.fr/soiree-jeux-novembre-cesaire-enquete",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115445",
+          "url": "https://www.paris.fr/evenements/soiree-jeux-de-societe-special-enquete-115445",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-124312",
+      "title": "L'oreille et la plume spéciale Agatha Christie",
+      "description": "Les bibliothécaires vous proposent de vous faire deviner des titres de livres et de films autour de l'œuvre et de la figure d'Agatha Christie.",
+      "descriptionLanguage": "fr",
+      "kind": "screening",
+      "startsAt": "2026-11-13T14:30:00+00:00",
+      "endsAt": "2026-11-13T16:00:00+00:00",
+      "schedule": "Le vendredi 13 novembre 2026 de 14h30 à 16h00",
+      "venue": "Médiathèque Marguerite Yourcenar",
+      "address": "41, rue d'Alleray",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.836807,
+        "lon": 2.303481
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/l-oreille-et-la-plume-quiz-musique-et-cinema-124312",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "124312",
+          "url": "https://www.paris.fr/evenements/l-oreille-et-la-plume-quiz-musique-et-cinema-124312",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-117405",
+      "title": "24 Place Beaumarchais",
+      "description": "Comment se construire quand tout, autour de soi, semble déjà avoir décidé de la place qu’on occupera ? Brahim Koutari porte à la scène un récit intime et politique, né de son parcours d’enfant d’Échirolles devenu acteur. Une trajectoire singulière, traversée par les contrôles policiers, les assignations sociales, les rêves contrariés, mais aussi par l’amour des siens et de son quartier, la foi, l’entraide, l’humour et la découverte décisive du théâtre.",
+      "descriptionLanguage": "fr",
+      "kind": "walk",
+      "startsAt": "2026-10-30T19:30:00+00:00",
+      "endsAt": "2026-11-07T20:45:00+00:00",
+      "schedule": "Du vendredi 30 octobre 2026 au samedi 07 novembre 2026 : mardi, mercredi, jeudi, vendredi, samedi de 19h30 à 20h45",
+      "venue": "Théâtre de la Concorde",
+      "address": "1 Avenue Gabriel",
+      "postalCode": "75008",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8674259879009,
+        "lon": 2.31892802860537
+      },
+      "languages": [],
+      "price": "unknown",
+      "url": "https://www.paris.fr/evenements/24-place-beaumarchais-117405",
+      "bookingUrl": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229902386949",
+      "keywords": ["policier"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "117405",
+          "url": "https://www.paris.fr/evenements/24-place-beaumarchais-117405",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125513",
+      "title": "Un film et au lit avec Paddy la Petite souris !",
+      "description": "Jusqu'à la fin de l'année, les bibliothèques de la Ville de Paris rendent hommage à Agatha Christie ! À cette occasion, la bibliothèque Benoîte Groult vous propose de découvrir le film d'animation « Paddy, la petite souris ».",
+      "descriptionLanguage": "fr",
+      "kind": "screening",
+      "startsAt": "2026-11-07T18:00:00+00:00",
+      "endsAt": "2026-11-07T19:15:00+00:00",
+      "schedule": "Le samedi 07 novembre 2026 de 18h00 à 19h15",
+      "venue": "Bibliothèque Benoîte Groult",
+      "address": "25 Rue du Commandant René Mouchotte",
+      "postalCode": "75014",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.83825,
+        "lon": 2.319986
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/un-film-et-au-lit-avec-paddy-la-petite-souris-125513",
+      "bookingUrl": "https://www.billetweb.fr/bbg-07112026",
+      "keywords": ["agatha"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125513",
+          "url": "https://www.paris.fr/evenements/un-film-et-au-lit-avec-paddy-la-petite-souris-125513",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125410",
+      "title": "Murder party Halloween à Paris : La Meute",
+      "description": "Une nuit d'Halloween, des caves voûtées sur l'île Saint-Louis, vingt-quatre joueurs et des traîtres parmi vous. Réservez vos places, nous nous occupons du reste.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-26T00:00:00+00:00",
+      "endsAt": "2026-11-01T23:59:59+00:00",
+      "schedule": "Du lundi 26 octobre 2026 au dimanche 01 novembre 2026 :",
+      "venue": "Le Secret de l'Île",
+      "address": "9 quai de Bourbon",
+      "postalCode": "75004",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8525370037428,
+        "lon": 2.35660602448351
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/murder-party-halloween-a-paris-la-meute-125410",
+      "bookingUrl": "https://fr.gamescape.fr/escape-game-murder-halloween.html#sessions",
+      "keywords": ["murder"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125410",
+          "url": "https://www.paris.fr/evenements/murder-party-halloween-a-paris-la-meute-125410",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125527",
+      "title": "Día de los Muertos au Jardin d'Acclimatation : Quand le Mexique enchante l'automne parisien",
+      "description": "Depuis 1860, le Jardin d’Acclimatation célèbre les cultures du monde. Cet automne ne fera pas exception en vous proposant d’oublier les citrouilles traditionnelles pour célébrer la vie, le souvenir et la façon dont les Mexicains rendent hommage à leurs êtres chers en se déguisant, en se maquillant, en chantant, en dansant. Pendant tout le mois d’octobre, le Jardin d'Acclimatation se pare des teintes chatoyantes et des mystères du Día de los Muertos, la Grande Fête des Morts mexicaine pour offrir",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-10-03T00:00:00+00:00",
+      "endsAt": "2026-11-01T23:59:59+00:00",
+      "schedule": "Du samedi 03 octobre 2026 au dimanche 01 novembre 2026 :",
+      "venue": "Jardin d'Acclimatation - Bois de Boulogne",
+      "address": "Carrefour des Sablons",
+      "postalCode": "75116",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8776208782048,
+        "lon": 2.27027115829756
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/dia-de-los-muertos-au-jardin-d-acclimatation-quand-le-mexique-enchante-l-automne-parisien-125527",
+      "bookingUrl": "https://www.jardindacclimatation.fr/billetterie?drawerOpen=false",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125527",
+          "url": "https://www.paris.fr/evenements/dia-de-los-muertos-au-jardin-d-acclimatation-quand-le-mexique-enchante-l-automne-parisien-125527",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-44419",
+      "title": "Halloween : jouez au loup-garou grandeur nature à Paris",
+      "description": "Pour Halloween, Gamescape transforme le célèbre jeu du loup-garou en une murder party de 24 joueurs, menée par des comédiens dans les caves voûtées de l'île Saint-Louis.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-26T21:00:00+00:00",
+      "endsAt": "2026-11-01T23:00:00+00:00",
+      "schedule": "Du samedi 31 octobre 2026 au dimanche 01 novembre 2026 : samedi, dimanche de 21h00 à 23h00 samedi, dimanche de 17h00 à 19h00 Du lundi 26 octobre 2026 au vendredi 30 octobre 2026 : lundi, mardi, mercredi, jeudi, vendredi de 21h00 à 23h00",
+      "venue": "Le Secret de l'Île",
+      "address": "9 quai de Bourbon",
+      "postalCode": "75004",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8525370037428,
+        "lon": 2.35660602448351
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/halloween-jouez-au-loup-garou-grandeur-nature-a-paris-44419",
+      "bookingUrl": "https://fr.gamescape.fr/escape-game-murder-halloween.html",
+      "keywords": ["murder"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "44419",
+          "url": "https://www.paris.fr/evenements/halloween-jouez-au-loup-garou-grandeur-nature-a-paris-44419",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125400",
+      "title": "\"Poesia dell’evocare\" - ENRICO DAMIANO VALLONE",
+      "description": "La guitare, dans le mystère du son, se fait gardienne de la mémoire et du rêve, donnant une voix à l’indicible. Chaque note fait surgir un souvenir, chaque pause dévoile un recoin de l’âme. Elle devient à la fois miroir de l’intériorité et fenêtre ouverte sur l’invisible, se transformant en une poésie sans paroles. Dans son chant s’entrelacent mémoire, rêve et sensibilité, dans une dimension suspendue entre ce que la musique révèle et ce que, dans le silence, elle laisse simplement deviner.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-11-01T16:00:00+00:00",
+      "endsAt": "2026-11-01T17:30:00+00:00",
+      "schedule": "Le dimanche 01 novembre 2026 de 16h00 à 17h30",
+      "venue": "Église Saint-Merry",
+      "address": "78 rue Saint-Martin",
+      "postalCode": "75004",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8592879981079,
+        "lon": 2.35051397343656
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/poesia-dell-evocare-enrico-damiano-vallone-125400",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125400",
+          "url": "https://www.paris.fr/evenements/poesia-dell-evocare-enrico-damiano-vallone-125400",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-117630",
+      "title": "Jeu immersif en réalité augmentée",
+      "description": "Vous vous retrouvez piégé.e.s dans la demeure abandonnée des Vonleaken. Un mystère rode autour de ce manoir. On raconte qu’une petite fille aurait disparue il y a bien longtemps et que son corps n’a jamais été retrouvé. Saurez-vous résoudre ce mystère et percerez-vous le secret d’Amélia ?",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-10-20T00:00:00+00:00",
+      "endsAt": "2026-10-31T23:59:59+00:00",
+      "schedule": "Du mardi 20 octobre 2026 au samedi 31 octobre 2026 :",
+      "venue": "Bibliothèque Maurice Genevoix",
+      "address": "19 rue Tristan Tzara",
+      "postalCode": "75018",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.894965,
+        "lon": 2.363901
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/jeu-immersif-en-realite-augmentee-117630",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "117630",
+          "url": "https://www.paris.fr/evenements/jeu-immersif-en-realite-augmentee-117630",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125076",
+      "title": "Interdiction de jouer",
+      "description": "Des cadavres d’oiseaux tombent du ciel. Une petite fille les ramasse et va les cacher sous son lit. Un petit garçon l’aide. Un autre petit garçon les regarde et ressent beaucoup de jalousie envers le petit garçon. On peut supposer qu’il est amoureux de la petite fille. Une dame les regarde tous les trois depuis la maison d’à côté. Il n’y a rien de découvert à la fin. Tout arrive sans raison, et sans mystère. La mort est simplement partout, sans qu’on puisse expliquer pourquoi. Et intrinsèquement",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-10-31T18:30:00+00:00",
+      "endsAt": "2026-10-31T19:45:00+00:00",
+      "schedule": "Le samedi 31 octobre 2026 de 18h30 à 19h45",
+      "venue": "Théâtre Ouvert",
+      "address": "159 Avenue Gambetta",
+      "postalCode": "75020",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.870474989,
+        "lon": 2.40313899815229
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/interdiction-de-jouer-125076",
+      "bookingUrl": "https://theatre-ouvert.mapado.com/event/848769-jl-11-interdiction-de-jouer",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125076",
+          "url": "https://www.paris.fr/evenements/interdiction-de-jouer-125076",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-70250",
+      "title": "Murder party à la Cité de l'architecture et du patrimoine",
+      "description": "La saison 2 revient à la Cité de l’architecture et du patrimoine ! L’heure du crime a sonné sous le Gros-Horloge. Saurez-vous débusquer le coupable ? Commissaire, témoin et suspects sont là pour vous aider… ou pour vous perdre.",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-31T16:00:00+00:00",
+      "endsAt": "2026-10-31T18:00:00+00:00",
+      "schedule": "Le samedi 31 octobre 2026 de 16h00 à 18h00",
+      "venue": "Cité de l’architecture et du patrimoine",
+      "address": "1, Place du Trocadéro et du 11 Novembre",
+      "postalCode": "75016",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8629049988756,
+        "lon": 2.28834196100399
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/murder-party-a-la-cite-de-l-architecture-et-du-patrimoine-70250",
+      "bookingUrl": "https://www.mortellesoiree.com/evenement/enquete-sans-repas-paris-31-10-2026-16h-meurtre-au-musee-cite-de-larchitecture-saison-2/#devis",
+      "keywords": ["murder"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "70250",
+          "url": "https://www.paris.fr/evenements/murder-party-a-la-cite-de-l-architecture-et-du-patrimoine-70250",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-117615",
+      "title": "La Grande journée Halloween",
+      "description": "Ateliers créatifs, lectures frissonnantes, jeux de société, chasses au trésor, escape game de la maison hantée, Cinélloween, Conteuse, Goûter en musique …",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-31T10:30:00+00:00",
+      "endsAt": "2026-10-31T17:45:00+00:00",
+      "schedule": "Le samedi 31 octobre 2026 de 10h30 à 17h45",
+      "venue": "Bibliothèque Maurice Genevoix",
+      "address": "19 rue Tristan Tzara",
+      "postalCode": "75018",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.894965,
+        "lon": 2.363901
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/la-grande-journee-halloween-117615",
+      "keywords": ["escape game"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "117615",
+          "url": "https://www.paris.fr/evenements/la-grande-journee-halloween-117615",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-126063",
+      "title": "Qui A (Encore) Tué Amy Winehouse ? - Drag Murder Party",
+      "description": "🕵🏻🔪 7 personnalités en Enfer. Un meurtre à élucider. Une soirée pour enquêter 🔪🕵🏻",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-31T19:00:00+00:00",
+      "endsAt": "2026-10-31T00:00:00+00:00",
+      "schedule": "Le samedi 31 octobre 2026 de 19h00 à 00h00",
+      "venue": "TLM",
+      "address": "105, rue Curial",
+      "postalCode": "75019",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8964759879264,
+        "lon": 2.37809001578862
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/qui-a-encore-tue-amy-winehouse-drag-murder-party-126063",
+      "bookingUrl": "https://shotgun.live/fr/events/qui-a-encore-tue-amy-winehouse-drag-murder-party",
+      "keywords": ["murder"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "126063",
+          "url": "https://www.paris.fr/evenements/qui-a-encore-tue-amy-winehouse-drag-murder-party-126063",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125741",
+      "title": "Peur en panne, une chasse au trésor scientifique d’Halloween !",
+      "description": "Le CNRS et l’Université PSL vous proposent une réédition de leur chasse au trésor frissonnante : Halloween est en péril ! Madame Lafrousse, figure illustre de l’épouvante, a été déchue de ses pouvoirs. Le 30 octobre, l’Université PSL et le CNRS vous invitent, à travers une chasse au trésor inédite, à arpenter les rues du Quartier latin et de son patrimoine scientifique d’exception pour venir en aide à cette dernière. Mystères du cerveau, redoutables prédateurs des profondeurs marines, potions ma",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-30T18:00:00+00:00",
+      "endsAt": "2026-10-30T20:00:00+00:00",
+      "schedule": "Le vendredi 30 octobre 2026 de 18h00 à 20h00",
+      "venue": "Espace des Sciences Pierre-Gilles de Gennes",
+      "address": "10, rue Vauquelin",
+      "postalCode": "75005",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8412340073107,
+        "lon": 2.34753102173448
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/peur-en-panne-une-chasse-au-tresor-scientifique-d-halloween-125741",
+      "bookingUrl": "https://my.weezevent.com/chasse-au-tresor-dhalloween-la-peur-en-panne",
+      "keywords": ["enigme", "mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125741",
+          "url": "https://www.paris.fr/evenements/peur-en-panne-une-chasse-au-tresor-scientifique-d-halloween-125741",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-124095",
+      "title": "Enquête immersive à l'Hôtel de la Marine : La Nuit des Revenants",
+      "description": "Pour Halloween, les revenants reprennent possession de l'Hôtel de la Marine. Serez-vous prêt à percer leur mystère ?",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-10-30T17:30:00+00:00",
+      "endsAt": "2026-10-30T19:30:00+00:00",
+      "schedule": "Le vendredi 30 octobre 2026 de 17h30 à 19h30",
+      "venue": "Hôtel de la Marine",
+      "address": "2, place de la Concorde",
+      "postalCode": "75008",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8667269790856,
+        "lon": 2.32293902073192
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/enquete-immersive-a-l-hotel-de-la-marine-la-nuit-des-revenants-124095",
+      "bookingUrl": "https://www.hotel-de-la-marine.paris/agenda/enquete-immersive-la-nuit-des-revenants",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "124095",
+          "url": "https://www.paris.fr/evenements/enquete-immersive-a-l-hotel-de-la-marine-la-nuit-des-revenants-124095",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-113514",
+      "title": "Le Film du Jeudi spécial Détectives privés",
+      "description": "De septembre à décembre, nous commémorons lAgatha Christie, l'incontestée Reine du Crime. Découvrez une histoire sur grand écran, comme au cinéma !",
+      "descriptionLanguage": "fr",
+      "kind": "screening",
+      "startsAt": "2026-10-29T16:00:00+00:00",
+      "endsAt": "2026-10-29T17:00:00+00:00",
+      "schedule": "Le jeudi 29 octobre 2026 de 16h00 à 17h00",
+      "venue": "Bibliothèque Gutenberg",
+      "address": "8 rue de la Montagne d'Aulas",
+      "postalCode": "75015",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.840208,
+        "lon": 2.278706
+      },
+      "languages": [],
+      "price": "free",
+      "url": "https://www.paris.fr/evenements/le-film-du-jeudi-special-detectives-prives-113514",
+      "keywords": ["detective"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "113514",
+          "url": "https://www.paris.fr/evenements/le-film-du-jeudi-special-detectives-prives-113514",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-125145",
+      "title": "Stage sportif ASPN75 Kids – Toussaint 2026",
+      "description": "Du 19 au 23 octobre, les 6-12 ans découvrent le VTT, le multisport, l’accrobranche et un escape game aux Tuileries. Inscriptions sur www.aspn75.fr/stage-sportif-enfants-toussaint-2026",
+      "descriptionLanguage": "fr",
+      "kind": "game",
+      "startsAt": "2026-10-19T10:30:00+00:00",
+      "endsAt": "2026-10-23T17:00:00+00:00",
+      "schedule": "Du lundi 19 octobre 2026 au vendredi 23 octobre 2026 : lundi, mardi, mercredi, jeudi, vendredi de 09h30 à 16h00",
+      "venue": "Place de la Concorde",
+      "address": "Place de la Concorde",
+      "postalCode": "75001",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8690128072078,
+        "lon": 2.32242424802741
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/stage-sportif-aspn75-kids-toussaint-2026-125145",
+      "keywords": ["escape game"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "125145",
+          "url": "https://www.paris.fr/evenements/stage-sportif-aspn75-kids-toussaint-2026-125145",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-115045",
+      "title": "Carte blanche à Gautier Garrigue en concert au 38Riv Jazz Club JSS26",
+      "description": "Nouvelles compositions — Gautier Garrigue, maître des percussions, vous invite à un voyage musical fascinant à travers un répertoire inédit inspiré de l'univers et de ses mystères.",
+      "descriptionLanguage": "fr",
+      "kind": "culture",
+      "startsAt": "2026-10-22T22:30:00+00:00",
+      "endsAt": "2026-10-22T23:30:00+00:00",
+      "schedule": "Le jeudi 22 octobre 2026 de 21h30 à 22h30 Le jeudi 22 octobre 2026 de 19h30 à 20h30",
+      "venue": "38Riv Jazz Club",
+      "address": "38, rue de Rivoli",
+      "postalCode": "75004",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.856578,
+        "lon": 2.351828
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/carte-blanche-a-gautier-garrigue-en-concert-au-38riv-jazz-club-115045",
+      "bookingUrl": "https://38riv.com/concerts/carte-blanche-gautier-garrigue-0",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "115045",
+          "url": "https://www.paris.fr/evenements/carte-blanche-a-gautier-garrigue-en-concert-au-38riv-jazz-club-115045",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    },
+    {
+      "id": "paris-11017",
+      "title": "Père Lachaise : Rites, mystères et guérisons",
+      "description": "Chers futurs désincarnés curieux, vous êtes invités à venir rendre visite à des personnalités aux pouvoirs non médicaux mais spécifiques, divers et reconnus…",
+      "descriptionLanguage": "fr",
+      "kind": "walk",
+      "venue": "",
+      "address": "8 Boulevard de Ménilmontant",
+      "postalCode": "75020",
+      "city": "Paris",
+      "coordinates": {
+        "lat": 48.8586806400254,
+        "lon": 2.38960425841065
+      },
+      "languages": [],
+      "price": "paid",
+      "url": "https://www.paris.fr/evenements/pere-lachaise-rites-mysteres-et-guerisons-11017",
+      "bookingUrl": "https://folo.me/activities/5e5a8e4c57c4df147d24fc2f/",
+      "keywords": ["mystere"],
+      "sources": [
+        {
+          "provider": "Paris Open Data",
+          "id": "11017",
+          "url": "https://www.paris.fr/evenements/pere-lachaise-rites-mysteres-et-guerisons-11017",
+          "checkedAt": "2026-10-20T21:20:29.580Z"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "paris",
+      "state": "error",
+      "count": 43,
+      "checkedAt": "2026-10-21T18:55:51.487Z",
+      "lastSuccessAt": "2026-10-20T21:20:29.580Z"
+    },
+    {
+      "id": "openlibrary",
+      "state": "error",
+      "count": 12,
+      "checkedAt": "2026-10-21T18:55:51.487Z",
+      "lastSuccessAt": "2026-10-20T21:13:24.348Z"
+    },
+    {
+      "id": "wikidata",
+      "state": "error",
+      "count": 30,
+      "checkedAt": "2026-10-21T18:55:51.487Z",
+      "lastSuccessAt": "2026-10-20T21:13:24.348Z"
+    },
+    {
+      "id": "imdb",
+      "state": "authorization",
+      "count": 0
+    }
+  ]
+}

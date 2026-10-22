@@ -22,6 +22,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: { default: 'Mystère Atlas · 谜图', template: '%s | Mystère Atlas' },
     description: t('description'),
+    applicationName: 'Mystère Atlas',
+    metadataBase: process.env.NEXT_PUBLIC_APP_URL
+      ? new URL(process.env.NEXT_PUBLIC_APP_URL)
+      : undefined,
+    openGraph: {
+      title: 'Mystère Atlas · 谜图',
+      description: t('description'),
+      siteName: 'Mystère Atlas',
+      type: 'website',
+      locale: { zh: 'zh_CN', en: 'en_US', fr: 'fr_FR' }[locale],
+    },
   };
 }
 

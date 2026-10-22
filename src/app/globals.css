@@ -144,6 +144,40 @@ h1 {
   color: var(--muted);
   font-size: 13px;
 }
+.project-origin {
+  max-width: 550px;
+  padding-left: 16px;
+  margin-top: 30px;
+  border-left: 2px solid var(--accent);
+  color: var(--muted);
+  font-family: Georgia, 'Microsoft YaHei', serif;
+  font-size: 14px;
+}
+.origin-note {
+  display: flex;
+  gap: 28px;
+  border-top: 1px solid var(--line);
+  padding: 36px 0 48px;
+  align-items: flex-start;
+}
+.origin-mark {
+  font-family: Georgia, serif;
+  color: var(--accent);
+  font-size: 28px;
+  border: 1px solid var(--line);
+  padding: 12px;
+}
+.origin-note h2 {
+  font-family: Georgia, 'Microsoft YaHei', serif;
+  font-size: 23px;
+  margin: 0 0 12px;
+}
+.origin-note p {
+  max-width: 700px;
+  color: var(--muted);
+  font-size: 14px;
+  margin: 0;
+}
 .modules {
   border-top: 1px solid var(--line);
   padding: 28px 0 56px;

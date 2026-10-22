@@ -4,5 +4,6 @@ package-lock.json
 next-env.d.ts
 tmp
 .data
+.vercel
 coverage
 *.tsbuildinfo
