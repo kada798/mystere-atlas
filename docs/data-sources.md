@@ -13,6 +13,16 @@
 
 IMDb 导入仅用于本机个人与非商业试验，不是公开作品库或商业使用许可，也不是最新全站榜单。下载记录不进入 Pages 的公开快照；公开影视记录来自 Wikidata，IMDb 只作为外部链接。参见 [IMDb 数据使用限制](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX)。当前不抓取用户评论或评分，也不下载整个大文件。
 
+## 简介与封面
+
+`npm run data:enrich` 为已有作品补全简介与图片元数据。Open Library 使用精确作品 ID 查询作品 API，正文保留为有来源链接的短摘录；封面按官方要求直接引用 covers.openlibrary.org，不批量下载封面。无法确认的正文语言记为未注明，不能根据译本语言推断。
+
+Wikidata 的确定作品标识用于查找三语 Wikipedia 页面，采集开头简介而非剧情结局，保留原文语言、页面链接和 CC BY-SA 4.0 署名。图片仅使用可核实署名和开放许可的 Wikimedia Commons 元数据。未获取到图片时显示缺图状态，图片加载失败时也能正常浏览其余资料。
+
+普通同步会为尚无介绍的新作品尝试补全；独立补全任务可复查已有记录。外部请求失败不清空已有介绍或封面。人工维护的作品不自动覆盖。
+
+公开演示快照的更新命令为 `npm run data:enrich -- --snapshot=deployment/public-snapshot.json`；审查结果、格式化并经过 PR 后再发布。静态网站不在用户访问时采集，也不在 GitHub Pages 上运行后台任务。图片版权与书目元数据许可分别处理。
+
 ## 用户提到的其他站点
 
 - Meetup 官方 API 需要 Pro 与 OAuth 授权。本轮没有该授权，未自动导入 Meetup 活动；巴黎页提供原站关键词搜索链接。

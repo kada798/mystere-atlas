@@ -4,6 +4,8 @@ import type { Locale } from '@/i18n/routing';
 import { detailFields } from '../config';
 import { entityTitle, safeExternalUrl } from '../query';
 import type { CatalogSnapshot, Work } from '../types';
+import { workIntroduction } from '../media';
+import { WorkCover } from './work-cover';
 
 export async function WorkDetail({
   work,
@@ -15,6 +17,7 @@ export async function WorkDetail({
   locale: Locale;
 }) {
   const t = await getTranslations('Catalog');
+  const introduction = workIntroduction(work, locale);
   const versions = data.versions.filter(
     (version) => version.workId === work.id,
   );
@@ -31,22 +34,101 @@ export async function WorkDetail({
     'cast',
     'creator',
   ];
-  const languageName = (code: string) =>
-    new Intl.DisplayNames([locale], { type: 'language' }).of(code) ?? code;
+  const languageName = (code: string) => {
+    if (code === 'und' || code === 'root')
+      return t('detail.unspecifiedLanguage');
+    try {
+      return (
+        new Intl.DisplayNames([locale], { type: 'language' }).of(code) ?? code
+      );
+    } catch {
+      return t('detail.unspecifiedLanguage');
+    }
+  };
+  const names = work.names.filter(
+    (name) =>
+      !['und', 'root'].includes(name.language) ||
+      !work.names.some(
+        (other) =>
+          !['und', 'root'].includes(other.language) &&
+          other.title === name.title,
+      ),
+  );
   return (
     <article className="work-detail">
       <Link className="catalog-text-link" href="/works">
         ← {t('back')}
       </Link>
-      <header className="catalog-hero">
-        <div>
+      <header className="catalog-hero work-hero">
+        <div className="work-hero-copy">
           <p className="eyebrow">{t(`types.${work.kind}`)}</p>
           <h1>{entityTitle(work, locale)}</h1>
-          <p className="catalog-intro">
-            {work.summaries[locale] ?? t('summaryMissing')}
-          </p>
+          {work.firstReleaseDate && (
+            <p className="work-release">{work.firstReleaseDate}</p>
+          )}
+          {work.summaries[locale] && (
+            <p className="catalog-intro">{work.summaries[locale]}</p>
+          )}
         </div>
+        <figure className="work-cover">
+          <WorkCover
+            key={work.cover?.url ?? work.id}
+            url={work.cover?.url}
+            alt={t('detail.coverAlt', { title: entityTitle(work, locale) })}
+            missing={t('detail.coverMissing')}
+          />
+          {work.cover && (
+            <figcaption>
+              <a
+                href={safeExternalUrl(work.cover.source.url)}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {work.cover.source.provider} ↗
+              </a>
+              {work.cover.credit && <span>{work.cover.credit}</span>}
+              {work.cover.license && <span>{work.cover.license}</span>}
+            </figcaption>
+          )}
+        </figure>
       </header>
+      <section
+        className="work-introduction"
+        aria-labelledby="work-introduction-title"
+      >
+        <h2 id="work-introduction-title">{t('detail.introduction')}</h2>
+        {introduction ? (
+          <>
+            {introduction.language !== locale && (
+              <p className="work-introduction-language">
+                {t('detail.originalText', {
+                  language: languageName(introduction.language),
+                })}
+              </p>
+            )}
+            <p className="work-introduction-text" lang={introduction.language}>
+              {introduction.text}
+            </p>
+            <p className="work-introduction-source">
+              {t(
+                introduction.excerpt
+                  ? 'detail.excerptFrom'
+                  : 'detail.adaptedFrom',
+              )}{' '}
+              <a
+                href={safeExternalUrl(introduction.source.url)}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {introduction.source.provider} ↗
+              </a>
+              {introduction.license && ` · ${introduction.license}`}
+            </p>
+          </>
+        ) : (
+          <p>{t('detail.introductionMissing')}</p>
+        )}
+      </section>
       <section>
         <h2>{t('detail.about')}</h2>
         <dl className="work-facts">
@@ -111,61 +193,76 @@ export async function WorkDetail({
               </div>
             );
           })}
+          <div className="work-fact-titles">
+            <dt>{t('detail.names')}</dt>
+            <dd>
+              <ul className="work-inline-list">
+                {names.map((name, index) => (
+                  <li key={`${name.language}-${index}`}>
+                    {languageName(name.language)} · {name.title}
+                    {name.aliases?.length
+                      ? ` / ${name.aliases.join(' / ')}`
+                      : ''}
+                    {name.official === false
+                      ? ` (${t('unofficialTitle')})`
+                      : ''}
+                  </li>
+                ))}
+              </ul>
+            </dd>
+          </div>
+          <div className="work-fact-versions">
+            <dt>{t('detail.versions')}</dt>
+            <dd>
+              {versions.length ? (
+                <details className="work-editions">
+                  <summary>
+                    {t('detail.versionCount', { count: versions.length })}
+                  </summary>
+                  <ul className="work-inline-list">
+                    {versions.map((version) => (
+                      <li key={version.id}>
+                        {version.title ?? entityTitle(work, locale)} ·{' '}
+                        {languageName(version.language)}
+                        {version.translatorIds.length > 0 && (
+                          <span>
+                            {' '}
+                            · {t('fields.translator')} :{' '}
+                            {version.translatorIds
+                              .map((id) => {
+                                const person = data.people.find(
+                                  (record) => record.id === id,
+                                );
+                                return person
+                                  ? entityTitle(person, locale)
+                                  : t('unknown');
+                              })
+                              .join(' / ')}
+                          </span>
+                        )}
+                        {version.subtitleLanguages.length > 0 && (
+                          <span>
+                            {' '}
+                            · {t('fields.languages')} :{' '}
+                            {version.subtitleLanguages
+                              .map(languageName)
+                              .join(' / ')}
+                          </span>
+                        )}
+                        {version.releaseDate ? ` · ${version.releaseDate}` : ''}
+                        {version.identifier
+                          ? ` · ${version.identifier.kind.toUpperCase()} ${version.identifier.value}`
+                          : ''}
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              ) : (
+                t('detail.noVersions')
+              )}
+            </dd>
+          </div>
         </dl>
-      </section>
-      <section>
-        <h2>{t('detail.names')}</h2>
-        <ul>
-          {work.names.map((name, index) => (
-            <li key={`${name.language}-${index}`}>
-              {languageName(name.language)} · {name.title}
-              {name.aliases?.length ? ` / ${name.aliases.join(' / ')}` : ''}
-              {name.official === false ? ` (${t('unofficialTitle')})` : ''}
-            </li>
-          ))}
-        </ul>
-      </section>
-      <section>
-        <h2>{t('detail.versions')}</h2>
-        {versions.length ? (
-          <ul>
-            {versions.map((version) => (
-              <li key={version.id}>
-                {version.title ?? entityTitle(work, locale)} ·{' '}
-                {languageName(version.language)}
-                {version.translatorIds.length > 0 && (
-                  <span>
-                    {' '}
-                    · {t('fields.translator')} :{' '}
-                    {version.translatorIds
-                      .map((id) => {
-                        const person = data.people.find(
-                          (record) => record.id === id,
-                        );
-                        return person
-                          ? entityTitle(person, locale)
-                          : t('unknown');
-                      })
-                      .join(' / ')}
-                  </span>
-                )}
-                {version.subtitleLanguages.length > 0 && (
-                  <span>
-                    {' '}
-                    · {t('fields.languages')} :{' '}
-                    {version.subtitleLanguages.map(languageName).join(' / ')}
-                  </span>
-                )}
-                {version.releaseDate ? ` · ${version.releaseDate}` : ''}
-                {version.identifier
-                  ? ` · ${version.identifier.kind.toUpperCase()} ${version.identifier.value}`
-                  : ''}
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p>{t('detail.noVersions')}</p>
-        )}
       </section>
       <section>
         <h2>{t('detail.availability')}</h2>

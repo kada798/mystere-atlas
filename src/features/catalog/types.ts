@@ -34,6 +34,19 @@ export type Place = NamedEntity & {
 export type WorkSeries = NamedEntity & { workIds: string[] };
 export type Work = NamedEntity & {
   kind: WorkType;
+  cover?: {
+    url: string;
+    source: SourceReference;
+    credit?: string;
+    license?: string;
+  };
+  introductions?: {
+    language: string;
+    text: string;
+    source: SourceReference;
+    license?: string;
+    excerpt?: boolean;
+  }[];
   originalLanguage?: string;
   firstReleaseDate?: string;
   addedAt: string;

@@ -139,6 +139,15 @@
     "sequel": "续作关系"
   },
   "detail": {
+    "introduction": "作品介绍",
+    "introductionMissing": "简介尚待补充，可通过下方资料来源了解这部作品。",
+    "originalText": "原文语言：{language}",
+    "unspecifiedLanguage": "语言未注明",
+    "excerptFrom": "简介摘录自",
+    "adaptedFrom": "简介整理自",
+    "coverAlt": "《{title}》封面或海报",
+    "coverMissing": "封面暂未提供",
+    "versionCount": "{count} 个已收录版本",
     "about": "作品资料",
     "originalLanguage": "原作语言",
     "names": "名称与其他译名",

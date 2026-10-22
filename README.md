@@ -2,7 +2,7 @@
 
 连接悬疑推理作品、文化、同好与线下活动的中英法三语平台。
 
-**源码仓库**：[kada798/mystere-atlas](https://github.com/kada798/mystere-atlas)。主仓库已公开，使用独立的 [GitHub Pages 发布流程](docs/github-deploy.md)。原演示链接在新站验收前保留。
+**在线演示**：[Mystère Atlas](https://kada798.github.io/mystere-atlas/) · [English](https://kada798.github.io/mystere-atlas/en/) · **源码仓库**：[kada798/mystere-atlas](https://github.com/kada798/mystere-atlas)。主仓库已公开，使用独立的 [GitHub Pages 发布流程](docs/github-deploy.md)。
 
 **当前支持作品资料导入与巴黎活动地图**：六类作品入口、三语筛选、详情模板、外部来源和独立同步任务已接入。本机完整资料保存在忽略的 `.data/`；Pages 仅使用 `deployment/public-snapshot.json` 中可公开的资料快照。账号、云数据库、个人记录和站内报名尚未实现。
 

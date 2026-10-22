@@ -84,10 +84,56 @@ main,
   color: var(--accent);
 }
 .language-switcher {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
+  position: relative;
+  flex-shrink: 0;
   font-size: 12px;
+}
+.language-switcher summary {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 40px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  cursor: pointer;
+  list-style: none;
+}
+.language-switcher summary::-webkit-details-marker {
+  display: none;
+}
+.language-switcher summary svg {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.2;
+}
+.language-switcher summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+.language-chevron {
+  margin-left: 4px;
+}
+.language-options {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 30;
+  width: 168px;
+  padding: 6px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--paper);
+  box-shadow: 0 8px 24px #24292012;
+}
+.language-options a {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 12px;
+}
+.language-options a:hover,
+.language-options a:focus-visible {
+  background: #e9e8df;
 }
 .language-switcher [aria-current] {
   text-decoration: underline;
@@ -313,9 +359,8 @@ h1 {
     gap: 20px 12px;
   }
   .language-switcher {
-    gap: 10px;
-    width: 100%;
-    margin-left: 0;
+    width: auto;
+    margin-left: auto;
   }
   .main-nav {
     gap: 20px;
