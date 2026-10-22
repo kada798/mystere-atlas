@@ -139,6 +139,15 @@
     "sequel": "Suite"
   },
   "detail": {
+    "introduction": "Présentation de l'œuvre",
+    "introductionMissing": "La présentation reste à compléter. Consultez les sources ci-dessous pour en savoir plus.",
+    "originalText": "Texte original : {language}",
+    "unspecifiedLanguage": "Langue non précisée",
+    "excerptFrom": "Extrait de",
+    "adaptedFrom": "Présentation adaptée de",
+    "coverAlt": "Couverture ou affiche de {title}",
+    "coverMissing": "Couverture indisponible",
+    "versionCount": "{count, plural, one {# édition répertoriée} other {# éditions répertoriées}}",
     "about": "Informations sur l'œuvre",
     "originalLanguage": "Langue originale",
     "names": "Titres et autres noms",

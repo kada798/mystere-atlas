@@ -88,13 +88,22 @@ export function entityTitle(entity: NamedEntity, locale: string): string {
 function hasContentLanguage(entity: NamedEntity, language: string) {
   return (
     language === 'all' ||
-    Boolean(entity.summaries[language as keyof typeof entity.summaries]?.trim())
+    Boolean(
+      entity.summaries[language as keyof typeof entity.summaries]?.trim(),
+    ) ||
+    Boolean(
+      (entity as Partial<Work>).introductions?.some(
+        (item) => item.language === language && item.text.trim(),
+      ),
+    )
   );
 }
 function matchesText(entity: NamedEntity, query: string, extra: string[] = []) {
   const searchable = [
     ...entity.names.flatMap((name) => [name.title, ...(name.aliases ?? [])]),
     ...Object.values(entity.summaries),
+    ...((entity as Partial<Work>).introductions?.map((item) => item.text) ??
+      []),
     ...extra,
   ].join(' ');
   return !query || normalizeSearch(searchable).includes(normalizeSearch(query));

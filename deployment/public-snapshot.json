@@ -42,7 +42,51 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/13198561-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL34224558W",
+            "url": "https://openlibrary.org/works/OL34224558W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "新婚夫妇特里西娅和伊桑在寻找新居时，被暴风雪困在一座偏僻宅邸。房子的前主人是一位数年前神秘失踪的精神科医生。特里西娅发现了一批病人的访谈录音；随着她逐一聆听，医生失踪前的往事与谎言开始浮现。",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL34224558W",
+              "url": "https://openlibrary.org/works/OL34224558W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": false
+          },
+          {
+            "language": "en",
+            "text": "Newlyweds Tricia and Ethan visit an isolated house while looking for a home. A snowstorm strands them there, in a property once owned by a psychiatrist who disappeared years earlier. When Tricia discovers recordings of the doctor’s patient interviews, listening to them draws her into the secrets surrounding the disappearance.",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL34224558W",
+              "url": "https://openlibrary.org/works/OL34224558W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": false
+          },
+          {
+            "language": "fr",
+            "text": "Tricia et Ethan, jeunes mariés en quête d’une maison, se retrouvent bloqués par une tempête de neige dans une demeure isolée. Son ancienne propriétaire, une psychiatre, a disparu plusieurs années auparavant. Tricia y découvre des enregistrements de consultations qui la plongent dans les secrets de cette disparition.",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL34224558W",
+              "url": "https://openlibrary.org/works/OL34224558W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": false
+          }
+        ]
       },
       {
         "id": "ol-OL472165W",
@@ -80,7 +124,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/12996556-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL472165W",
+            "url": "https://openlibrary.org/works/OL472165W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Hercule Poirot is vacationing on the Cornish coast when he meets Nick Buckley. Nick is the young and reckless mistress of End House, an imposing structure perched on the rocky cliffs of St. Loo. Poirot quickly takes a particular interest in the young woman. Recently, she has narrowly escaped a series of life-threatening accidents. Something tells the Belgian sleuth that these so-called accidents are more than just…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL472165W",
+              "url": "https://openlibrary.org/works/OL472165W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL472549W",
@@ -122,7 +188,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/11153508-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL472549W",
+            "url": "https://openlibrary.org/works/OL472549W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Newly-orphaned Anne Beddingfeld is a nice English girl looking for a bit of adventure in London. But she stumbles upon more than she bargained for! Anne is on the platform at Hyde Park Corner tube station when a man falls onto the live track, dying instantly. A doctor examines the man, pronounces him dead, and leaves, dropping a note on his way. Anne picks up the note, which reads \"17.1 22 Kilmorden Castle\". The…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL472549W",
+              "url": "https://openlibrary.org/works/OL472549W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL472542W",
@@ -164,7 +252,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/12996574-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL472542W",
+            "url": "https://openlibrary.org/works/OL472542W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "A bit of adventure and quick cash is all that good-natured drifter Anthony Cade is looking for when he accepts a messenger job from an old friend. It sounds so simple: deliver the provocative memoirs of a recently deceased European count to a London publisher. Little did Anthony suspect that a simple errand to deliver the manuscript on behalf of his friend would drop him right in the middle of an international…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL472542W",
+              "url": "https://openlibrary.org/works/OL472542W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL265415W",
@@ -206,7 +316,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/6379981-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL265415W",
+            "url": "https://openlibrary.org/works/OL265415W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "An old-fashioned London Hotel is not quite as reputable as it makes out… When Miss Marple comes up from the country for a holiday in London, she finds what she’s looking for at Bertram’s Hotel: traditional decor, impeccable service and an unmistakable atmosphere of danger behind the highly polished veneer. Yet, not even Miss Marple can foresee the violent chain of events set in motion when an eccentric guest makes…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL265415W",
+              "url": "https://openlibrary.org/works/OL265415W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL471500W",
@@ -248,7 +380,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/13151352-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL471500W",
+            "url": "https://openlibrary.org/works/OL471500W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Agatha Christie’s audacious mystery thriller, reissued with a striking new cover designed to appeal to the latest generation of Agatha Christie fans and book lovers. For an instant the two trains ran together, side by side. In that frozen moment, Elspeth witnessed a murder. Helplessly, she stared out of her carriage window as a man remorselessly tightened his grip around a woman’s throat. The body crumpled. Then the…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL471500W",
+              "url": "https://openlibrary.org/works/OL471500W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL471990W",
@@ -290,7 +444,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/10561150-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL471990W",
+            "url": "https://openlibrary.org/works/OL471990W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "E-book exclusive extras:1) Christie biographer Charles Osborne's essay on The Mirror Crack'd from Side to Side;2) \"The Marples\": the complete guide to all the cases of crime literature's foremost female detective.The quaint village of St Mary Mead has been glamourized by the presence of screen queen Marina Gregg, who has taken up residence in preparation for her comeback. But when a local fan is poisoned, Marina…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL471990W",
+              "url": "https://openlibrary.org/works/OL471990W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL471871W",
@@ -332,7 +508,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/10249524-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL471871W",
+            "url": "https://openlibrary.org/works/OL471871W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "E-book exclusive extras:1) Christie biographer Charles Osborne's essay on They Do It with Mirrors;2) \"The Marples\": the complete guide to all the cases of crime literature's foremost female detective.A sense of danger pervades the rambling Victorian mansion in which Jane Marple’s friend Carrie Louise lives—and not only because the building doubles as a rehabilitation centre for criminal youths. One inmate attempts,…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL471871W",
+              "url": "https://openlibrary.org/works/OL471871W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL471832W",
@@ -374,7 +572,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/11160095-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL471832W",
+            "url": "https://openlibrary.org/works/OL471832W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Mystery writer Ariadne Oliver has been invited to a Hallowe’en party at Woodleigh Common. One of the other guests is an adolescent girl known for telling tall tales of murder and intrigue -- and for being generally unpleasant. But when the girl, Joyce, is found drowned in an apple-bobbing tub, Mrs Oliver wonders after the fictional nature of the girl’s claim that she had once witnessed a murder. Which of the party…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL471832W",
+              "url": "https://openlibrary.org/works/OL471832W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL471947W",
@@ -420,7 +640,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/12996529-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL471947W",
+            "url": "https://openlibrary.org/works/OL471947W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "They are a vicious international quartet of criminals known as \"The Big Four\". Number One was a brilliant Chinese, the greatest criminal brain of all time; Number Two was a USAmerican multi-millionaire; Number Three was a beautiful Frenchwoman scientist; and Number Four was \"the destroyer,\" the ruthless murderer with a genius for disguise, whose business it was to remove those who interfered with his masters plans.…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL471947W",
+              "url": "https://openlibrary.org/works/OL471947W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL471943W",
@@ -458,7 +700,29 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "cover": {
+          "url": "https://covers.openlibrary.org/b/id/12996535-L.jpg?default=false",
+          "source": {
+            "provider": "Open Library",
+            "externalId": "/works/OL471943W",
+            "url": "https://openlibrary.org/works/OL471943W",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          }
+        },
+        "introductions": [
+          {
+            "language": "en",
+            "text": "When Cora is savagely murdered with a hatchet, the extraordinary remark she made the previous day at her brother Richard's funeral suddenly takes on a chilling significance. At the reading of Richard's will, Cora was clearly heard to say: 'It's been hushed up very nicely, hasn't it. But he was murdered, wasn't he?' In desperation, the family solicitor turns to Hercule Poirot to unravel the mystery.",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL471943W",
+              "url": "https://openlibrary.org/works/OL471943W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "ol-OL31191485W",
@@ -496,7 +760,20 @@
             "checkedAt": "2026-10-20T21:13:24.348Z"
           }
         ],
-        "externalLinks": []
+        "externalLinks": [],
+        "introductions": [
+          {
+            "language": "en",
+            "text": "There are three rules Brooke Sullivan must follow as a new nurse practitioner at a men's maximum-security 1) Treat all prisoners with respect. 2) Never reveal any personal information. 3) Never EVER become too friendly with the inmates. But none of the staff at the prison knows Brooke has already broken the rules. Nobody knows about her intimate connection to Shane Nelson, one of the penitentiary's most notorious…",
+            "source": {
+              "provider": "Open Library",
+              "externalId": "/works/OL31191485W",
+              "url": "https://openlibrary.org/works/OL31191485W",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0428856",
@@ -565,7 +842,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "The Moustache (French: La Moustache) is a French film from 2005, directed by Emmanuel Carrère and starring Vincent Lindon, and adapted from Carrère's own 1986 novel The Moustache. The film features music from a violin concerto by Philip Glass. The film was awarded the Label Europa Cinemas prize at the 2005 Cannes Film Festival and is currently distributed theatrically in the United States by the Cinema Guild with a DVD release handled by Koch-Lorber Films.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3534336",
+              "url": "https://en.wikipedia.org/?curid=3534336",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "La Moustache est un film français d'Emmanuel Carrère, sorti en 2005, adapté de son roman éponyme paru en 1986.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "312058",
+              "url": "https://fr.wikipedia.org/?curid=312058",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0105236",
@@ -630,7 +933,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《落水狗》（英語：Reservoir Dogs，台湾译《霸道横行》）是一部於1992年上映的美國犯罪驚悚電影。為昆汀·塔伦蒂诺的處女作及成名作，內容由香港電影《龍虎風雲》改編，主演是夏菲·基圖、麥可·馬德森、史提夫·布斯美、Chris Penn、勞倫斯·蒂爾尼和蒂姆·罗斯。這電影是最賣弄暴力娛樂化的電影之一。 《落水狗》在上映時票房一般，但在英国上映后却比较成功。隨著之後的DVD版本發售，使更多的觀眾欣賞到本片，漸漸令《落水狗》成為經典犯罪電影之一。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1203344",
+              "url": "https://zh.wikipedia.org/?curid=1203344",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Reservoir Dogs is a 1992 American heist film written and directed by Quentin Tarantino in his feature-length directorial debut. It stars Harvey Keitel, Tim Roth, Chris Penn, Steve Buscemi, Lawrence Tierney, Michael Madsen, Tarantino, and Edward Bunker as diamond thieves whose heist of a jewelry store goes terribly wrong. Kirk Baltz, Randy Brooks, and Steven Wright also play supporting roles. The film incorporates many motifs that have become Tarantino's hallmarks: violent crime, pop culture references, profanity, and nonlinear storytelling. The film is regarded as a classic independent film and a cult film. Although controversial at first for its depictions of violence and heavy use of profanity, Reservoir Dogs was generally well received, and the cast was praised by many critics. Despite…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "297111",
+              "url": "https://en.wikipedia.org/?curid=297111",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Reservoir Dogs, ou Les Enragés au Québec, est un film américain écrit et réalisé par Quentin Tarantino, sorti en 1992. Il décrit une bande de truands et les événements qui surviennent avant et après un braquage raté. Premier long-métrage du réalisateur, ce film indépendant compte, notamment, Harvey Keitel, Tim Roth, Michael Madsen et Steve Buscemi dans sa distribution. Il introduit dans ses thèmes et dans son esthétique ce qui deviendra la marque de fabrique Tarantino : dialogues stylisés, narration non linéaire, références à la culture populaire, violence et langage vulgaire. Quentin Tarantino avait, à l'origine, l'intention de réaliser ce film en amateur, avec des moyens très limités ; l'implication de Harvey Keitel a permis au projet de prendre davantage d'ampleur. Le film a connu un…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "32640",
+              "url": "https://fr.wikipedia.org/?curid=32640",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0022111",
@@ -694,7 +1035,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "The Maltese Falcon is a 1931 American pre-Code crime film based on the 1930 novel The Maltese Falcon by Dashiell Hammett and directed by Roy Del Ruth. The film stars Ricardo Cortez as private detective Sam Spade and Bebe Daniels as femme fatale Ruth Wonderly. The supporting cast features Dudley Digges, Thelma Todd, Walter Long, Una Merkel, and Dwight Frye. Maude Fulton and Brown Holmes wrote the screenplay; one contemporaneous report said that Lucien Hubbard was assisting them. While the film was successful, its legacy was deeply hampered by the enforcement of the Hays Code. The film was remade by the studio twice, with its 1941 remake starring Humphrey Bogart and Mary Astor overshadowing its predecessors. The film was not seen in its entirety until after the collapse of the Code in the…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "4593920",
+              "url": "https://en.wikipedia.org/?curid=4593920",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Le Faucon maltais (The Maltese Falcon) est un film américain réalisé par Roy Del Ruth, sorti en 1931.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "6737927",
+              "url": "https://fr.wikipedia.org/?curid=6737927",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt1507563",
@@ -763,7 +1130,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Dark Tide is a 2012 action horror film directed by John Stockwell, produced by Jeanette Buerling (aka Jeanette B. Milio) and Matthew E. Chausse and written by Ronnie Christensen and Amy Sorlie. The film is based on a story by Amy Sorlie and stars Halle Berry, Olivier Martinez, and Ralph Brown. The film was highly panned by critics and was a box-office bomb.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "32486389",
+              "url": "https://en.wikipedia.org/?curid=32486389",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Dark Tide est un film américain réalisé par John Stockwell, sorti en 2012, et avec Halle Berry et Olivier Martinez.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "6736126",
+              "url": "https://fr.wikipedia.org/?curid=6736126",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0365929",
@@ -836,7 +1229,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《冰天血地》（英語：Whiteout）是2009年剧情片，是凱特·貝琴薩主演，演多国在南极设置研究站，往来靠飞机于暴风雪未来时飞行，但极地气候恶烈，又发生凶杀案，凯演刑警查此命案的真凶种种事。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "7008971",
+              "url": "https://zh.wikipedia.org/?curid=7008971",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Whiteout (French: Whiteout: Enfer blanc) is a 2009 crime thriller film based on the 1998 comic book of the same name by Greg Rucka and Steve Lieber. Directed by Dominic Sena and starring Kate Beckinsale, Gabriel Macht, Columbus Short and Tom Skerritt, the film was distributed by Warner Bros. Pictures and released on September 11, 2009. It was produced under the banner of Dark Castle Entertainment by Joel Silver, Susan Downey and David Gambino. The film is set in Antarctica, where Deputy U.S. Marshal Carrie Stetko (Kate Beckinsale) is planning to leave in a few days. After finding a dead body, Stetko is attacked by a masked killer who is trying to get ahold of the cargo in an old Soviet plane that crash-landed in the ice during the Cold War.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "11039716",
+              "url": "https://en.wikipedia.org/?curid=11039716",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Whiteout, ou Whiteout : Enfer blanc au Québec, est un film américano-franco-canadien réalisé par Dominic Sena, sorti en 2009. Il est adapté de la mini-série de comics éponyme écrite par Greg Rucka et dessinée par Steve Lieber. Le film met en vedette l'actrice Kate Beckinsale dans le rôle principal, l'US Marshal Carrie Stetko, qui enquête sur une série de meurtres dans une base scientifique située en Antarctique liée à une autre affaire criminelle enfouie sous la glace depuis cinquante ans. Dans les autres rôles notables, on trouve Tom Skerritt, Gabriel Macht et Columbus Short. Dès sa sortie en salles, Whiteout a rencontré un accueil critique largement négatif et a été un échec commercial au box-office, ne rapportant que 17,8 millions de dollars de recettes mondiales pour un coût de…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "4191806",
+              "url": "https://fr.wikipedia.org/?curid=4191806",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0062622",
@@ -919,7 +1350,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《2001太空漫遊》（英語：2001: A Space Odyssey）是一部1968年上映的史詩科幻電影，由斯坦利·库布里克製作並執導。劇本由庫布力克與亚瑟·查理斯·克拉克共同撰寫。其劇情靈感來自克拉克的多篇短篇小說，主要包括〈前哨〉與〈黎明邂逅〉等被選購的作品。本片由凱爾·杜拉、蓋瑞·洛克伍德、威廉·席維斯特與道格拉斯·雷恩主演，講述一群太空人與科學家，以及具備意識的超級電腦HAL 9000，前往木星調查一座神秘的黑石板的旅程。 本片以其對太空飛行的科學精準描繪、開創性的特效技術與寓意深遠的主題而廣受讚譽。庫布力克刻意迴避傳統的電影敘事手法，對白運用極為克制，大片段的敘述僅以音樂襯托。與多數大片慣例使用原創配樂不同，《2001太空漫遊》的電影原聲帶選用了多首古典音樂作品，包括理查·施特勞斯、小约翰·施特劳斯、阿拉姆·哈恰圖良與利盖蒂·捷尔吉等作曲家的作品。 《2001太空漫遊》在首映後引起評論界的兩極反應，隨後逐漸引發眾多解讀，從黑暗的末世預言到對人類希望的樂觀詮釋不一而足。評論者指出，本片探討了人類進化、科技、人工智慧與外星生命等多重主題。電影曾獲得四項奧斯卡金像獎提名，最終由庫布力克榮獲奧斯卡最佳視覺效果獎，這也是他生涯中唯一一次獲得奧斯卡獎。 本片現今普遍被視為史上最偉大且最具影響力的電影之一。1991年，電影因「文化上，歷史上和美學上的重要價值」而選入美國國會圖書館典藏。2022年，《2001太空漫遊》於《視與聽》每十年一次的影評人票選中名列前十，並於導演票選中排名第一。續集《威震太陽神》於1984年上映，根據小說《2010太空漫遊》改編而成。克拉克亦在1968年電影上映後不久發表了與劇本同步創作的小說版，庫布力克因此獲得共同編劇的署名。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "464837",
+              "url": "https://zh.wikipedia.org/?curid=464837",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "2001: A Space Odyssey is a 1968 epic science fiction film produced and directed by Stanley Kubrick, who co-wrote the screenplay with Arthur C. Clarke. Its plot was inspired by several short stories optioned from Clarke, primarily \"The Sentinel\" (1951) and \"Encounter in the Dawn\" (1953). The film stars Keir Dullea, Gary Lockwood, William Sylvester, and Douglas Rain, and follows a voyage by astronauts, scientists, and the sentient supercomputer HAL 9000 to Jupiter to investigate an alien monolith. The film is noted for its scientifically accurate depiction of spaceflight, pioneering special effects, and ambiguous themes. Kubrick avoided conventional cinematic and narrative techniques; dialogue is used sparingly, and long sequences are accompanied only by music. Shunning the convention that…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "23941708",
+              "url": "https://en.wikipedia.org/?curid=23941708",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "2001, l'Odyssée de l'espace (2001: A Space Odyssey) est un film britannico-américain de science-fiction réalisé par Stanley Kubrick, sorti en 1968. Le scénario du film, coécrit par Kubrick et le romancier Arthur C. Clarke, s'inspire de deux nouvelles de Clarke, À l'aube de l'histoire et La Sentinelle. Parallèlement au tournage du film, Clarke rédige le roman 2001 : L'Odyssée de l'espace, qui sera publié peu après la sortie du long-métrage. L'intrigue principale du film traite de plusieurs rencontres entre les êtres humains et de mystérieux monolithes noirs, censés influencer l'évolution humaine, et comprend un voyage vers la planète Jupiter puis « au-delà de l'infini », à la suite d'un signal radio émis par un monolithe découvert sur la Lune. Produit et distribué par le studio américain…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3945",
+              "url": "https://fr.wikipedia.org/?curid=3945",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0078748",
@@ -996,7 +1465,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《異形》（英語：Alien）是於1979年上映的一部有巨大影響力的科幻恐怖片，由雷利·史考特導演，雪歌妮·薇佛主演。四部曲電影的票房十分成功，是好萊塢創造的一個重要的形象，催生了相關的文學、電子遊戲、紀念品以及三部官方續集。除了介紹「異形」（Xenomorph）以外，女主角艾倫·蕾普利的故事也貫穿了整個系列。 電影名稱是指電影中的主要敵人，一種有極強攻擊性未知的地球外生命體。在一次對一個未知的行星信號的例行調查中，一只異形幼體攻擊並且感染了一個太空船員。在異形登上太空船後，很快整個太空船的船員都受到性命威脅，最終被毀滅。不過由於當時製片的技術的限制，異形系列皆未攝製身處於太空船中的無重力狀態，包含最新的「普羅米修斯」等等（不過可研判劇組設定該時代已具有人工重力技術）。 這是影史上的一部經典科幻片，獲得第52屆奧斯卡最佳視覺效果獎，並且榮登AFI百年百大驚悚電影第六名。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "655695",
+              "url": "https://zh.wikipedia.org/?curid=655695",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Alien is a 1979 science fiction horror film directed by Ridley Scott and written by Dan O'Bannon, based on a story by O'Bannon and Ronald Shusett. It follows a commercial starship crew who investigate a derelict space vessel and are hunted by a deadly extraterrestrial creature. The film stars Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, and Yaphet Kotto. It was produced by Gordon Carroll, David Giler, and Walter Hill through their company Brandywine Productions and was distributed by 20th Century-Fox. Giler and Hill revised and made additions to the script; Shusett was the executive producer. The alien creatures and environments were designed by the Swiss artist H. R. Giger, while the concept artists Ron Cobb and Chris Foss designed the…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "23487440",
+              "url": "https://en.wikipedia.org/?curid=23487440",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Alien, ou parfois Alien, le huitième passager dans les pays francophones (également typographié Alien, le 8e passager) ou L'Étranger : le huitième passager au Québec, est un film de science-fiction horrifique de monstre américano-britannique imaginé et créé par le plasticien, graphiste, illustrateur, sculpteur et designer suisse, Hans Ruedi Giger et réalisé par Ridley Scott, sorti en 1979. Écrit par Dan O'Bannon, il fait partie de la saga Alien, dont il constitue l'opus inaugural. Le film se déroule durant le voyage-retour du cargo spatial Nostromo entre Thedus et la Terre après une mission commerciale de routine. Les sept membres d'équipage, cinq hommes et deux femmes plongés en hibernation, sont tirés de leur léthargie plus tôt que prévu par l'ordinateur de bord du vaisseau. Ce dernier…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "11917",
+              "url": "https://fr.wikipedia.org/?curid=11917",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0258463",
@@ -1065,7 +1572,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《神鬼認證》（英語：The Bourne Identity）是美德合拍的2002年动作惊悚片，根据勞勃·勒德倫的同名小说改编。影片由道格·李曼执导，剧本由東尼·格萊和威廉·布莱克·赫伦改编。勒德倫于2001年去世，但他的名字还是与制片人法蘭克·馬歇爾列在了一起。马特·达蒙出演患有极端记忆丧失的男主角傑森·包恩，试图在逃避美国中央情报局追杀的同时发掘出自己的真实身分。片中的其他几位主要演员包括法蘭卡·波坦特、克里斯·庫柏、克萊夫·歐文、布萊恩·考克斯和艾德瓦利·亞肯努耶-阿嘉巴傑。 环球影业于2002年6月14日在美国发行了本片，获得了较为正面的专业和公众评价。影片是谍影重重系列电影的开山之作，之后已推出2004年的《神鬼認證2》、2007年的《神鬼認證：最後通牒》、2012年的《神鬼認證4》以及2016年的《神鬼認證：傑森包恩》4部续集。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "599207",
+              "url": "https://zh.wikipedia.org/?curid=599207",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "The Bourne Identity is a 2002 American action-thriller film directed by Doug Liman and written by Tony Gilroy and William Blake Herron. Based on Robert Ludlum's 1980 novel, it is the first installment in the Bourne franchise, and stars Matt Damon, Franka Potente, Chris Cooper, Clive Owen, Brian Cox, and Adewale Akinnuoye-Agbaje. In the film, Jason Bourne (Damon) has psychogenic amnesia and is forced to fight to unlock his identity and his mysterious connection to the CIA. Attempts to develop a feature film adaptation of Ludlum's novel first began in 1981 but stalled after being passed to different distributors; Warner Bros. produced a television film adaptation in 1988. Liman revived the feature film project in 1996 and worked with Ludlum and David Self on its screenplay after Gilroy…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "963986",
+              "url": "https://en.wikipedia.org/?curid=963986",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "La Mémoire dans la peau (The Bourne Identity) est un film d'espionnage américano-germano-tchèque réalisé par Doug Liman et sorti en 2002. Il est adapté du roman du même nom de Robert Ludlum. Il constitue le premier volet d'une série cinématographique basée sur le personnage de Jason Bourne, incarné par Matt Damon. À l'origine prévu pour sortir en France en octobre 2001, il fut repoussé à 2002 en raison des attentats du 11 septembre 2001.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "280370",
+              "url": "https://fr.wikipedia.org/?curid=280370",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0440963",
@@ -1142,7 +1687,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《神鬼認證：最後通牒》（英語：The Bourne Ultimatum）是一部2007年美國和德國合拍的動作諜報驚悚片，為「神鬼認證系列電影」的第三部。同樣是根據勞勃·勒德倫同名暢銷小說改編而成。這次，麥特·戴蒙再度飾演勒德倫筆下最有名的失憶殺手傑森·包恩。瓊·愛倫、茱莉亞·史緹爾再度領銜主演，其他新角色包括大衛·史崔森、派迪·康斯丁、艾格·拉米瑞茲、史考特·葛倫和艾爾伯·芬利主演。本片再度由《神鬼認證：神鬼疑雲》導演保羅·葛林葛瑞斯執導，並且將會承接上集在莫斯科的激烈車戰之後，隨著包恩來到巴黎、倫敦、馬德里、丹吉爾到最後的紐約市，而中情局（CIA）則會派出更強、更冷血的殺手追殺包恩。 劇本寫作依舊由前兩部的劇作家東尼·吉爾洛伊編寫，另外包括喬治·那飛、史考特·Z·柏恩斯以及湯姆·斯托帕德爵士（未列入名單），另外監製為法蘭克·馬歇爾、派翠克·克勞利、保羅·山德堡，以及第一部《神鬼認證》的導演道格·李曼。於2007年8月3日在全美上映。 在北美，影片開片首週就賺進將近7000萬美元的票房，打破北美影史的8月最佳開片記錄。該片票房成長驚人，到八月底時，有人已預估此集將會超越前兩集全球票房的總和，為三部曲中最賣座的作品。 《神鬼認證：最後通牒》佳評如潮，為三部曲當中最高評價的電影。獲得英國影藝學院最佳剪輯、最佳混音獎，第80屆奧斯卡金像獎提名最佳音效剪輯、最佳混音、最佳剪輯三項全數獲獎，是三部曲電影當中唯一獲得奧斯卡金像獎的電影。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "600370",
+              "url": "https://zh.wikipedia.org/?curid=600370",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "The Bourne Ultimatum is a 2007 American action-thriller film based on Robert Ludlum's character Jason Bourne, a CIA assassin and psychogenic amnesiac portrayed by Matt Damon. Julia Stiles, David Strathairn, Scott Glenn, Paddy Considine, Édgar Ramírez, Albert Finney, and Joan Allen also star. The film was directed by Paul Greengrass and written by Tony Gilroy, Scott Z. Burns, and George Nolfi. Loosely based on the novel of the same name, the story takes place both during and after the events of The Bourne Supremacy (2004), and follows Bourne as he continues searching for information about his past before joining Treadstone, while also being pursued by a similar program, Blackbriar. Following the release of Supremacy, Greengrass agreed to return to direct the third installment. Gilroy, the…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1854000",
+              "url": "https://en.wikipedia.org/?curid=1854000",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "La Vengeance dans la peau (The Bourne Ultimatum) est un film américano-allemand réalisé par Paul Greengrass et sorti en 2007. Il fait partie de la série de films inspirée des romans de Robert Ludlum et débutée avec La Mémoire dans la peau en 2002.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "552012",
+              "url": "https://fr.wikipedia.org/?curid=552012",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0040746",
@@ -1211,7 +1794,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《奪魂索》（英語：Rope）是亞弗列德·希區考克（Alfred Hitchcock）在1948年所執導的電影，亦是希區考克的第一部彩色影片。由詹姆斯·史都華、約翰·道爾、法利·葛倫格等人主演。靈感取材自1924年轟動一時而影響深遠的謀殺案「李奧波德與勒伯案」、以及此案在1929年改編的舞台劇。 《奪魂索》是亞弗列德·希區考克最具實驗性質、前衛且創新的作品。其中最出名的特色，在於它是電影史上第一次嘗試使用連續長鏡頭拍攝作業，80分鐘的電影只有10個鏡頭。此片也以探討費奧多爾·杜思妥也夫斯基和弗里德里希·尼采的著作及學說、以及同性戀、「謀殺的藝術」等題材而獨樹一格。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "684062",
+              "url": "https://zh.wikipedia.org/?curid=684062",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Rope is a 1948 American psychological crime thriller film directed by Alfred Hitchcock, inspired by the 1929 play of the same title by Patrick Hamilton. The film was adapted by Hume Cronyn with a screenplay by Arthur Laurents. The film was produced by Hitchcock and Sidney Bernstein as the first of their Transatlantic Pictures productions. Starring James Stewart, John Dall and Farley Granger, this is the first of Hitchcock's Technicolor films, and is notable for taking place in real time and being edited so as to appear as four long shots through the use of stitched-together long takes. It is the second of Hitchcock's \"limited setting\" films, the first being Lifeboat (1944). The original play was said to be inspired by the real-life murder of 14-year-old Bobby Franks in 1924 by University…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "23477436",
+              "url": "https://en.wikipedia.org/?curid=23477436",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "La Corde (Rope) est un film américain d'Alfred Hitchcock sorti en 1948. Il s'agit du premier film tourné en couleurs par Alfred Hitchcock. Ce film, qui se déroule à huis clos, est notamment célèbre pour son utilisation du plan-séquence, avec des transitions qui donnent l'impression qu'il n'y en a qu'un.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "7652",
+              "url": "https://fr.wikipedia.org/?curid=7652",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0056869",
@@ -1281,7 +1902,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《鳥》（英語：The Birds，又名《群鳥》，新加坡公映時譯《鳥陣驚魂》），英國導演亞佛烈德·希區考克所執導的一部電影，於1963年上映，根據達夫妮·杜穆里埃（Daphne du Maurier）的小說所改編，被認為是希區考克代表作之一。获AFI百年百大电影提名。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "706825",
+              "url": "https://zh.wikipedia.org/?curid=706825",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "The Birds is a 1963 American natural horror film produced and directed by Alfred Hitchcock, released by Universal Pictures and starring Rod Taylor, Jessica Tandy, Suzanne Pleshette, and introducing Tippi Hedren in her film debut. Loosely based on the 1952 short story of the same name by Daphne du Maurier, it focuses on a series of sudden and unexplained violent bird attacks on the people of Bodega Bay, California, over the course of a few days. The screenplay is by Evan Hunter, who was told by Hitchcock to develop new characters and a more elaborate plot while keeping du Maurier's title and concept of unexplained bird attacks. While it initially received mixed reviews when originally released, its reputation improved over time and it has since been considered to be one of the greatest…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "304428",
+              "url": "https://en.wikipedia.org/?curid=304428",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Les Oiseaux (The Birds) est un thriller horrifique américain, réalisé par Alfred Hitchcock, sorti en 1963. Ce film est le 48e long-métrage d'Hitchcock, il s'inspire de la nouvelle éponyme de la romancière britannique Daphné du Maurier, publiée en 1952, qui est adaptée au cinéma par le scénariste Evan Hunter. Avec Tippi Hedren et Rod Taylor dans les rôles principaux, le film narre les attaques inexpliquées d'oiseaux de toutes espèces sur les habitants de la petite ville de Bodega Bay en Californie. Il fallut trois ans de préparation avant le tournage : des milliers d'oiseaux furent dressés pour l'occasion et l'utilisation de nombreux trucages contribua à créer une ambiance de terreur. Considéré comme le dernier grand film de sa carrière, Les Oiseaux contribua, malgré un succès commercial…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "58648",
+              "url": "https://fr.wikipedia.org/?curid=58648",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0101921",
@@ -1353,7 +2012,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《油炸綠蕃茄》（英語：Fried Green Tomatoes）是一部1991年的女性主義电影。根据芬妮·傅雷格的同名小说改编。导演是乔恩·艾弗耐特， 编剧为芬妮·傅雷格和Carol Sobieski，由凱西·貝茲，潔西卡·坦迪，玛丽·斯图尔特·马斯特森和瑪麗-露易斯·帕克主演。 该片获得影评人普遍积极的评价和两项奥斯卡奖提名。电影票房收入仅在美国就有82,418,501美元，在美国外有37,000,000美元，使全球总票房为119,418,501美元。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "2996520",
+              "url": "https://zh.wikipedia.org/?curid=2996520",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Fried Green Tomatoes is a 1991 American Southern Gothic comedy-drama film directed by Jon Avnet, and based on Fannie Flagg's 1987 novel Fried Green Tomatoes at the Whistle Stop Cafe. Written by Flagg and Carol Sobieski, and starring Kathy Bates, Jessica Tandy, Mary Stuart Masterson, Mary-Louise Parker, and Cicely Tyson, the film tells the story of a middle-aged housewife who, unhappy with her life, befriends an elderly lady in a nursing home and is enthralled by the tales she tells of people she used to know. The film was released in theaters in the United States on December 27, 1991, garnered positive reviews from critics and was a box office success, grossing $119.4 million on a $11 million budget. Fried Green Tomatoes received nominations for two Academy Awards and two BAFTA awards, as…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "7223973",
+              "url": "https://en.wikipedia.org/?curid=7223973",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Beignets de tomates vertes, ou Le secret est dans la sauce au Québec (Fried Green Tomatoes) est un film américain réalisé par Jon Avnet, sorti en 1991. Il est adapté du roman Beignets de tomates vertes (Fried Green Tomatoes at the Whistle Stop Cafe), de Fannie Flagg, qui fait elle-même une apparition dans le film.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1050363",
+              "url": "https://fr.wikipedia.org/?curid=1050363",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt1964624",
@@ -1419,7 +2116,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《登堂入室》 (法語：Dans la maison) 是一部法国电影作品，导演为François Ozon。改编自西班牙作家Juan Mayorga创作的舞台剧 The Boy in the Last Row。 该片入围法国凯撒奖六项提名，获得多伦多电影节国际影评人费比西奖，西班牙圣塞巴斯蒂安电影节最佳影片金贝壳奖和最佳编剧奖，2013年欧洲电影奖最佳编剧，同时入选欧洲年度最佳影片之一。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3373952",
+              "url": "https://zh.wikipedia.org/?curid=3373952",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "In the House (French: Dans la maison) is a 2012 French comedy drama directed by François Ozon. The film's screenplay by Ozon is loosely based on Juan Mayorga's play El chico de la última fila (The Boy in the Last Row). The film won the main prize at the 2012 San Sebastián International Film Festival, the Golden Shell, as well as the Jury Prize for Best Screenplay.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "35337870",
+              "url": "https://en.wikipedia.org/?curid=35337870",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Dans la maison est un film français réalisé par François Ozon, sorti en 2012. Son sujet est librement adapté de la pièce du dramaturge espagnol Juan Mayorga, Le Garçon du dernier rang (El chico de la última fila).",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "6353213",
+              "url": "https://fr.wikipedia.org/?curid=6353213",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt1591095",
@@ -1485,7 +2220,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《潜伏》（英語：Insidious，香港译《儿凶》，马来西亚、新加坡、台湾译《阴儿房》）是一部2010年美國恐怖電影，導演為溫子仁，編劇為雷·沃納爾。由派翠克·威爾森、蘿絲·拜恩以及芭芭拉·赫尔希主演。故事主軸為一對夫妻的兒子突然地陷入昏迷，之後了解是靈魂陷入幽界。電影於2011年4月1日上映，並且是FilmDistrict電影公司的首部上映作品。續集《陰兒房第2章：陰魂守舍》於2013年9月13日上映，也是由溫子仁導演。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "4071323",
+              "url": "https://zh.wikipedia.org/?curid=4071323",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Insidious is a 2010 supernatural horror film directed and co-edited by James Wan, written by Leigh Whannell, and starring Patrick Wilson, Rose Byrne, and Barbara Hershey. It is the first installment in the Insidious franchise and the third in terms of the series' in-story chronology. The story centers on a married couple whose young son inexplicably enters a comatose state and becomes a vessel for a variety of demonic entities in an astral plane. Insidious had its world premiere on September 14, 2010, at the 2010 Toronto International Film Festival (TIFF) and received a wide theatrical release on April 1, 2011, by FilmDistrict. The film is followed by three sequels, Insidious: Chapter 2 (2013), Insidious: The Red Door (2023), Insidious: Out of the Further (2026); and two prequels,…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "27645834",
+              "url": "https://en.wikipedia.org/?curid=27645834",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Insidious, ou Insidieux au Québec, est un film d'horreur américain réalisé par James Wan, sorti en 2010. Une suite directe, Insidious : Chapitre 2 de James Wan, sort en 2013, puis deux préquelles, Insidious : Chapitre 3 de Leigh Whannell et Insidious : La Dernière Clé d'Adam Robitel, sortent respectivement en 2015 et en 2018.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "5443251",
+              "url": "https://fr.wikipedia.org/?curid=5443251",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0095174",
@@ -1555,7 +2328,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Frantic is a 1988 neo-noir mystery thriller film co-written and directed by Roman Polanski and starring Harrison Ford and Emmanuelle Seigner. Ennio Morricone composed the film score. Although a commercial failure, the film was a critical success, and has since gone on to become a cult classic, with Morricone's score being hailed as one of his best.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "845738",
+              "url": "https://en.wikipedia.org/?curid=845738",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Frantic est un film franco-américain réalisé par Roman Polanski et sorti en 1988. Bien qu'il s'agisse d'un échec commercial, le film a été un succès critique et est depuis devenu culte.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "255179",
+              "url": "https://fr.wikipedia.org/?curid=255179",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0478134",
@@ -1629,7 +2428,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "In the Valley of Elah is a 2007 American crime drama film written and directed by Paul Haggis. The film stars Tommy Lee Jones, Charlize Theron, and Susan Sarandon. Its title refers to the Biblical valley where the battle between David and Goliath took place. The film is based on actual events, although the characters' names and locations have been changed. The screenplay was inspired by journalist Mark Boal's \"Death and Dishonor\", an article about the murder case published in Playboy magazine in 2004. It portrays a military father's search for his son and, after his body is found, subsequent hunt for his son's killers. The film explores themes including the Iraq War, abuse of prisoners, and post-traumatic stress disorder (PTSD). In the Valley of Elah premiered at the Venice Film Festival…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "12032423",
+              "url": "https://en.wikipedia.org/?curid=12032423",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Dans la vallée d'Elah (In the Valley of Elah) est un drame psychologique américain réalisé par Paul Haggis, sorti en 2007. Le titre du film se réfère à la vallée où David combattit Goliath.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "2310104",
+              "url": "https://fr.wikipedia.org/?curid=2310104",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0985694",
@@ -1698,7 +2523,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《弯刀》（英語：Machete，香港译《攞命．弯刀．罪恶城》，台湾译《绝煞刀锋》）是一部2010年上映的美國動作片，為勞勃·羅里葛茲和伊森·曼尼奎斯執導。本片為勞勃·羅里葛茲的2007年電影《刑房》的假預告片延伸而出，並延續了《刑房》的B級片風格和一些素材。電影由丹尼·崔喬擔任主演，其他配角包括史蒂芬·席格、蜜雪兒·羅德里奎茲、勞勃·狄尼洛、切奇·馬林、琳賽·蘿涵、唐·強生、潔西卡·艾巴與傑夫·法漢。本片為史蒂芬·席格繼2002年電影《黑獄風雲》後的八年首部在戲院上映的電影。《絕煞刀鋒》由二十世紀福斯定於2010年9月3日在美國上映。續集《殺千刀重出江湖》於2013年10月11日推出。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3179682",
+              "url": "https://zh.wikipedia.org/?curid=3179682",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Machete (also known as Robert Rodriguez's Machete) is a 2010 American exploitation black comedy action film directed by Robert Rodriguez and Ethan Maniquis. The film is an expansion of a fake trailer published as a part of the promotion of Rodriguez's and Quentin Tarantino's 2007 Grindhouse double-feature; Machete continues the B movie and exploitation style of Grindhouse. The story sees the eponymous character who, after being hired to assassinate a corrupt senator only to be double-crossed, goes on a vengeful quest against the conspirators. The film stars Danny Trejo as Machete, reprising the role from the fake trailer. Trejo also previously portrayed an alternate version of the character in the Spy Kids films. The film additionally co-stars Steven Seagal, Michelle Rodriguez, Jessica…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "10304105",
+              "url": "https://en.wikipedia.org/?curid=10304105",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Machete ou Macheté au Québec et au Nouveau-Brunswick est un film américain réalisé par Robert Rodriguez et Ethan Maniquis et sorti en 2010. Il met en scène le personnage de Machete, déjà incarné par Danny Trejo dans la saga Spy Kids et dans une fausse bande-annonce de Grindhouse. Ce film s'inspire dans la lignée « série B / film d'exploitation » de Grindhouse. À sa sortie, le film reçoit un accueil plutôt positif de la presse. Produit avec un budget assez modeste, le film est un succès commercial. Une suite, Machete Kills, sort en 2013.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3192254",
+              "url": "https://fr.wikipedia.org/?curid=3192254",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0375735",
@@ -1767,7 +2630,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《紅氣球之戀》（英語：Enduring Love）是一部2004年的英國電影，由導演Roger Michell與編劇Joe Penhall，基於由伊恩·麥克尤恩於1997年完成的小說《愛無可忍》改編。不尋常的事件把他們連在一起，但致命的迷戀將會把他們拆散...。由丹尼爾·克雷格、瑞斯·伊凡斯、珊曼莎摩頓主演。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3780635",
+              "url": "https://zh.wikipedia.org/?curid=3780635",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Enduring Love is a 2004 psychological thriller film directed by Roger Michell and written by Joe Penhall. It is based on the 1997 novel of the same name by Ian McEwan. The film stars Daniel Craig, Rhys Ifans, Samantha Morton, Bill Nighy, Susan Lynch and Corin Redgrave. Enduring Love was released in the United Kingdom on 26 November 2004, by Pathé. Reviews were mixed.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1102360",
+              "url": "https://en.wikipedia.org/?curid=1102360",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Délires d'amour (Enduring Love) est un film britannique réalisé par Roger Michell sorti en 2004.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3139692",
+              "url": "https://fr.wikipedia.org/?curid=3139692",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0058329",
@@ -1837,7 +2738,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《豔賊》（英語：Marnie）是一部1964年的懸疑電影，由希區考克導演，黛碧·海倫和史恩·康納萊主演。其內容改編自Winston Graham於1961年出版的同名小說，講述一個美艷動人的女子瑪琳，因小時候的生活及家庭因素導致她對世界冷感及不信任，而對男人憎恨，和對偷竊的強烈慾望；她以偷竊的方式滿足自己的性和情感。 《艷賊》和希區考克其他大部分作品一樣，主題性十分強烈。其故事背後所呈現的犯罪心理面是更值得去探討的。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "5425355",
+              "url": "https://zh.wikipedia.org/?curid=5425355",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Marnie is a 1964 American psychological thriller film directed by Alfred Hitchcock from a screenplay by Jay Presson Allen, based on the 1961 novel of the same name by Winston Graham. The film stars Tippi Hedren and Sean Connery. Marnie became a milestone for several reasons. It was the last time a \"Hitchcock blonde\" would have a central role in one of his films. It also marked the end of Hitchcock's collaborations with cinematographer Robert Burks, who died in 1968; editor George Tomasini, who died soon after Marnie's release; and composer Bernard Herrmann, who was fired during Hitchcock's next film, Torn Curtain (1966), when Hitchcock and Universal studio executives wanted a pop-and-jazz-influenced score for the film. The film received mixed reviews upon its release, but over the years…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "264851",
+              "url": "https://en.wikipedia.org/?curid=264851",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Pas de printemps pour Marnie (Marnie) est un thriller américain réalisé par Alfred Hitchcock, sorti en 1964. C'est le 49e long métrage d'Hitchcock ; il est inspiré d'un roman de Winston Graham, Marnie, adapté par la scénariste Jay Presson Allen. Le roman est également à l'origine d'un opéra intitulé Marnie, composé par Nico Muhly, sur un livret de Nicholas Wright qui suit de près le texte de Winston Graham. Le film retrace la trajectoire de Marnie, jeune femme victime d'un traumatisme dans son enfance et qui vole la caisse des magasins où elle est embauchée. Mark, un de ses employeurs, tombe amoureux d'elle et cherche à comprendre sa névrose. Cependant, il la contraint à l'épouser (sous peine de la dénoncer à la police) et la viole durant leur voyage de noces. Mark poursuit son enquête…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "45006",
+              "url": "https://fr.wikipedia.org/?curid=45006",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0100150",
@@ -1910,7 +2849,56 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "cover": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Miller%27s_Crossing_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "source": {
+            "provider": "Wikimedia Commons",
+            "externalId": "File:Miller's Crossing logo.png",
+            "url": "https://commons.wikimedia.org/wiki/File%3AMiller's_Crossing_logo.png",
+            "checkedAt": "2026-10-22T12:40:43.094Z"
+          },
+          "credit": "Machete kills",
+          "license": "CC BY-SA 4.0"
+        },
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《米勒的十字路口》（英語：Miller's Crossing，香港译《风云再起时》，新加坡、台湾译《黑帮龙虎斗》）是一部1990年的美國新黑色黑幫電影，加上黑色幽默的元素，由高安兄弟編劇、執導和監製。主演是加布里埃爾·伯恩、馬西雅·蓋·哈登、約翰·特托羅、喬·波里托、J·E·弗里曼和亞伯特·芬尼。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "5871423",
+              "url": "https://zh.wikipedia.org/?curid=5871423",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Miller's Crossing is a 1990 American neo-noir gangster film written, directed and produced by Joel and Ethan Coen, and starring Gabriel Byrne, Marcia Gay Harden, John Turturro, Jon Polito, J. E. Freeman, and Albert Finney. The plot concerns a power struggle between two rival gangs and how the protagonist, Tom Reagan (Byrne), plays both sides against each other. The film premiered at the 1990 New York Film Festival, and received a limited release in the United States on September 22, 1990. Though a commercial disappointment, it was acclaimed by critics. In 2005, Time chose Miller's Crossing as one of the 100 greatest films made since the inception of the periodical.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "55495",
+              "url": "https://en.wikipedia.org/?curid=55495",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Miller's Crossing, ou Un cadavre sous le chapeau au Québec, est un film américain réalisé par Joel Coen, coscénarisé avec son frère Ethan, sorti en 1990. Gabriel Byrne y joue le rôle d'un gangster de la mafia irlandaise durant la prohibition. Il doit défendre le frère bookmaker (John Turturro) de sa petite amie (Marcia Gay Harden), qui a provoqué l'ire d'un mafieux italo-américain (Jon Polito) et de son terrifiant bras-droit (J. E. Freeman). Malgré des critiques globalement très positives, ce troisième film des frères Coen est un échec commercial.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "898359",
+              "url": "https://fr.wikipedia.org/?curid=898359",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0114814",
@@ -1976,7 +2964,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《普通嫌疑犯》（英語：The Usual Suspects）是1995年的一部美国新黑色电影，由布莱恩·辛格执导，克里斯托普赫·麦奎里编剧，劇情围绕外号“Verbal”的骗子罗杰·金特（凯文·斯贝西饰演）接受警方讯问展开。金特向审讯他的美国海关探员大卫·库科（查兹·帕明特瑞饰演）讲述了一个情节错综复杂的故事，解释了停靠在加州圣佩德罗湾洛杉矶港上的一艘失火的船上为何会出现一场大屠杀。插敘（flashback）和旁白的使用，使得金特对其同伙在船上原因的解释变得更加复杂。 该片总预算达六百万美元。片名是《间谍》杂志上的同名专栏作品的标题，取自电影《北非谍影》中克劳德·雷恩斯的一句台词「Round up the usual suspects」。辛格和麦奎里为该片设计了海报，作为最初的视觉概念图。 《普通嫌疑犯》于1995年度的戛纳电影节上展映，接着在部分影院中试映。影片受到观众好评，最终开始大规模放映。麦奎里凭借该片获得了奥斯卡最佳原创剧本奖，凯文·斯贝西则因其在片中的出色表演摘得奥斯卡最佳男配角奖桂冠。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1107512",
+              "url": "https://zh.wikipedia.org/?curid=1107512",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "The Usual Suspects is a 1995 crime thriller film directed by Bryan Singer and written by Christopher McQuarrie. It stars Kevin Spacey, Gabriel Byrne, Benicio del Toro, Stephen Baldwin, Kevin Pollak, Chazz Palminteri and Pete Postlethwaite. The plot follows the interrogation of Roger \"Verbal\" Kint, a small-time con man, who is one of only two survivors of a massacre and fire on a ship docked at the Port of Los Angeles. Through flashback and narration, Kint tells an interrogator a convoluted story of events that led him and his criminal companions to the boat, and of a mysterious crime lord—known as Keyser Söze—who controlled them. The film was shot on a $6 million budget and began as a title taken from a column in Spy magazine called \"The Usual Suspects\", after one of Claude Rains' most…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "167857",
+              "url": "https://en.wikipedia.org/?curid=167857",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Usual Suspects (The Usual Suspects) (Suspects de convenance au Québec) est un film policier réalisé par Bryan Singer et sorti en 1995. Utilisant une technique de narration non linéaire, le film suit l'interrogatoire mené par l'agent Kujan (Chazz Palminteri) d'un petit malfaiteur infirme nommé Verbal Kint (Kevin Spacey). Celui-ci est l'un des deux seuls survivants d'un massacre commis la veille sur un cargo à quai dans le port de San Pedro, en Californie. Par le biais de nombreux flashbacks, Kint narre l'enchaînement d'événements complexes qui l'ont mêlé, lui et quatre autres malfrats, à cette mystérieuse affaire derrière laquelle se trouverait le légendaire criminel Keyser Söze. Pour écrire le scénario, Christopher McQuarrie mêle l'idée de cinq criminels réunis pour une parade…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "316695",
+              "url": "https://fr.wikipedia.org/?curid=316695",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt1600195",
@@ -2042,7 +3068,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Abduction is a 2011 American action thriller film directed by John Singleton (in his final directed film before his death in 2019), produced by Roy Lee and Ellen Goldsmith-Vein, and written by Shawn Christensen. The film stars Taylor Lautner in the lead role, alongside Lily Collins, Alfred Molina, Jason Isaacs, Maria Bello, and Sigourney Weaver in supporting roles. The film follows a young man who sets out to uncover the truth about his life after finding a photo of himself as a child on a missing persons website. The film was released by Lionsgate on September 23, 2011, and grossed $82.1 million on a $35 million budget.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "28027063",
+              "url": "https://en.wikipedia.org/?curid=28027063",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Identité secrète ou Enlèvement au Québec (Abduction) est un thriller américain réalisé par John Singleton et sorti en 2011. Il s'agit du dernier long métrage du réalisateur, décédé en 2019.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "5109626",
+              "url": "https://fr.wikipedia.org/?curid=5109626",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0103772",
@@ -2108,7 +3160,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《本能》（英語：Basic Instinct，新加坡、台湾译《第六感追缉令》）是一部1992年的新黑色情色驚悚電影，由保羅·范赫文執導，編劇為喬·伊斯特哈斯。主要演員有莎朗·史東、麥可·道格拉斯。 2005年4月於倫敦開拍續集《第六感追緝令2》，於2006年3月發行。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "173019",
+              "url": "https://zh.wikipedia.org/?curid=173019",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Basic Instinct is a 1992 erotic thriller mystery film directed by Paul Verhoeven and written by Joe Eszterhas. Starring Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn, and Wayne Knight, the film follows San Francisco homicide detective Nick Curran (Douglas) as he investigates the murder of rock star Johnny Boz, only to begin an intense relationship with the prime suspect Catherine Tramell (Stone), a wealthy heiress and crime novelist. The script was developed by Eszterhas in the 1980s and became the subject of a bidding war, which Carolco Pictures won before bringing Verhoeven on board to direct. Stone, who was relatively unknown at the time, was cast as Tramell after the role was rejected by several prominent actresses and production was plagued by protests and intense…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "481649",
+              "url": "https://en.wikipedia.org/?curid=481649",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Basic Instinct (['beɪsɪk ˈɪnstɪŋkt]) est un thriller érotique franco-américano-britannique réalisé par Paul Verhoeven et sorti en 1992. Le film se focalise sur l'officier de police Nick Curran (Michael Douglas) qui enquête sur le meurtre sauvage d'une riche rock star. Durant son enquête, Curran se lance dans une relation intense et torride avec la suspecte principale, la mystérieuse Catherine Tramell (Sharon Stone). Avant même sa sortie, Basic Instinct suscite de nombreuses controverses dues à de nombreuses scènes de sexe explicites et l'esthétisation de la violence. Les activistes de la défense des droits LGBT critiquent violemment le film pour la manière dont sont décrites les relations homosexuelles et le portrait d'une femme bisexuelle associée à une meurtrière sociopathe. Malgré les…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "110179",
+              "url": "https://fr.wikipedia.org/?curid=110179",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0273069",
@@ -2177,7 +3267,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "The Adversary (French: L'Adversaire) is a 2002 French drama film directed by Nicole Garcia, starring Daniel Auteuil and Géraldine Pailhas.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "16900774",
+              "url": "https://en.wikipedia.org/?curid=16900774",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "L'Adversaire est un film français réalisé par Nicole Garcia, sorti en 2002 et adapté du récit du même nom d'Emmanuel Carrère publié en 2000.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "250671",
+              "url": "https://fr.wikipedia.org/?curid=250671",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0038494",
@@ -2242,7 +3358,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Dressed to Kill is a 1946 American mystery film directed by Roy William Neill. Released by Universal Pictures, it is the last of fourteen films starring Basil Rathbone as Sherlock Holmes and Nigel Bruce as Doctor Watson. It is also known by the alternative titles Prelude to Murder (working title) and Sherlock Holmes and the Secret Code in the United Kingdom. The film has an original story, but combines elements of the short stories \"The Adventure of the Six Napoleons\" and \"A Scandal in Bohemia.\" It is one of four films in the series which are in the public domain and is available online.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3524282",
+              "url": "https://en.wikipedia.org/?curid=3524282",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "La Clef ou Sherlock Holmes et la Clef (Dressed to Kill) est un film américain sorti en 1946, réalisé par Roy William Neill. Il s’agit du quatorzième et dernier film avec Basil Rathbone et Nigel Bruce dans les rôles respectifs de Sherlock Holmes et du docteur Watson. C’est aussi l’avant-dernier film du réalisateur Roy William Neill qui disparaît dans l’année.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "6053230",
+              "url": "https://fr.wikipedia.org/?curid=6053230",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0034711",
@@ -2307,7 +3449,33 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "en",
+            "text": "Eyes in the Night is a 1942 American crime mystery starring Edward Arnold, Ann Harding, and Donna Reed. Directed by Fred Zinnemann (with uncredited scenes directed by Edward Sedgwick), it is based on Baynard Kendrick's 1941 novel The Odor of Violets. The film was followed by a sequel (also starring Arnold), The Hidden Eye (1945).",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "25225101",
+              "url": "https://en.wikipedia.org/?curid=25225101",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Les Yeux dans les ténèbres (Eyes in the Night) est un film d'espionnage américain réalisé par Fred Zinnemann, sorti en 1942.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "6749376",
+              "url": "https://fr.wikipedia.org/?curid=6749376",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0217505",
@@ -2380,7 +3548,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《纽约黑帮》（英語：Gangs of New York，香港译《纽约风云》）是一部2002年的美国史詩历史电影，由馬丁·史柯西斯导演，李奧納多·狄卡皮歐、丹尼爾·戴-路易斯、卡麥蓉·狄亞主演；故事灵感来自美國記者、作家赫伯特·阿斯伯里於1927年出版的非虛構書籍《紐約黑幫》，呈現19世纪中叶纽约市曼哈顿下城（聯邦眾議院紐約州第五選区）的黑帮斗争史。該片由米拉麥克斯影業发行；入圍奥斯卡金像奖、金球獎多个奖项；丹尼爾·戴-路易斯的演出普獲好評，贏得2002年度多項最佳演員獎。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1025603",
+              "url": "https://zh.wikipedia.org/?curid=1025603",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Gangs of New York is a 2002 epic historical drama film directed by Martin Scorsese and written by Jay Cocks, Steven Zaillian, and Kenneth Lonergan, based on Herbert Asbury's 1928 book The Gangs of New York. The film stars Leonardo DiCaprio, Daniel Day-Lewis, and Cameron Diaz, along with Jim Broadbent, John C. Reilly, Henry Thomas and Brendan Gleeson in supporting roles. The film also marks the start of a collaboration between DiCaprio and Scorsese. The film is set from 1846 to 1863 when a long-running Catholic–Protestant feud erupts into violence, just as an Irish immigrant group is protesting the threat of conscription during the Civil War. Scorsese spent 20 years developing the project until Miramax Films acquired it in 1999. Principal photography took place in Cinecittà Studios in…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "188902",
+              "url": "https://en.wikipedia.org/?curid=188902",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Gangs of New York, ou Les Gangs de New York au Québec, est un film américano-italien réalisé par Martin Scorsese et sorti en 2002. Il s'agit d'une adaptation cinématographique de l'ouvrage non fictionnel The Gangs of New York: An Informal History of the Underworld de Herbert Asbury publié en 1927. Projet de longue date du réalisateur, le film est globalement bien accueilli par la presse et réalise de bonnes performances au box-office. Le film est notamment récompensé par le Golden Globe du meilleur réalisateur pour Martin Scorsese et le British Academy Film Award du meilleur acteur pour Daniel Day-Lewis.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "85273",
+              "url": "https://fr.wikipedia.org/?curid=85273",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt0091605",
@@ -2450,7 +3656,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《薔薇的記號》（英語：The Name of the Rose）是一部1986年意大利、法國與德國合拍的懸疑電影，由让-雅克·阿诺執導，改編自翁貝托·埃可的小說《玫瑰的名字》。辛·康納利飾演方濟各會修士巴斯克維爾的威廉，而克利斯汀·史萊特飾演徒弟梅爾克的阿德索（Adso of Melk），被要求在中世紀的修道院中解開一個致命的謎團。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "6208265",
+              "url": "https://zh.wikipedia.org/?curid=6208265",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "The Name of the Rose is a 1986 historical mystery film directed by Jean-Jacques Annaud, based on the 1980 novel of the same title by Umberto Eco. Sean Connery stars as the Franciscan friar William of Baskerville, called upon to solve a deadly mystery in a medieval abbey. Christian Slater portrays his young apprentice, Adso of Melk, and F. Murray Abraham his Inquisitor rival, Bernardo Gui. Michael Lonsdale, William Hickey, Feodor Chaliapin Jr., Valentina Vargas, and Ron Perlman play supporting roles. This English-language film was an international co-production between West German, French, and Italian companies and was filmed in Rome and at the former Eberbach Abbey in the Rheingau. It received mixed to positive reviews from critics and won several awards, including the BAFTA Award for…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "5788437",
+              "url": "https://en.wikipedia.org/?curid=5788437",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Le Nom de la rose est une coproduction internationale ouest-germano-italo-français réalisé par Jean-Jacques Annaud et sorti en 1986. C'est l'adaptation du roman de l'écrivain Umberto Eco, paru en 1980. Dans le rôle de Guillaume de Baskerville, ce polar médiéval met en vedette Sean Connery. Le film remporte, en 1987, le César du meilleur film étranger et en 2024, une version restaurée en 4K sort sur les écrans français. Le film raconte l'enquête menée en 1327 par le frère franciscain Guillaume de Baskerville, ancien inquisiteur, qui, assisté d'un novice bénédictin, Adso de Melk, est désigné pour « inspecter » l'abbaye bénédictine d'Italie du Nord avant une rencontre de conciliation entre une délégation du pape et les représentants des frères mineurs. Tous deux vont assister à une série de…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "67613",
+              "url": "https://fr.wikipedia.org/?curid=67613",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt1149362",
@@ -2515,7 +3759,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《白色緞帶》（德語：Das weiße Band – Eine deutsche Kindergeschichte）是一部2009年奥地利、德国、法国、義大利聯合製作的电影，由迈克尔·哈内克编剧和导演。故事敘述發生在第一次世界大战之前不久德国北部一个村庄的儿童唱诗班。漢内克说，这部电影是关于“每一种类型的恐怖主义的起源，无论是政治性的或宗教性的。”2009年5月在第62屆坎城影展上获得金棕櫚獎。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "1055579",
+              "url": "https://zh.wikipedia.org/?curid=1055579",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "The White Ribbon (German: Das Weiße Band - Eine Deutsche Kindergeschichte, lit. 'The White Ribbon - A German Children's Story') is a 2009 German mystery drama film written and directed by Michael Haneke. Released in black-and-white, the film offers a dark depiction of society and family in an eastern German village just before World War I. According to Haneke, The White Ribbon \"is about the roots of evil. Whether it's religious or political terrorism, it's the same thing.\" The film premiered at the 2009 Cannes Film Festival where it won the Palme d'Or, followed by largely positive reviews and several other major awards, including the 2010 Golden Globe Award for Best Foreign Language Film. The film also received two nominations at the 82nd Academy Awards in 2009: Best Foreign Language Film…",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "22465833",
+              "url": "https://en.wikipedia.org/?curid=22465833",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "Le Ruban blanc (titre original en allemand : Das weiße Band), sous-titré Eine deutsche Kindergeschichte (signifiant en français « Une histoire allemande d'enfants »), est un film franco-germano-italo-autrichien réalisé par Michael Haneke, sorti en 2009. Il est lauréat de la Palme d'or lors du Festival de Cannes 2009.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3801608",
+              "url": "https://fr.wikipedia.org/?curid=3801608",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       },
       {
         "id": "imdb-tt1059786",
@@ -2585,7 +3867,45 @@
           }
         ],
         "details": {},
-        "editorialStatus": "imported"
+        "editorialStatus": "imported",
+        "introductions": [
+          {
+            "language": "zh",
+            "text": "《鹰眼》（英語：Eagle Eye，香港译《鹰眼追击》，台湾译《鹰眼》）是一部於2008年的美國動作驚悚電影，由D·J·克魯索執導，西亞·李畢福、蜜雪兒·摩納漢和比利·鮑伯·松頓主演。劇情講述兩名互不相干的人，突然被捲入一場國際恐怖攻擊陰謀，他們得先取得彼此信任，找出掌控事件的幕後主使。 影片分級MPAA評級為PG-13，北美於2008年9月26日首映，將以一般35mm與IMAX戲院上映。",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "897988",
+              "url": "https://zh.wikipedia.org/?curid=897988",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "en",
+            "text": "Eagle Eye is a 2008 American action thriller film directed by D. J. Caruso from a screenplay by John Glenn, Travis Adam Wright, Hillary Seitz and Dan McDermott. The film stars Shia LaBeouf, Michelle Monaghan, Rosario Dawson, Michael Chiklis, Anthony Mackie, and Billy Bob Thornton. Its plot follows two strangers who are forced to go on the run together after receiving a mysterious phone call from an unknown woman who uses information and communications technology to track their every move. Eagle Eye was released in the United States on September 26, 2008. Despite receiving mixed-to-negative reviews from critics, the film grossed $178 million worldwide against an $80 million production budget.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "14090644",
+              "url": "https://en.wikipedia.org/?curid=14090644",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          },
+          {
+            "language": "fr",
+            "text": "L'Œil du mal (Eagle Eye) est un thriller américain réalisé par D. J. Caruso, sorti en 2008.",
+            "source": {
+              "provider": "Wikipedia",
+              "externalId": "3335058",
+              "url": "https://fr.wikipedia.org/?curid=3335058",
+              "checkedAt": "2026-10-22T12:40:43.094Z"
+            },
+            "license": "CC BY-SA 4.0",
+            "excerpt": true
+          }
+        ]
       }
     ],
     "people": [

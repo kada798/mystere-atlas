@@ -8,6 +8,7 @@ import { importParisEvents } from '../src/features/ingestion/providers/paris';
 import { importOpenLibrary } from '../src/features/ingestion/providers/openlibrary';
 import { importWikidata } from '../src/features/ingestion/providers/wikidata';
 import { importImdb } from '../src/features/ingestion/providers/imdb';
+import { enrichCatalog } from '../src/features/ingestion/enrich.server';
 import type { SourceId, SourceStatus } from '../src/features/ingestion/types';
 
 async function synchronize() {
@@ -66,7 +67,20 @@ async function synchronize() {
     if (selectedSource && selectedSource !== id) continue;
     await run(id, async () => {
       const next = await importer(checkedAt);
-      data.catalog = mergeCatalog(data.catalog, next);
+      const existing = new Set(
+        data.catalog.works
+          .filter((work) => work.introductions?.length)
+          .map((work) => work.id),
+      );
+      const candidates = {
+        ...next,
+        works:
+          id === 'imdb'
+            ? []
+            : next.works.filter((work) => !existing.has(work.id)),
+      };
+      const enriched = await enrichCatalog(candidates);
+      data.catalog = mergeCatalog(data.catalog, mergeCatalog(next, enriched));
       return next.works.length;
     });
   }

@@ -27,7 +27,9 @@ export async function SiteHeader() {
       </nav>
       <Suspense
         fallback={
-          <span className="language-switcher">中文 · English · Français</span>
+          <span className="language-switcher" aria-hidden="true">
+            ◉ ⌄
+          </span>
         }
       >
         <LanguageSwitcher />

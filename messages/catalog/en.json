@@ -139,6 +139,15 @@
     "sequel": "Sequel"
   },
   "detail": {
+    "introduction": "About the story",
+    "introductionMissing": "An introduction is not available yet. Explore the sources below to learn more.",
+    "originalText": "Original text: {language}",
+    "unspecifiedLanguage": "Language unspecified",
+    "excerptFrom": "Excerpt from",
+    "adaptedFrom": "Adapted from",
+    "coverAlt": "Cover or poster for {title}",
+    "coverMissing": "Cover not available",
+    "versionCount": "{count, plural, one {# recorded edition} other {# recorded editions}}",
     "about": "Work information",
     "originalLanguage": "Original language",
     "names": "Titles and alternative names",
