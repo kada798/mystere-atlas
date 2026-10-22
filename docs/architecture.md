@@ -18,7 +18,7 @@ Supabase 是后续数据库、认证与存储的候选方案；本次没有创�
 
 GitHub 的日常 CI 与手动 Release 分开。发布时选择性启用 Next.js standalone，在 Linux 上打包并测试实际运行目录；数据与密钥不进入版本包。Sites 的公开演示部署使用独立适配副本，见 `docs/github-release.md` 与 `docs/deployment.md`。
 
-GitHub Pages 演示站使用 `scripts/prepare-pages-demo.mjs` 生成独立前台源码副本：资料为显式公开快照，查询在浏览器执行，详情在构建时生成，不复制采集后台、凭据或私人内容。发布通过原生 Pages Actions，构建输出不提交 Git。当前套餐不支持私有仓库 Pages，发布仓库的可见性需由用户决定。详见 `docs/github-deploy.md`。
+GitHub Pages 在公开的主仓库运行 `.github/workflows/pages.yml`，通过 `scripts/prepare-pages-demo.mjs` 生成静态前台：资料来自提交的 `deployment/public-snapshot.json`，查询在浏览器执行，详情在构建时生成，不复制采集后台、凭据或私人内容。IMDb 下载数据保留在本机，不进入公开快照。发布通过原生 Pages Actions，构建输出不提交 Git。详见 `docs/github-deploy.md`。
 
 ## 后续数据关系
 

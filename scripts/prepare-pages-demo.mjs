@@ -5,13 +5,18 @@ const root = fileURLToPath(new URL('../', import.meta.url));
 const target = path.join(root, 'tmp', 'pages-demo');
 const basePath =
   process.argv.find((v) => v.startsWith('--base-path='))?.slice(12) ??
-  '/mystere-atlas-demo';
+  '/mystere-atlas';
+const snapshotPath = path.resolve(
+  root,
+  process.argv.find((v) => v.startsWith('--snapshot='))?.slice(11) ??
+    'deployment/public-snapshot.json',
+);
 if (basePath && !/^\/[a-z0-9][a-z0-9-]*$/.test(basePath))
   throw new Error('Expected one repository path');
 if (path.relative(root, target) !== path.join('tmp', 'pages-demo'))
   throw new Error('Unexpected demo directory');
 await mkdir(target, { recursive: true });
-// Recreate only the generated frontend; preserve the independent Git history.
+// Recreate only the generated frontend; keep installed dependencies for local checks.
 await rm(path.join(target, 'src'), { recursive: true, force: true });
 const put = async (file, text) => {
   await mkdir(path.dirname(path.join(target, file)), { recursive: true });
@@ -57,9 +62,7 @@ await writeFile(
     ),
 );
 await rm(path.join(target, 'src/components/debug-panel.tsx'), { force: true });
-const raw = JSON.parse(
-  await readFile(path.join(root, '.data/snapshot.json'), 'utf8'),
-);
+const raw = JSON.parse(await readFile(snapshotPath, 'utf8'));
 const snapshot = {
   version: 1,
   catalog: raw.catalog,
@@ -274,12 +277,7 @@ await put(
 );
 await put(
   'DATA-SOURCES.md',
-  `# Public reference data\n\nSnapshot: ${date}. This is a static demonstration; it does not run a live crawler or authenticate users. Records retain source URLs and dates.\n\n- Paris Open Data: https://opendata.paris.fr/explore/dataset/que-faire-a-paris-/ — ODbL. Keyword-discovered candidates are restricted to Paris city postcodes. Confirm sessions and bookings with organizers.\n- Open Library: https://openlibrary.org/dev/docs/api/search — book and actual edition metadata.\n- Wikidata: https://www.wikidata.org/wiki/Wikidata:Data_access — CC0 multilingual metadata and linked site identifiers.\n- IMDb: https://data.imdb.com/non-commercial-datasets/ — bounded Mystery title metadata for personal and noncommercial use. No user reviews or ratings are collected.\n\nDouban and Letterboxd links use Wikidata identifiers; they are not direct imports. Meetup is an external search link, not an automated import.\n\nMaps use Leaflet and OpenStreetMap tiles with visible attribution. No user geolocation is requested.\n`,
-);
-await mkdir(path.join(target, '.github/workflows'), { recursive: true });
-await cp(
-  path.join(root, 'deployment/pages.yml'),
-  path.join(target, '.github/workflows/pages.yml'),
+  `# Public reference data\n\nSnapshot: ${date}. This is a static demonstration; it does not run a live crawler or authenticate users. Records retain source URLs and dates.\n\n- Paris Open Data: https://opendata.paris.fr/explore/dataset/que-faire-a-paris-/ — ODbL. Keyword-discovered candidates are restricted to Paris city postcodes. Confirm sessions and bookings with organizers.\n- Open Library: https://openlibrary.org/dev/docs/api/search — book and actual edition metadata.\n- Wikidata: https://www.wikidata.org/wiki/Wikidata:Data_access — CC0 multilingual metadata and linked site identifiers.\n- IMDb dataset records are excluded from this public snapshot. IMDb links on Wikidata records are external references only. No user reviews or ratings are collected.\n\nDouban and Letterboxd links use Wikidata identifiers; they are not direct imports. Meetup is an external search link, not an automated import.\n\nMaps use Leaflet and OpenStreetMap tiles with visible attribution. No user geolocation is requested.\n`,
 );
 console.log(
   JSON.stringify({

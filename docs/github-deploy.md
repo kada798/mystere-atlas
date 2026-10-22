@@ -1,33 +1,39 @@
 # GitHub Pages 网站部署
 
-用户选择使用 github.io，不再采用 Vercel 方案。主应用继续是 Next.js；演示站使用独立静态导出，搜索和筛选在浏览器运行，所有收录作品详情提前生成。账号、发帖和站内报名尚未开放。
+发布仓库是公开的 [kada798/mystere-atlas](https://github.com/kada798/mystere-atlas)，Pages 构建来源为 GitHub Actions。网址由 GitHub 返回为 `https://kada798.github.io/mystere-atlas/`；首页根据浏览器语言进入中文、英文或法文。
 
-GitHub 已对当前私有仓库返回：Your current plan does not support GitHub Pages for this repository. 不会未经用户选择就改变主仓库可见性。可选路径是单独公开演示代码仓库、公开主仓库，或升级支持私有 Pages 的套餐。
+## 发布步骤
 
-## 生成静态演示源码
+1. 将通过 CI 的 PR 合并到 main。
+2. 打开 Actions → **Deploy GitHub Pages** → **Run workflow**，选择 main。
+3. 工作流安装锁定依赖并检查主应用，生成静态前台，检查和构建后上传 Pages artifact，最后通过原生 Pages 部署。
+4. 查看部署作业返回的地址，确认匿名访问、三语、筛选、详情和地图正常。
 
-在主项目运行：
+工作流在 `.github/workflows/pages.yml`，只接受 main 手动发布。权限使用当前作业的 GitHub 令牌与 OIDC，不需要第三方托管账号或长期发布令牌。构建输出不提交 Git。
+
+## 本机检查静态版本
 
 ```powershell
-node scripts/prepare-pages-demo.mjs --base-path=/mystere-atlas-demo
+node scripts/prepare-pages-demo.mjs --base-path=/mystere-atlas
+Set-Location tmp/pages-demo
+npm ci
+npm run check
+npm run build
 ```
 
-`tmp/pages-demo` 是独立的演示源码副本，不包括原 Git 历史、凭据、环境文件、采集任务或未来后台。复制内容限定为前台组件、纯查询规则、三语文案及带来源日期的公开资料。
+生成的 `tmp/pages-demo/out/` 是纯静态站。路径前缀 `/mystere-atlas` 对应仓库名称；更改仓库名称时同步更改工作流参数。主项目仍使用 Next.js 服务端模式开发，不影响 VS Code 调试。
 
-在该目录运行 `npm ci`、`npm run check`、`npm run build`，生成忽略的 `out/`。输出目录不提交 Git。
+## 数据与功能边界
 
-## 在 GitHub 发布
+`deployment/public-snapshot.json` 是带来源与日期的公开参考资料，包含 Open Library、Wikidata 和巴黎开放数据。来源归属及授权见同目录的 `DATA-SOURCES.md`。本机 `.data/` 不提交，IMDb 下载记录不进入公开快照。
 
-发布仓库使用 `deployment/pages.yml` 所示的 **Deploy GitHub Pages** 工作流。它只手动触发：安装锁定依赖 → 检查类型 → 静态构建 → 上传 Pages artifact → 原生 Pages 部署。无须 Vercel 令牌或第三方托管账号。
+静态站不运行服务端或定时采集。更新资料时，从采集结果中审查可公开的记录，更新公开快照，经 PR 检查并合并后重新运行发布。当前快照不是实时活动列表，场次与报名以原主办方为准。
 
-发布前，确认仓库已启用 Pages，构建来源为 GitHub Actions。选择 main 运行工作流；成功后使用 GitHub 实际返回的 page_url，并验证未登录访问、三语、作品筛选、详情与巴黎地图。不能把预想地址当作已经部署成功。
+搜索、筛选和地图在浏览器运行，所有收录作品详情提前生成。账号、发帖和站内报名尚未开放。
 
-静态站不运行服务器或定时采集。更新资料或界面后，从主项目重新生成演示源码，再提交演示源码并手动部署。来源日期保留，活动以主办方场次为准。
-
-Release 仍负责原应用版本包，与 Pages 网站部署是两个独立流程。原 chatgpt.site 链接在新站验收前保留。
+Release 负责原应用版本包，与 Pages 网站部署是两个独立流程。原 chatgpt.site 部署在新站验收前保留，后续不再作为简历主链接。
 
 ## 参考
 
-- [GitHub Pages 套餐与托管范围](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
-- [Actions 发布 Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
+- [GitHub Actions 发布 Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
 - [Next.js 静态导出](https://nextjs.org/docs/app/guides/static-exports)
